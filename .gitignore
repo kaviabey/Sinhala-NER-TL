@@ -1,0 +1,49 @@
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage
+.coverage
+*.cover
+
+# Python environment files
+*.env
+*.env.local
+*.env.*.local
+
+# Logs
+*.log
+
+# Miscellaneous
+*.DS_Store
+*.zip
+*.tar.gz
+*.tgz
+*.gz
+*.bak
+*.tmp
+*.tmp.*
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.parquet
