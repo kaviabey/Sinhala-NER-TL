@@ -1,0 +1,9096 @@
+ජනාධිපති	NNC	O
+එම්බකි	NNP	B-PER
+දෙවනි	NNC	O
+හා	CC	O
+අවසාන	JJ	O
+වරට	NNC	O
+ජනාධිපති	NNC	O
+ධූරය	NNC	O
+දරමින්	VNF	O
+සිටින	VP	O
+අතර	POST	O
+පක්ෂයෙන්	NNC	O
+නිකුත්	RPCV	O
+නිවේදනයක	NNC	O
+දැක්වෙන්නේ	VP	O
+තීරණාත්මක	JJ	O
+ජන	JJ	O
+වරමක්	NNC	O
+ලැබී	VNF	O
+ඇති	NIP	O
+අතර	POST	O
+අනුව	POST	O
+දිළිඳුකමට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+සටන්	NCV	O
+වැදීමට	VNN	O
+හා	CC	O
+රැකියා	NNC	O
+මැවීමට	VNN	O
+කටයුතු	NCV	O
+කළ	VP	O
+යුතු	AUX	O
+ව	RP	O
+ඇති	NIP	O
+බව	POST	O
+ය	RP	O
+.	FS	O
+ඉකුත්	JJ	O
+දස	NUM	O
+වස	NNC	O
+තුළ	POST	O
+ජාතික	JJ	B-ORG
+කොංග්‍රස්	NNJ	I-ORG
+පක්ෂයේ	NNC	I-ORG
+ක්‍රියාදාමය	NNC	O
+ජනතාව	NNC	O
+විශාල	JJ	O
+වශයෙන්	POST	O
+අනුමත	JCV	O
+කර	VNF	O
+ඇති	NIP	O
+බව	POST	O
+ද	RP	O
+ඉන්	PRP	O
+කියැවිණ	VFM	O
+.	FS	O
+මේ	DET	O
+අතර	POST	O
+ප්‍රජාතන්ත්‍රවාදී	JJ	B-ORG
+පෙරමුණේ	NNC	I-ORG
+නායක	NNC	O
+ටෝනි	NNP	B-PER
+ලියොන්	NNP	I-PER
+පවසන්නේ	VP	O
+ඔවුන්	PRP	O
+සුදු	JJ	O
+ජාතික	JJ	O
+පක්ෂයක්	NNC	O
+ලෙස	POST	O
+ගැසී	VNF	O
+ඇති	NIP	O
+හංවඩුවෙන්	NNC	O
+වියුක්ත	JCV	O
+වීමට	VNN	O
+කටයුතු	NCV	O
+කරන	VP	O
+බවත්	POST	O
+මෙවරත්	NNC	O
+කලු	JJ	O
+ජාතිකයන්	NNC	O
+විශාල	JJ	O
+වශයෙන්	POST	O
+ඔවුනට	PRP	O
+කැමැත්ත	NNC	O
+ප්‍රකාශ	NCV	O
+කැර	VNF	O
+ඇති	NIP	O
+බවත්ය	NVB	O
+.	FS	O
+කොංග්‍රසය	NNP	B-ORG
+ලබා	VNF	O
+ඇති	NIP	O
+බලය	NNC	O
+අනුව	POST	O
+තෙවැනි	JJ	O
+වරටත්	NNC	O
+ජනාධිපති	NNC	O
+ධූරය	NNC	O
+දැරිය	VP	O
+හැකි	AUX	O
+වන	VP	O
+සේ	POST	O
+එම්බකි	NNP	B-PER
+ව්‍යවස්ථාව	NNC	O
+වෙනස්	JCV	O
+කරනු	VP	O
+ඇතැයි	NIP	O
+ද	RP	O
+ඔහු	PRP	O
+සැක	NNC	O
+පහල	JCV	O
+කැර	VNF	O
+තිබේ	VFM	O
+.	FS	O
+දකුණු	NNP	B-LOC
+කොරියානු	NNP	I-LOC
+මහ	JJ	O
+මැතිවරණයෙන්	NNC	O
+යූරි	NNP	B-ORG
+පක්ෂයට	NNC	I-ORG
+ජය	NNC	O
+සියෝල්හි	NNP	B-LOC
+දී	RP	O
+දකුණු	NNP	B-LOC
+කොරියානු	NNP	I-LOC
+මහ	JJ	O
+මැතිවරණය	NNC	O
+පෙරේදා	NNC	O
+පැවති	VP	O
+අතර	POST	O
+මෙතෙක්	RB	O
+පාර්ලිමේන්තුවේ	NNC	O
+පැවති	VP	O
+කොන්සර්වැටිව්	NNP	O
+බලය	NNC	O
+පළමු	JJ	O
+වරට	NNC	O
+ලිබරල්වාදීන්	NNP	O
+අතට	NNC	O
+පත්	RRPCV	O
+කැරෙන	VP	O
+අයුරින්	NNC	O
+යුරි	NNP	B-ORG
+පක්ෂය	NNC	I-ORG
+ආසන	NNC	O
+299	NUM	O
+න්	RP	O
+152	NUM	O
+ක්	RP	O
+ම	RP	O
+ජයග්‍රහණය	NCV	O
+කැර	VNF	O
+තිබේ	VFM	O
+.	FS	O
+යුරි	NNP	B-ORG
+පක්ෂය	NNC	I-ORG
+,	PUNC	O
+දෝෂාභියෝගයකට	NNC	O
+ලක්	RRPCV	O
+ව	VNF	O
+ව්‍යවස්ථාදායක	JJ	O
+අධිකරණ	NNJ	O
+තීන්දුවක්	NNC	O
+ලැබෙන	VP	O
+තුරු	POST	O
+ධූරය	NNC	O
+අත්හිටුවී	VP	O
+ඇති	NIP	O
+ජනාධිපති	NNC	O
+රෝමු	NNP	B-PER
+හියුන්ට	NNP	I-PER
+සහාය	NNC	O
+පල	RRPCV	O
+කරන	VP	O
+පක්ෂයකි	NVB	O
+.	FS	O
+මෙම	DET	O
+බල	NNJ	O
+මාරුව	NNC	O
+පරපුරක	JJ	O
+බල	NNJ	O
+මාරුවක්	NNC	O
+ලෙස	POST	O
+පුවත්පත්	NNC	O
+මගින්	POST	O
+දැක්	RRPCV	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+නව	JJ	O
+පාර්ලිමේන්තුව	NNC	O
+ජුනි	NNP	O
+මස	NNC	O
+රැස්	RPCV	O
+වීමට	VNN	O
+නියමිත	RB	O
+ය	RP	O
+.	FS	O
+යුරි	NNP	B-ORG
+පක්ෂයේ	NNC	I-ORG
+බලයත්	NNC	O
+සමග	POST	O
+.	FS	O
+කොරියානු	NNP	B-LOC
+ආර්ථිකයේ	NNC	O
+වෙනස්කම්	NNC	O
+ඇති	NIP	O
+වනු	VP	O
+ඇතැයි	NIP	O
+පැවසී	VNF	O
+තිබේ	VFM	O
+.	FS	O
+රෝ-මූ	NNP	B-PER
+හියුන්	NNP	I-PER
+පාක්ෂෂික	JJ	O
+යුරි	NNP	B-ORG
+පක්ෂයට	NNC	I-ORG
+මෙසේ	RB	O
+මැතිවරණයෙන්	NNC	O
+විශිෂ්ට	JJ	O
+ජයක්	NNC	O
+අත්	RRPCV	O
+වීම	VNN	O
+ජනාධිපතිට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+දෝෂාභියෝගය	NNC	O
+පිළිබඳ	POST	O
+අධිකරණ	NNJ	O
+තීන්දුවට	NNC	O
+ද	RP	O
+බලපානු	VP	O
+ඇතැයි	NIP	O
+සැලකී	VNF	O
+ඇත	NIP	O
+.	FS	O
+එහෙත්	CC	O
+දෝෂාභියෝගය	NNC	O
+යළි	RB	O
+කටුගා	VNF	O
+දැමීමට	VNN	O
+ඉදිරිපත්	RPCV	O
+ව	VNF	O
+ඇති	NIP	O
+යෝජනා	NNJ	O
+විපක්ෂයෙන්	NNC	O
+ප්‍රතික්ෂේප	NCV	O
+කැරී	VNF	O
+තිබේ	VFM	O
+.	FS	O
+දැන්	RB	O
+සියල්ලෝ	DET	O
+ම	RP	O
+අධිකරණ	NNJ	O
+තීන්දුව	NNC	O
+ලබා	VNF	O
+දෙන	VP	O
+තෙක්	POST	O
+බලා	VNF	O
+සිටිති	VFM	O
+.	FS	O
+බින්	NNP	B-PER
+ලාඩන්	NNP	I-PER
+සටන්	NNJ	O
+විරාම	NNC	O
+ප්‍රතික්ෂේප	NCV	O
+කරන්නේ	VP	O
+නම්	POST	O
+අනුගාමිකයන්ගේ	NNC	O
+ප්‍රහාරවලට	NNC	O
+අදාළ	POST	O
+රටවල්	NNC	O
+ලක්	RRPCV	O
+විය	VP	O
+හැකි	AUX	O
+යි	RP	O
+වොෂින්ටනයේ	NNP	B-LOC
+දී	RP	O
+යුරෝපියානු	NNP	B-LOC
+රටවල්	NNC	O
+සමග	POST	O
+සටන්	NNJ	O
+විරාමයකට	NNC	O
+එළඹි	VNF	O
+මේ	DET	O
+යෝජනාවක්	NNC	O
+ඉදිරිපත්	RPCV	O
+කැර	VNF	O
+ඇති	NIP	O
+අල්	NNP	B-ORG
+කයිඩා	NNP	I-ORG
+නායක	NNC	O
+බින්	NNP	B-PER
+ලාඩන්	NNP	I-PER
+සටන්	NNJ	O
+විරාමය	NNC	O
+ප්‍රතිකේෂ්ප	NCV	O
+කරන්නේ	VP	O
+නම්	POST	O
+සිය	PRP	O
+අනුගාමිකයන්ගේ	NNC	O
+ප්‍රහාරයන්ට	NNC	O
+අදාළ	POST	O
+රටවල්	NNC	O
+ලක්	RRPCV	O
+විය	VP	O
+හැකි	AUX	O
+බවට	POST	O
+අනතුරු	NCV	O
+අඟවා	VNF	O
+තිබේ	VFM	O
+.	FS	O
+අරාබි	NNP	B-LOC
+රූපවාහිනී	NNJ	O
+නාලිකාවන්ගෙන්	NNC	O
+විකාශිත	VP	O
+හඬපටියකින්	NNC	O
+මේ	DET	O
+බව	POST	O
+ඔහු	PRP	O
+ප්‍රකාශ	NCV	O
+කැර	VNF	O
+ඇති	NIP	O
+අතර	POST	O
+එම	DET	O
+හඬ	NNC	O
+ඔහුගේ	PRP	O
+විය	VP	O
+හැකි	AUX	O
+බව	POST	O
+සී.	ABB	B-ORG
+අයි.	ABB	I-ORG
+ඒ.	ABB	I-ORG
+ආයතනය	NNC	I-ORG
+තහවුරු	JCV	O
+කැර	VNF	O
+ඇත	NIP	O
+.	FS	O
+යුරෝපා	NNP	B-LOC
+රටවල	NNC	O
+මුස්ලිම්වරුන්ට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+ප්‍රහාර	NNC	O
+එල්ල	NCV	O
+නොකරන්නේ	VP	O
+නම්	POST	O
+මෙම	DET	O
+සටන්	NNJ	O
+විරාමය	NNC	O
+වලංගු	JCV	O
+වන	VP	O
+බව	POST	O
+පවසමින්	VNF	O
+ඒ	DET	O
+සඳහා	POST	O
+තෙමසක	JJ	O
+කාලයක්	NNC	O
+ලබා	VNF	O
+දෙන	VP	O
+බව	POST	O
+ද	RP	O
+පවසන	VP	O
+බින්	NNP	B-PER
+ලාඩන්	NNP	I-PER
+,	PUNC	O
+පලස්තීනයේ	NNP	B-LOC
+හමාස්	NNP	B-ORG
+නායක	NNC	O
+ෂීක්	NNP	B-PER
+අහමඩ්	NNP	I-PER
+යසින්	NNP	I-PER
+ඝාතනය	NNC	O
+සම්බන්ධයෙන්	POST	O
+අමෙරිකාවෙන්	NNP	B-LOC
+හා	CC	O
+ඊශ්‍රායලයෙන්	NNP	B-LOC
+පලි	RRPCV	O
+ගන්නා	VP	O
+බවට	POST	O
+සපථ	JCV	O
+කොට	VNF	O
+ඇත	NIP	O
+.	FS	O
+"			PUNC
+අපේ		PRP
+භූමියෙන්	NNC
+අවසන්		JJ
+සෙබලා		NNC
+ඉවත්		RRPCV
+වීමත්		VNN
+සමඟ		POST
+සටන්		NNJ
+විරාමය	NNC
+ප්‍රකාශයට	NNC
+පත්		RRPCV
+කැරෙනවා	VFM
+.			FS
+මෙම		DET
+නිවේදනය	NNC
+තෙමසක්	NNC
+යන			VP
+තුරු		POST
+ඊට			PRP
+දොර		NNC
+විවර		JCV
+ව			VNF
+තිබෙනවා	VFM
+"	PUNC	O
+යැයි	CC	O
+හඬ	NNC	O
+පටියෙන්	NNC	O
+කියැවිණ	VFM	O
+.	FS	O
+ඔහුගේ	PRP	O
+අනතුරු	NNC	O
+ඇඟ	NNC	O
+වීම	VNN	O
+ගැන	POST	O
+පල	RRPCV	O
+වී	VNF	O
+ඇති	NIP	O
+මතවලට	NNC	O
+අනුව	POST	O
+දින	NNC	O
+90	NUM	O
+ඉකුත්	JJ	O
+වීමෙන්	VNN	O
+පසු	POST	O
+දැනට	RB	O
+සකස්	RPCV	O
+වෙමින්	VNF	O
+පවතින	VP	O
+සැලසුම්	NNC	O
+ප්‍රකාර	NNC	O
+ඔවුන්	PRP	O
+ප්‍රහාර	NNC	O
+එල්ල	NCV	O
+කරනු	VP	O
+ඇතැයි	NIP	O
+ද	RP	O
+කියැවී	VNF	O
+තිබේ	VFM	O
+.	FS	O
+කෙසේ	RB	O
+වෙතත්	POST	O
+යුරෝපා	NNP	B-LOC
+රටවල්	NNC	O
+කීපයක්	NNC	O
+ම	RP	O
+දැනටමත්	RB	O
+ලාඩන්ගේ	NNP	B-PER
+සටන්	NNJ	O
+විරාමය	NNC	O
+ප්‍රතිකේෂ්ප	NCV	O
+කැර	VNF	O
+ඇත	NIP	O
+.	FS	O
+මහා	JJ	O
+ක්‍රිකට්	NNP	O
+සැණකෙළිය	NNP	O
+මහා	NNP	B-LOC
+බ්‍රිතාන්‍යයේ	NNP	I-LOC
+වෙසෙන	VP	O
+ශ්‍රී	NNP	B-LOC
+ලංකා	NNP	I-LOC
+පාසල්	NNC	B-ORG
+ආදී	POST	I-ORG
+ශිෂ්‍ය	JJ	I-ORG
+සංගම්	NNC	I-ORG
+විසින්	POST	O
+වසරක්	NNC	O
+පාසා	POST	O
+සංවිධානය	NCV	O
+කරනු	VP	O
+ලබන	VP	O
+මහා	JJ	O
+ක්‍රිකට්	NNP	O
+තරගාවලිය	NNC	O
+මෙවර	NNC	O
+ලන්ඩන්හි	NNP	B-LOC
+චෙසික්	NNP	I-LOC
+ප්‍රජා	JJ	I-LOC
+ක්‍රිකට්	NNP	I-LOC
+ක්‍රීඩා	NNJ	I-LOC
+පිටියේ	NNC	I-LOC
+දී	RP	O
+ජුනි	NNP	O
+මස	NNC	O
+20	NUM	O
+වන	VP	O
+දා	NNC	O
+දවස	NNC	O
+මුළුල්ලේ	POST	O
+පැවැත්වීමට	VNN	O
+සියලු	DET	O
+කටයුතු	NNC	O
+සම්පාදනය	NCV	O
+කොට	VNF	O
+හමාරය	VFM	O
+.	FS	O
+ප්‍රථමයෙන්	JJ	O
+ම	RP	O
+1989	NUM	O
+වසරේ	NNC	O
+දී	RP	O
+ආරම්භ	JCV	O
+වූ	VP	O
+මේ	DET	O
+ක්‍රිකට්	NNP	O
+තරගාවලිය	NNC	O
+මෙවර	NNC	O
+පවත්වනු	VP	O
+ලබන්නේ	VP	O
+16	NUM	O
+වන	VP	O
+වතාවට	NNC	O
+වන	VP	O
+අතර	POST	O
+,	PUNC	O
+මේ	DET	O
+වසරේ	NNC	O
+දී	RP	O
+ආදි	JJ	O
+ශිෂ්‍ය	JJ	O
+පාසල්	NNJ	O
+කණ්ඩායම්	NNC	O
+22	NUM	O
+ක්	RP	O
+සහභාගී	RPCV	O
+වන	VP	O
+බව	POST	O
+සංවිධායක	JJ	O
+මණ්ඩලය	NNC	O
+විසින්	POST	O
+මාධ්‍ය	NNC	O
+වලට	CM	O
+පවසා	VNF	O
+ඇත	NIP	O
+.	FS	O
+ආනන්ද	NNP	B-ORG
+,	PUNC	O
+ඉසිපතන	NNP	B-ORG
+,	PUNC	O
+රාජකීය	JJ	B-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+ජෝසප්	NNP	I-ORG
+,	PUNC	O
+ත්‍රිත්ව	NNP	B-ORG
+,	PUNC	O
+තර්ස්ටන්	NNP	B-ORG
+,	PUNC	O
+කොළඹ	NNP	B-LOC
+හින්දු	NNP	B-ORG
+විද්‍යාලය	NNP	I-ORG
+,	PUNC	O
+ධර්මරාජ	NNP	B-ORG
+,	PUNC	O
+ද	RP	B-ORG
+මැසනඩ්	NNP	I-ORG
+,	PUNC	O
+මහින්ද	NNP	B-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+ඇලෝසියස්	NNP	I-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+පීතර	NNP	I-ORG
+,	PUNC	O
+හෝලික්‍රොස්	NNP	B-ORG
+,	PUNC	O
+නාලන්ද	NNP	B-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+අන්තෝනි	NNP	I-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+සෙබස්තියන්	NNP	I-ORG
+,	PUNC	O
+වෙස්ලි	NNP	B-ORG
+,	PUNC	O
+ඩී.	ABB	B-ORG
+එස්.	ABB	I-ORG
+සේනානායක	NNP	I-ORG
+,	PUNC	O
+රිච්මන්ඩ්	NNP	B-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+බෙනඩික්	NNP	I-ORG
+,	PUNC	O
+සාන්ත	NNP	B-ORG
+තෝමස්	NNP	I-ORG
+සහ	CC	O
+සහිරා	NNP	B-ORG
+යන	VP	O
+විද්‍යාලයීය	NNJ	O
+කණ්ඩායම්	NNC	O
+මේ	DET	O
+සඳහා	POST	O
+සහභාගි	RPCV	O
+වීමට	VNN	O
+නියමිතය	NVB	O
+.	FS	O
+ශ්‍රී	NNP	O
+ලාංකිකයන්	NNP	O
+වැඩි	JJ	O
+ම	RP	O
+පිරිසක්	NNC	O
+එංගලන්තයේ	NNP	B-LOC
+දී	RP	O
+රැස්	RRPCV	O
+වන	VP	O
+අවස්ථාවක්	NNC	O
+වන	VP	O
+මේ	DET	O
+සැණකෙළියට	NNC	O
+අවම	JJ	O
+වශයෙන්	POST	O
+5000ට	NUM	O
+අධික	JJ	O
+පිරිසක්	NNC	O
+පසුගිය	VP	O
+වසරේ	NNC	O
+සහභාගී	RRPCV	O
+වී	VNF	O
+තිබිණි	VFM	O
+.	FS	O
+එක්	NUM	O
+පිලකට	NNC	O
+හත්	NUM	O
+දෙනා	NNC	O
+බැගින්	POST	O
+ක්‍රීඩා	NCV	O
+කරන	VP	O
+මේ	DET	O
+තරඟාවලිය	NNC	O
+ඉතාමත්	RP	O
+ම	RP	O
+උණුසුම්	JJ	O
+පරිසරයක්	NNC	O
+නරඹන්නන්ට	NNC	O
+සලසා	VNF	O
+දීම	VNN	O
+තරඟාවලියේ	NNC	O
+ජනප්‍රියත්වයට	NNC	O
+විශේෂ	JJ	O
+හේතුව	NNC	O
+යි	RP	O
+.	FS	O
+ක්‍රිකට්	NNP	O
+තරඟාවලියට	NNC	O
+අමතර	POST	O
+ව	RP	O
+සැබැ	JJ	O
+සැණකෙළි	NNJ	O
+ස්වරූපයක්	NNC	O
+මවන	VP	O
+මේ	DET	O
+උත්සවයේ	NNC	O
+දී	RP	O
+ළමා	JJ	O
+කෙළි	NNJ	O
+සෙල්ලම්වලින්	NNC	O
+ශ්‍රී	NNP	B-LOC
+ලාංකික	NNP	I-LOC
+වෙළෙඳ	JJ	O
+කුටි	NNC	O
+පිරි	VP	O
+පවතී	VFM	O
+.	FS	O
+උත්සවයෙන්	NCV	O
+ලැබෙන	VP	O
+ආදායමෙන්	NNJ	O
+කොටසක්	NNC	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+ජාතික	JJ	B-ORG
+පිළිකා	NNJ	I-ORG
+ආයතනයට	NNC	I-ORG
+පිදෙන	VP	O
+අතර	POST	O
+,	PUNC	O
+ඉතිරිය	NNC	O
+තරඟාවලියට	NNC	O
+සහභාගී	RRPCV	O
+වන	VP	O
+පාසල්වල	NNC	O
+ක්‍රීඩා	NNJ	O
+උන්නතිය	NNC	O
+සඳහා	POST	O
+වියදම්	NCV	O
+කැරෙනු	VP	O
+ඇත	NIP	O
+.	FS	O
+මෙවර	PRP	O
+උත්සවයේ	NNC	O
+ප්‍රධාන	JJ	O
+අනුග්‍රාහකත්වය	NNC	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+ජාත්‍යන්තර	JJ	B-ORG
+ට්‍රයිස්ටාර්	NNP	I-ORG
+ඇපරල්	NNP	I-ORG
+සමාගමේ	NNJ	I-ORG
+අධිපති	NNC	O
+දේශබන්දු	NNP	O
+කුමාර්	NNP	B-PER
+දේවපුර	NNP	I-PER
+මහතාගෙන්	NNC	O
+සහ	CC	O
+මහා	JJ	O
+බ්‍රිතාන්‍යයේ	NNP	B-LOC
+ජනප්‍රිය	JJ	O
+නීතිඥ	JJ	O
+ආයතනයක්	NNC	O
+වන	VP	O
+"			PUNC
+එඩ්මන්ඩ්	NNP
+සොලිසිටර්ස්	NNP
+ලන්ඩන්	NNP
+ආයතනයේ	NNC
+අධිපති	NNC
+එඩ්මන්ඩ්	NNP
+වික්‍රමපතිරණ	NNP
+මහතාගෙන්	NNC
+ලැබෙනු	VP
+ඇත			NIP
+.			FS
+දිවැස		NNP
+හෙලනු		VP
+මැන		VNF
+සහ			CC
+යකඩ		NNP
+පිහාටු	NNC
+ලන්ඩනයේ	NNP
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+අතිශය		JJ
+ජනප්‍රිය	JJ
+වේදිකා	NNJ
+නාට්‍යයක්	NNC
+වන			VP
+රෝලන්ඩ්	NNP
+ඒ.			ABB
+ප්‍රනාන්දුගේ	NNP
+දිවැස		NNP
+හෙළනු		NNP
+මැන		VNF
+නාට්‍ය	NNC
+ලන්ඩනයේ	NNP
+දී			RP
+ජුලි		NNP
+මස			NNC
+10			NUM
+වන			VP
+දා			NNC
+වේදිකා	NNJ
+ගත			VP
+වීමට		VNN
+නියමිතය	NVB
+.			FS
+නැඟෙනහිර	NNP
+ලන්ඩන්	NNP
+බෞද්ධ		NNP
+සංස්කෘතික	JJ
+මධ්‍යස්ථානය	NNC
+වන			VP
+ලුම්බිණි	NNP
+විහාර		NNP
+අරමුදලට	NNC
+ආධාර		NNC
+පිණිස		POST
+රඟ			NCV
+දැක්වෙන	VP
+මේ			DET
+නාට්‍යයට	NNC
+එහි		PRP
+මූලික		JJ
+චරිත		NNC
+නිරූපණය	NCV
+කරන		VP
+ජයලත්		NNP
+මනෝරත්න	NNP
+,			PUNC
+ජය			NNC
+ශ්‍රී		NNP
+චන්ද්‍රජිත්	NNP
+,			PUNC
+ලාල්		NNP
+කුලරත්න	NNP
+,			PUNC
+සම්පත්	NNC
+තෙන්නකෝන්	NNP
+හා			CC
+රත්නා		NNP
+ලාලනි		NNP
+යන			VP
+නළු		NNC
+,			PUNC
+නිළියෝ	NNC
+සහභාගි	RRPCV
+වෙති		VFM
+.			FS
+උදයකාන්ත	NNP
+වර්ණසූරියගේ	NNC
+"	PUNC	O
+යකඩ	NNP	O
+පිහාටු	NNC	O
+"			PUNC
+චිත්‍රපටය	NNC
+මහනුවර	NNP
+මහ			JJ
+රෝහලේ		NNC
+වකුගඩු	NNC
+අංශයට		NNC
+ආධාර		NNC
+පිණිස		POST
+මේ			DET
+මස			NNC
+13			NUM
+වන			VP
+දා			NNC
+ලන්ඩනයේ	NNP
+දී			RP
+තිරගත		VP
+වේ			VFM
+.			FS
+අනෝජා		NNP
+වීරසිංහ	NNP
+සහ			CC
+රන්ජන්	NNC
+රාමනායක	NNP
+චරිත		NNP
+නිරූපණය	NCV
+කළ			VP
+මේ			DET
+සිනමා		NNJ
+කෘතියේ	NNC
+රඟපාන		VP
+අනෙකුත්	DET
+ප්‍රධාන	JJ
+නළු		NNC
+නිළියන්	NNC
+වනුයේ		VP
+දිල්හානි	NNC
+හා			CC
+මැණිකේ	NNC
+අත්තනායක	NNP
+ය			RP
+.			FS
+පොසොන්	NNP
+උත්සව		NNJ
+මාලාවක්	NNC
+පොසොන්	NNP
+උත්සව		NNC
+සැමරීම	VNN
+වස්		POST
+උත්සව		NNJ
+මාලා		NNC
+කිහිපයක්	NNC
+පසුගිය	VP
+සතිය		NNC
+මුළුල්ලේ	POST
+එංගලන්තය	NNC
+පුරා		POST
+එහි		PRP
+පිහිටි	VP
+බෞද්ධ		NNP
+මධ්‍යස්ථාන	NNC
+මඟින්		POST
+දියත්		JCV
+කරන		VP
+ලදී		VFM
+.			FS
+ලන්ඩන්	NNP
+බෞද්ධ		NNP
+විහාරයේ	NNC
+දී			RP
+ධම්ම		JJ
+විජය		NNC
+නමින්		POST
+උත්සවයක්	NNC
+පැවැත්විණි	VFM
+.			FS
+දවස		NNC
+පුරා		POST
+ඉතා		RP
+හරවත්		JJ
+දේශණ		NNJ
+ගණනාවකින්	NNC
+මේ			DET
+උත්සවය	NNC
+සමන්විත	POST
+විණි		VFM
+.			FS
+සිංහල		NNP
+හා			CC
+ඉංග්‍රීසි	NNP
+භාෂා		NNJ
+දෙකින්	NUM
+ම			RP
+පැවැත්වුණු	VP
+මේ			DET
+දේශනා		NNC
+පූජ්‍යපාද	JJ
+බෝගොඩ		NNP
+සීලවිමල	NNP
+,			PUNC
+පූජ්‍යපාද	JJ
+ටී.			NNC
+බන්දුල	NNP
+,			PUNC
+පූජ්‍යපාද	JJ
+බොරලැස්ගමුවේ	NNP
+පේමරතන	NNP
+,			PUNC
+පූජ්‍යපාද	JJ
+ආචාර්ය	NNC
+දීගල්ලේ	NNP
+මහින්ද	NNP
+,			PUNC
+පූජ්‍යපාද	JJ
+ලොද්රෝ	NNP
+නයා		NNC
+සහ			CC
+ආචාර්ය	JJ
+උපාලි		NNP
+අබේසිරි	NNP
+,			PUNC
+පණ්ඩිත්	NNP
+විල්ඔය	NNP
+විමලජෝති	NNP
+යන			VP
+හිමිවරුන්	NNC
+විසින්	POST
+පවත්වන	VP
+ලදී		VFM
+.			FS
+ලෙච්වර්ග්	NNP
+බෞද්ධ		NNP
+මධ්‍යස්ථානයේදී	NNC
+ද			RP
+පසුගිය	VP
+ජුනි		NNP
+6			NUM
+වන			VP
+දා			NNC
+දවස		NNC
+මුළුල්ලේ	POST
+ම			RP
+පින්කම්	NNC
+මාලාවක්	NNC
+පැවැත්විණි	VFM
+.			FS
+විහාරාධිපති	NNC
+නාහැල්ලේ	NNP
+රාහුල		NNP
+හිමියන්ගේ	NNC
+ප්‍රධානත්වයෙන්	RB
+පැවැති	VP
+මේ			DET
+උත්සවයට	NNC
+ද			RP
+පළාත්වාසී	NNC
+විශාල		JJ
+පිරිසක්	NNC
+සහභාගී	RRPCV
+වී			VNF
+තිබිණි	VFM
+.			FS
+භක්ති		JJ
+ගී			NNJ
+ප්‍රසංගයක්	NNC
+සහ			CC
+පොසොන්	NNP
+මහා		JJ
+බත්		NNC
+දන්සලක්	NNC
+ලන්ඩන්හි	NNP
+එඩ්මන්ටන්	NNP
+සමාධි		NNP
+භාවනා		NNP
+මධ්‍යස්ථානයේ	NNC
+දී			RP
+පැවැත්විණි	VFM
+.			FS
+වෙසක්		NNP
+පොසොන්	NNP
+මහෝත්සව	NNP
+දෙක		NUM
+ම			RP
+සැමරීම	VNN
+වස්		POST
+බෞද්ධ		NNP
+දේශනා		NNC
+දෙකක්		NUM
+,			PUNC
+ආශිර්වාද	NNJ
+මහා		JJ
+බෝධි		NNJ
+පූජාවක්	NNC
+සහ			CC
+භක්ති		JJ
+ගීත		NNC
+ප්‍රසංගයක්	NNC
+පසුගිය	VP
+6			NUM
+වන			VP
+දා			NNC
+සවස		NNC
+3			NUM
+.			FS
+30ට			NUM
+කිංස්බරි	NNP
+උසස්		JJ
+විදුහලේ	NNC
+දී			RP
+පැවැත්විණි	VFM
+.			FS
+ශ්‍රී		NNP
+සද්ධාතිස්ස	NNP
+ජාත්‍යන්තර	JJ
+බෞද්ධ		NNP
+මධ්‍යස්ථානය	NNC
+විසින්	POST
+සංවිධානය	NCV
+කරන		VP
+ලද			VP
+මේ			DET
+උත්සවයේ	NNC
+කැපී		VNF
+පෙනෙන		VP
+අංගයක්	NNC
+වූයේ		VP
+මහා		JJ
+බත්		NNC
+දන්සලයි	VFM
+.			FS
+උත්සව		NNJ
+වේදිකාව	NNC
+පසෙකින්	NNC
+තනා		VNF
+තිබු		VP
+දැවැන්ත	JJ
+මිහින්තලා	NNP
+පර්වතය	NNC
+අතිශය		JJ
+දර්ශනීය	JJ
+විය		VFM
+.			FS
+මහාචාර්ය	NNC
+ඔලිවර්	NNP
+අබේනායක	NNP
+සහ			CC
+ආචාර්ය	JJ
+ආනන්ද		NNP
+ගුරුගේ	NNP
+යන			VP
+මහත්වරුන්ගේ	NNC
+හරවත්		JJ
+දේශනා		NNC
+දෙකකට		NUM
+සවන්		NCV
+දීමට		VNN
+ද			RP
+පැමිණ		VNF
+සිටි		VP
+පිරිසට	NNC
+අවස්ථාව	NNC
+සැලසිණි	VFM
+.			FS
+ආශිර්වාද	NNJ
+මහා		JJ
+බෝධි		NNJ
+පූජා		NNC
+පවත්වන	VP
+ලද්දේ		VP
+ආචාර්ය	NNC
+කැබැල්ලාවේ	NNP
+සිරිසුමන	NNP
+හිමිපාණන්	NNC
+විසිනි	NVB
+.			FS
+ලන්ඩන්	NNP
+කවි		NNJ
+නමින්		NNC
+ලන්ඩනයේ	NNP
+දී			RP
+එළි		NCV
+දකින		VP
+සඟරාව		NNC
+කාගේත්	NNC
+හද			NNC
+දිනා		VNF
+ගත්		VP
+සඟරාවකි	NVB
+.			FS
+මසකට		NNC
+වරක්		NNC
+පළ			RRPCV
+වන			VP
+මේ			DET
+පද්‍ය		NNC
+සඟරාව		NNC
+නොමිලයේ	NNC
+බෙදා		VNF
+හරින		VP
+අතර		POST
+,			PUNC
+භාෂා		NNJ
+දෙකින්	NUM
+ම			RP
+නිර්මාණ	NNC
+පළකිරීමට	VNN
+කවියට		NNC
+කැමැති	JJ
+කාහටත්	NNC
+අවස්ථාවක්	NNC
+සලසා		VNF
+ඇත			NIP
+.			FS
+අනුර		NNP
+හෑගොඩ		NNP
+මහතා		NNC
+සංස්කරණය	NNC
+කරන		VP
+මේ			DET
+සඟරාවේ	NNC
+අවසාන		JJ
+කලාපයට	NNC
+සවුත්ගේම්හි	NNP
+ප්‍රසංග	NNP
+සමරවීර	NNP
+විසින්	POST
+ලියන		VP
+ලද			VP
+පද්‍යයක්	NNC
+සේ			POST
+ලන්ඩන්	NNP
+විත්තිහි	NNC
+සනිටුහන්	JCV
+කරන්නේ	VP
+ලන්ඩන්වාසී	NNP
+බොහෝ		RP
+දෙනාගේ	NNC
+සිතුම්	NNC
+මේ			DET
+කෙරෙහි	POST
+ඔහු		PRP
+හෙළි		RRPCV
+කරන		VP
+නිසාය		NVB
+.			FS
+සිසිල්	NNP
+සුළං		NNP
+හමා		VNF
+යයි		VNN
+දසත		NNC
+පුරා		POST
+නොදැනේ	VFM
+සිටිය		VP
+දී			RP
+වීදුරු	NNJ
+කූඩුවක්	NNC
+තුළ		POST
+පැමිණි	VP
+විට		POST
+එළි		NCV
+පහළියට	NNC
+දැනෙයි	VFM
+හිරි		NNP
+ගඩු		NNC
+පිපෙන		VP
+සීතල		NNC
+දුටු		VP
+විට		POST
+කොළ		NNC
+සිඳී		VNF
+ගිය		VP
+තුරු		POST
+ලතා		NNP
+දැනේ		VFM
+මහා		JJ
+පරාජිත	JJ
+බවක්		POST
+හදවතට		NNC
+පැතිර		VNF
+ඇත			NIP
+මූසල		NNC
+අඳුරක්	NNC
+අහස		NNC
+පුරා		POST
+විහිදේ	NNC
+මදි		NNC
+කරුවලක්	NNC
+දසත		NNC
+තෝරතෝංචියක්	NNC
+නැති		NIP
+ව			VNF
+ඇදෙන		VP
+වාහන		NNJ
+පෙළ		NNC
+අඳුර		NNC
+බව			POST
+වැඩි		JCV
+කරයි		VFM
+පරිසරය	NNC
+පුරා		POST
+පෙනේ		VFM
+ඇදෙනා		NNC
+හිමැති	JJ
+දෑ			NNC
+දෙකඩ		RPCV
+කර			VNF
+අඳුර		NNC
+නොවැටුණ	VP
+ද			RP
+තද			JJ
+හිම		JJ
+දුටිමි	VFM
+හිම		JJ
+පැහැ		NNC
+තොප්පිය	NNP
+සමඟ		POST
+ඇය			PRP
+!			PUNC
+හිම		JJ
+දුටු		VP
+විට		POST
+ඇගේ		PRP
+සුසුදු	JJ
+වත			NNC
+නෙතට		NNC
+රසඳුනකි	NUM
+දුටු		VP
+ඒ			DET
+රුව		NNC
+පාළු		JJ
+මූසල		NNC
+යාමයක		NNC
+අඳුරු		JJ
+සිනාසිණි	NNP
+එකුමරිය	NNP
+මා			PRP
+හා			CC
+මහා		JJ
+බ්‍රිතාන්‍යයේ	NNP
+වෙසෙන		VP
+ශ්‍රී		NNP
+ලාංකිකයන්ට	NNP
+වෘත්තීය	JJ
+සංගමයක්	NNC
+මහා		JJ
+බ්‍රිතාන්‍යයේ	NNP
+සේවය		NCV
+කරන		VP
+ශ්‍රී		NNP
+ලාංකිකයන්ගේ	NNP
+වෘත්තිය	JJ
+කටයුතු	NNC
+වැඩි		JJ
+දියුණු	JCV
+කිරීමට	VNN
+පත්		RPCV
+කරන		VP
+ලද			VP
+සංගමයක්	NNC
+ගැන		POST
+මෙවර		NNC
+ලන්ඩන්	NNP
+විත්ති	NNC
+මඟින්		POST
+හෙළි		RRPCV
+කිරීමට	VNN
+අවස්ථාව	NNC
+සලසා		VNF
+ගතිමි		VFM
+.			FS
+නමින්		NNC
+හඳුන්වන	VP
+මේ			DET
+සංගමයේ	NNC
+ප්‍රධාන	JJ
+අරමුණු	NNC
+වී			VNF
+ඇත්තේ		NIP
+මෙහි		PRP
+වෙසෙන		VP
+වෘත්තීය	JJ
+විශේෂඥයන්ට	NNC
+ආධාර		NNC
+සහ			CC
+අතහිත		NNC
+දීමෙන්	VNN
+ඔවුන්ගේ	PRP
+කාර්යක්ෂමතාවන්	NNC
+නඟා		VNF
+සිටුවීමය	VFM
+.			FS
+එමඟින්	PRP
+තත්ත්වයෙන්	NNC
+උසස්		JJ
+සේවා		NNJ
+කොටසක්	NNC
+බිහි		RRPCV
+කිරීමත්	VNN
+අප			PRP
+සේවකයන්	NNC
+ආසියාතිකයන්	NNC
+අතර		POST
+ප්‍රමුඛ	JJ
+ස්ථානයක	NNC
+නම්		POST
+කිරීමය	VFM
+.			FS
+සංගමයෙන්	NNC
+ඔවුන්		PRP
+වෙත		POST
+ලබා		VNF
+දෙන		VP
+ආධාර		NNC
+හා			CC
+සහාය		NNC
+සෑම		DET
+අංශයක්	NNC
+කෙරෙහි	POST
+ම			RP
+විහිදෙනු	VP
+ඇත			NIP
+.			FS
+අධ්‍යාපනික	JJ
+,			PUNC
+ඉංජිනේරු	JJ
+,			PUNC
+නීති		NNC
+,			PUNC
+වෛද්‍ය	JJ
+විද්‍යාව	NNC
+හා			CC
+තාක්ෂණය	NNC
+,			PUNC
+කළමනාකරණය	NNC
+හා			CC
+බලශක්ති	NNJ
+ඒ			DET
+අංශයන්ගෙන්	NNC
+සමහරෙකි	NVB
+.			FS
+සේවක		JJ
+සාමුහිකත්වය	NNC
+මගින්		POST
+එකෙකා		NNP
+තුළ		POST
+ඇති		NIP
+දැනුම්	NCV
+සම්භාරයන්	NNC
+බෙදා		VNF
+හදා		VNF
+ගැනීම		VNN
+සංගමයේ	NNC
+තවත්		DET
+අරමුණක්	NNC
+වී			VNF
+ඇත			NIP
+.			FS
+සම්මන්ත්‍රණ	NNC
+හා			CC
+වැඩමුළු	NNC
+කිහිපයක්	NNC
+මේ			DET
+වන			VP
+විටත්		POST
+සංවිධානය	NCV
+කොට		VNF
+ඇත			NIP
+.			FS
+මේ			DET
+ආයතනය		NNC
+ලබන		VP
+අගෝස්තු	NNP
+මස			NNC
+21			NUM
+වන			VP
+දා			NNC
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+දී			RP
+ද			RP
+වැඩමුළුවක්	NNC
+පැවැත්වීමට	VNN
+සංවිධානය	NCV
+කොට		VNF
+ඇති		NIP
+බව			POST
+එහි		PRP
+වැඩමුළු	NNC
+සම්බන්ධීකරණ	JJ
+නිලධාරි	NNC
+සහ			CC
+සංගමයේ	NNC
+උපසභාපති	NNC
+වන			VP
+නීතිඥ		JJ
+සරත්		NNP
+විජේසිංහ	NNP
+මහතා		NNC
+"	PUNC	O
+සිළුමිණ	NNP	B-ORG
+"			PUNC
+පුවත්පත	NNC
+වෙනුවෙන්	POST
+පැවැසීය	VFM
+.			FS
+වැඩමුළුව	NNC
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+බලශක්ති	NNJ
+,			PUNC
+මත්ස්‍ය	NNJ
+කර්මාන්තය	NNC
+,			PUNC
+අධ්‍යාපනය	NNC
+හා			CC
+වෙළෙඳාම	NNC
+ඇතුළු		POST
+තවත්		DET
+තෝරාගත්	JJ
+මාතෘකා	NNC
+කිහිපයක්	NNC
+අළලා		POST
+සම්පාදනය	NCV
+කොට		VNF
+ඇත			NIP
+.			FS
+සංගමයේ	NNC
+ප්‍රධාන	JJ
+අනාශාසක	NNC
+ලෙස		POST
+මහා		JJ
+බ්‍රිතාන්‍යයේ	NNP
+ශ්‍රී		NNP
+ලංකා		NNP
+මහ			JJ
+කොමසාරිස්	NNC
+ෂායිස්	NNP
+මුස්තාපා	NNP
+මහතා		NNC
+ද			RP
+සභාපති	NNC
+ලෙස		POST
+ලෙස්ලි	NNP
+ගුණරත්න	NNP
+මහතා		NNC
+ද			RP
+කටයුතු	NCV
+කරති		VFM
+.			FS
+විදෙස්	JJ
+ලිපිය		NNC
+තමිල්නාඩුවේ	NNP
+දේශපාලන	JJ
+කරණම්		NNP
+සහ			CC
+අපේ		PRP
+කොටි		NNC
+නුගේගොඩ	NNP
+ආසියානු	NNP
+-			PUNC
+ලංකා		NNP
+හෝටල්		NNJ
+පාසලේ		NNC
+සභාපති	NNC
+ඒ.			AB‍B
+බී.			ABB
+ලලිත්		NNP
+ද			RP
+සිල්වා	NNP
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+කොටි		NNP
+ප්‍රශ්නයට	NNC
+කරුණානිධිගේ	NNP
+මහා		JJ
+කරුණාව	NNC
+හෝ			CC
+වෛකෝගේ	NNP
+පැරැණි	JJ
+කොටි		JJ
+පුල්ලි	NNC
+මධ්‍යම	JJ
+ආණ්ඩුව	NNC
+හරහා		POST
+ඉදිරියේ	NNC
+දී			RP
+එල්ල		NCV
+විය		VP
+හැකි		AUX
+වුවත්		POST
+,			PUNC
+සෝනියා	NNP
+රජයට		NNC
+එය			PRP
+පයිසයක්	NNC
+තරම්		POST
+වත්		POST
+නොවටිනා	NNC
+කරුණක්	NNC
+විය		VP
+හැක්කේ	AUX
+ඔවුන්ගේ	PRP
+ආසන		NNC
+26ට			NUM
+ම			RP
+ඕනෑම		NIP
+වෙලාවක	NNC
+වානෝ		NNP
+වා			NNP
+පෝනා		NNP
+පෝ			NNP
+යනුවෙන්	POST
+කථා		NCV
+කිරීමට	VNN
+අවශ්‍ය	JJ
+බහුතර		JJ
+බලය		NNC
+ඇයගේ		PRP
+ලැබී		VNF
+ඇති		NIP
+බැවිනි	NVB
+.			FS
+එක්		NUM
+පැත්තකින්	NNC
+පාකිස්තානය	NNP
+සමග		POST
+දැළි		NNJ
+පිහියෙන්	NNC
+කිරි		NNJ
+පැණි		NNC
+කද්දී		VNF
+අනෙක්		DET
+අතින්		NNC
+ජනතාවට	NNC
+"	PUNC	O
+සාම්බාර්	NNP	O
+"			PUNC
+බෙදීමත්	NNC
+සාක්		NNP
+කළාපය		NNC
+සමග		POST
+ඇයි		QBE
+හොඳයිකම්	NNC
+ඇති		NIP
+කර			VNF
+ගැනීමත්	VNN
+ලෙහෙසි	JJ
+පහසු		JJ
+කටයුත්තක්	NNC
+නොවන		VP
+බව			POST
+අගමැති	NNC
+සිං		NNP
+තේරුම්	NCV
+ගෙන		VNF
+තිබීම		VNN
+වැදගත්	JJ
+කරුණකි	NVB
+.			FS
+කැමරා		NNJ
+ඉදිරියේ	NNC
+පිම්බෙන	VP
+"	PUNC	O
+පුහු	PRP	O
+ගෙම්බකු	NNC	O
+"			PUNC
+වැනි		POST
+දේශපාලකයකුගේ	NNC
+ගති		NNC
+ලක්ෂණ		NNC
+නොමැති	NIP
+අගමැති	NNC
+සිං		NNP
+පොළොවේ	NNC
+පය			NNC
+ගැසූ		VP
+සැබෑ		JJ
+මිනිසෙකි	NVB
+.			FS
+ඉන්දියාවේ	NNP
+තමිල්නාඩුව	NNP
+වනාහි		POST
+මධ්‍යම	JJ
+ආණ්ඩුවේ	NNC
+දේශපාලන	JJ
+හෘදය		JJ
+වස්තුවය	NNC
+යන්න		POST
+මෙතෙක්	RB
+පැවැති	VP
+මතය		NNC
+මෙවර		NNC
+මැතිවරණයේ	NNC
+දී			RP
+බොරුවක්	NNC
+බවට		POST
+පත්		RRPCV
+වූයේ		VP
+තමිල්නාඩුවේ	NNP
+ආසන		NNC
+26ක්		NUM
+ම			RP
+දිනා		VNF
+ගත්		VP
+කරුණානිධි	NNP
+,			PUNC
+වෛකෝ		NNP
+ගෝපාලස්වාමි	NNP
+සහ			CC
+රාම්දෝස්	NNP
+යන			VP
+ත්‍රිත්වය	NUM
+ම			RP
+නොමැති	NIP
+ව			VNF
+වුව		VP
+ද			RP
+සෝනියා	NNP
+ගාන්ධිට	NNP
+සිය		PRP
+ආණ්ඩුව	NNC
+පහසුවෙන්	NNC
+ම			RP
+රැක		VNF
+ගත			VP
+හැකි		AUX
+වන			VP
+බහුතරය	NNC
+ලැබී		VNF
+ඇති		NIP
+බැවිනි	NVB
+.			FS
+එනිසා		POST
+ඕනෑම		NIP
+වෙලාවක	NNC
+කරුණානිධි	NNP
+ඇතුළු		POST
+කොටි		NNP
+හිතවතුනට	NNC
+වානා		NNP
+වා			NNP
+හෝ			CC
+පෝ			NNP
+නා			NNP
+පෝ			NNP
+කියා		VNF
+කථා		NCV
+කිරීමට	VNN
+සෝනියාට	NNP
+සවි		RPCV
+ශක්තිය	NNC
+ඇති		NIP
+බව			POST
+මෙහි		PRP
+දී			RP
+මතක		NNC
+තබා		VNF
+ගත			VP
+යුතුය		AUX
+.			FS
+එනිසා		POST
+මෙවර		PRP
+ඉන්දීය	NNP
+මහ			JJ
+මැතිවරණය	NNC
+මගින්		POST
+දේශපාලන	JJ
+පණිවිඩ	NNC
+ගණනාවක්	NNC
+දිල්ලිය	NNC
+හරහා		POST
+කොළඹටත්	NNC
+,			PUNC
+කරච්චියටත්	NNC
+ලැබී		VNF
+ඇත			NIP
+.			FS
+ජාති		NNJ
+භේදය		NNC
+,			PUNC
+ආගම්		NNJ
+භේදය		NNC
+,			PUNC
+කුල		NNJ
+භේදය		NNC
+ප්‍රතිකේෂ්ප	NCV
+කිරීම		VNN
+ඉන්දීය	NNP
+ජනතාව		NNC
+විසින්	POST
+ආරම්භ		JCV
+කරනු		VP
+ලැබ		VNF
+ඇත			NIP
+.			FS
+ගෝලීයකරණය	NNC
+යනු		VP
+"	PUNC	O
+අලු	NNP	O
+බොන්ඩා	NNP	O
+"			PUNC
+හෙවත්		POST
+"	PUNC	O
+අල	NNC	O
+බෝලයක්	NNC	O
+"			PUNC
+කියා		VNF
+තරම්		POST
+වත්		POST
+නොදන්නා	VNF
+ගම්බද		JJ
+ඉන්දියානුවන්	NNC
+පවා		POST
+ගෝලීයකරණය	NNC
+යනු		VP
+එකෙකා		NNP
+කා			VNF
+කොටා		VNF
+ගැනීම		VNN
+නොවන්නේය	VFM
+යන			POST
+සිය		PRP
+ඇතුළු		POST
+හදවතේ		NNC
+අව්‍යාජ	JJ
+පණිවිඩය	NNC
+ඉලෙක්ට්‍රොනික	JJ
+ඡන්ද		NNJ
+මැෂින්	NNC
+හරහා		POST
+කළාපයට	NNC
+ලබා		VNF
+දී			RP
+ඇත			NIP
+.			FS
+එනිසා		POST
+ප්‍රභාකරන්ලා	NNP
+මෙහි		PRP
+දී			RP
+වඩාත්		RP
+පරෙස්සම්	NNC
+විය		VP
+යුත්තේ	AUX
+තමන්		PRP
+මරා		VNF
+දැමූ		VP
+රජිව්		NNP
+ගාන්ධිගේ	NNP
+කීකරු		NNC
+බිරිය		NNC
+සමඟ		POST
+තම			PRP
+හිතවතුන්	NNC
+වන			VP
+වෛකෝලා	NNP
+,			PUNC
+රාම්දාස්ලා	NNP
+සහ			CC
+කරුණානිධිලා	NNP
+සන්ධානගත	VP
+වී			VNF
+ඇති		NIP
+බැවිනි	NVB
+.			FS
+එරට		NNC
+වාමාංශික	JJ
+බලවේග		NNC
+සියල්ලක්	DET
+ම			RP
+බැඳී		VNF
+ඇත්තේ		NIP
+මේ			DET
+සංධානයට	NNC
+වීම		VNN
+තවත්		DET
+විශේෂ		JJ
+ලක්ෂණයකි	NVB
+.			FS
+අද			NNC
+ඉන්දියාවේ	NNP
+තුන්වන	JJ
+විශාලතම	JJ
+දේශපාලන	JJ
+බලවේගය	NNC
+වන්නේ		VP
+මාක්ස්වාදී	NNP
+වාමාංශික	JJ
+බලවේගයයි	NVB
+.			FS
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+ද			RP
+තත්ත්වය	NNC
+එයම		PRP
+නිසා		POST
+,			PUNC
+වාමාංශික	JJ
+දේශපාලන	JJ
+ව්‍යාපාරය	NNC
+තුළ		POST
+පටු		JJ
+ජාති		NNJ
+භේද		NNC
+හෝ			CC
+ආගම්		NNC
+භේදවලටත්	NNC
+පැසිස්ට්	NNP
+වාදයටත්	NNC
+ඉඩ			NNC
+නොමැතිවිම	NNC
+හේතුවෙන්	NNC
+කොටි		JJ
+සංවිධානය	NNC
+තම			PRP
+අනාගත		JJ
+ඉරණම		NNC
+ගැන		POST
+දෙවරක්	RB
+සිතා		VNF
+බැලිය		VP
+යුතු		AUX
+කාලය		NNC
+එළැඹ		VNF
+ඇත්තේ		NIP
+ඔවුන්ගේ	PRP
+ප්‍රතිගාමි	JJ
+සුරතලුන්	NNC
+අද			NNC
+කළාපයේ	NNC
+දේශපාලන	JJ
+බලු		JJ
+කුක්කන්	NNC
+බවට		POST
+පත්		RRPCV
+වී			VNF
+නගුට		NNC
+වනනා		VP
+බැවිනි	NVB
+.			FS
+ලෝකයේ		NNC
+මන්ද		POST
+පෝෂණ		JJ
+ළමයින්ගෙන්	NNC
+හරි		JJ
+අඩක්		NNC
+සිටින්නේ	VP
+ඉන්දියාවේ	NNP
+බව			POST
+කොයි		JJ
+කවුරුත්	NNC
+දන්නා		VP
+කරුණකි	NVB
+.			FS
+ගර්භනි	NNP
+මවුවරුන්	NNC
+දහ			NUM
+දෙනකුගෙන්	NNC
+නවයක්		NUM
+ම			RP
+මන්දපෝෂණ	JJ
+රකුසාට	NNC
+බිලි		RRPCV
+වී			VNF
+ඇති		NIP
+මහා		JJ
+භාරත්		NNC
+දේශයේ		NNC
+ආර්ථික	JJ
+වර්ධනය	NNC
+වූ			VP
+සියයට		NUM
+අටක		NUM
+ප්‍රමාණය	NNC
+මුළු		DET
+ජනගහනයෙන්	NNC
+සියයට		NUM
+70ක්		NUM
+වෙසෙන		VP
+ගමට		NNC
+දැනුණේ	VP
+ම			RP
+නැත		NIP
+.			FS
+ඒ			DET
+වජ්පායිගේ	NNP
+පාලන		NNJ
+සමයයි		NNC
+.			FS
+එනිසා		POST
+වජ්පායිලා	NNP
+සහ			CC
+අද්වානිලා	NNP
+විසින්	POST
+රුපියල්	NNP
+බිලියන	NNP
+හතරක්		NUM
+වැය		NCV
+කරමින්	VNF
+දියත්		JCV
+කරන		VP
+ලද			VP
+"	PUNC	O
+ඉතාලි	NNP	O
+පීසාවට	NNP	O
+එරෙහි	RB	O
+වූ	VP	O
+ඉන්දීය	NNP	B-LOC
+චපාති	JJ	O
+සටන	NNC	O
+කෙළවර	JCV	O
+වූයේ	VP	O
+දකුණු	NNP	B-LOC
+ඉන්දීය	NNP	I-LOC
+දේශපාලන	JJ	O
+මසාල	JJ	O
+තෝසය	NNC	O
+ද	RP	O
+පීසාවට	NNP	O
+ඇලවීමෙනි	NVB	O
+.	FS	O
+ජාතිවාදය	NNC	O
+ඇවිස්සූ	VP	O
+ඉන්දීය	NNP	B-LOC
+චපාතිය	NNC	O
+හෙවත්	POST	O
+බමුණු	JJ	O
+කුල	NNC	O
+හින්දුත්වා	VNF	O
+පංතියේ	NNC	O
+"			PUNC
+හිංදු		NNP
+චපාතිය	NNC
+"	PUNC	O
+අද	NNC	O
+ප්‍රාන්ත	NNJ	O
+මට්ටමින්	NNC	O
+ම	RP	O
+පල්ලම්	NCV	O
+බැස	VNF	O
+ඇත	NIP	O
+.	FS	O
+දුක්	NNC	O
+විඳින	VP	O
+ඉන්දීය	NNP	B-LOC
+ජනතාවට	NNC	O
+අවශ්‍ය	JCV	O
+වන්නේ	VP	O
+"			PUNC
+පීසා		NNP
+"	PUNC	O
+හෝ	CC	O
+"			PUNC
+චපාති		NNP
+"	PUNC	O
+හෝ	CC	O
+"			PUNC
+ක්‍රිකට්	NNP
+"	PUNC	O
+හෝ	CC	O
+"			PUNC
+අග්නි		NNP
+මිසයිල්	NNC
+"	PUNC	O
+හෝ	CC	O
+දේශපාලන	JJ	O
+නායකයන්	NNC	O
+වාදනය	NCV	O
+කරන	VP	O
+කට	CM	O
+කහන	NNC	O
+"			PUNC
+බයිලා		NNJ
+"	PUNC	O
+පද	NNC	O
+නොව	VNF	O
+,	PUNC	O
+ගම්බද	JJ	O
+ජන	JJ	O
+ජීවිතය	NNC	O
+හරවත්	NNC	O
+කළ	VP	O
+හැකි	AUX	O
+ආහාර	NNC	O
+,	PUNC	O
+මහා	JJ	O
+මාර්ග	NNC	O
+,	PUNC	O
+සෞඛ්‍ය	JJ	O
+,	PUNC	O
+අධ්‍යාපන	JJ	O
+හා	CC	O
+පොදු	JJ	O
+සේවා	NNC	O
+යන	VP	O
+යටිතල	JJ	O
+පහසුකම්	NNC	O
+බව	POST	O
+සෝනියා	NNP	B-PER
+රජය	NNC	O
+අමතක	JCV	O
+කළ	VP	O
+යුතු	AUX	O
+නැත	NIP	O
+.	FS	O
+එක්	NUM	O
+පැත්තකින්	NNC	O
+පාකිස්තානය	NNP	B-LOC
+සමඟ	POST	O
+දැළි	NNJ	O
+පිහියෙන්	NNC	O
+කිරි	NNJ	O
+පැණි	NNC	O
+කද්දී	VNF	O
+අනෙක්	DET	O
+අතින්	NNC	O
+ජනතාවට	NNC	O
+සාම්බාර්	NNP	O
+බෙදීමත්	NNC	O
+සාක්	NNP	B-ORG
+කළාපයේ	NNC	O
+අනෙක්	DET	O
+රටවල්	NNC	O
+සමඟ	POST	O
+ඇයි	QBE	O
+හොඳයිකම්	NNC	O
+ඇති	NIP	O
+කර	VNF	O
+ගැනීමත්	VNN	O
+ඔය	DET	O
+කියන	VP	O
+තරම්	POST	O
+ලෙහෙසි	JJ	O
+පහසු	JJ	O
+කටයුත්තක්	NNC	O
+නොවන	VP	O
+බව	POST	O
+ආචාර්ය	NNC	O
+මන්	NNP	B-PER
+මෝහන්	NNP	I-PER
+සිං	NNP	I-PER
+තේරුම්	NCV	O
+ගෙන	VNF	O
+තිබීම	VNN	O
+නිසා	POST	O
+ඉන්දියාවේ	NNP	B-LOC
+අනාගතය	NNC	O
+ගැන	POST	O
+යම්තාක්	DET	O
+බලාපොරොත්තුවක්	NNC	O
+තබා	VNF	O
+ගත	VP	O
+හැක්කේ	AUX	O
+බලයට	NNC	O
+ගිජු	JCV	O
+නොවූ	VP	O
+,	PUNC	O
+කැමරා	NNJ	O
+ඉදිරියේ	NNC	O
+පිම්බෙන	VP	O
+පුහු	NNC	O
+ගෙම්බකු	NNC	O
+වැනි	POST	O
+දේශපාලකයකුගේ	NNC	O
+ගති	NNC	O
+ලක්ෂණ	NNC	O
+ඔහු	PRP	O
+සතුව	VNF	O
+නැති	NIP	O
+බැවිනි	NVB	O
+.	FS	O
+ආර්ථික	JJ	O
+දැනුම	NNC	O
+අතින්	NNC	O
+මුහුකුරා	RRPCV	O
+ගිය	VP	O
+තැන්පත්	NNJ	O
+ගති	NNJ	O
+ලක්ෂණ	NNC	O
+ඇති	NIP	O
+මන්	NNP	B-PER
+මෝහන්	NNP	I-PER
+සිං	NNP	I-PER
+ආසියානු	NNP	B-LOC
+දේශපාලකයනට	NNC	O
+ආදර්ශයකි	NVB	O
+.	FS	O
+ඔහු	PRP	O
+මහ	JJ	O
+පොළොවේ	NNC	O
+පය	NNC	O
+ගැසූ	VP	O
+සැබෑ	JJ	O
+මිනිසෙකි	NVB	O
+.	FS	O
+ඊට	PRP	O
+එපිට	NNC	O
+මහා	JJ	O
+මැතිවරණයේදී	NNC	O
+ජනතාවගේ	NNC	O
+සටන්	NNJ	O
+පාඨය	NNC	O
+වූ	VP	O
+"			PUNC
+බාරී		JJ
+බාරී		JJ
+සාබ්		NNP
+කි			RP
+බාරී		JJ
+ආද්කි		NNP
+බාරී		NNP
+අතෙල්		NNP
+බිහාරී	NNP
+"	PUNC	O
+හෙවත්	POST	O
+"			PUNC
+ජනරැල්ල	NNC
+දිනෙන්	NNC
+දින		NNC
+අතෙල්		NNP
+බිහාරි	NNP
+වජ්පායි	NNP
+වටා		NNC
+ගොඩ		RRPCV
+නැඟෙයි	VFM
+"	PUNC	O
+යන්න	POST	O
+කියවූ	VP	O
+කටවල්වලින්	NNC	O
+ම	RP	O
+මෙවර	NNC	O
+කියැවුණේ	VP	O
+"			PUNC
+අග්ලී		NNP
+බාරී		NNP
+සෝනියා	NNP
+ගාන්ධී	JJ
+"	PUNC	O
+හෙවත්	POST	O
+"			PUNC
+මෙදා		NNC
+පොටේ		NNC
+සෝනියා	NNP
+"	PUNC	O
+යන	VP	O
+තේමාව	NNC	O
+ඈත	JJ	O
+එපිට	NNC	O
+දුප්පත්	JJ	O
+ගම්	NNC	O
+,	PUNC	O
+නියම්ගම්වල	NNC	O
+පවා	POST	O
+රැවු	VP	O
+දුනි	VFM	O
+.	FS	O
+රජිව්	NNP	B-PER
+දූ	NNC	O
+පුතුන්	NNC	O
+වන	VP	O
+ප්‍රියංකා	NNP	B-PER
+සහ	CC	O
+රාහුල්ගේ	NNP	B-PER
+දේශපාලන	JJ	O
+"			PUNC
+කොංග්‍රස්කරණය	NNC
+"	PUNC	O
+ද	RP	O
+පසුගිය	VP	O
+මැතිවරණයේ	NNC	O
+දී	RP	O
+බලවත්	JJ	O
+සාධකයක්	NNC	O
+වූයේ	VP	O
+තිස්	NUM	O
+තුන්	NUM	O
+හැවිරිදි	POST	O
+රාහුල්	NNP	B-PER
+ගාන්ධි	NNP	I-PER
+තරග	NCV	O
+කළ	VP	O
+උත්තර්	NNP	B-LOC
+ප්‍රදේශ්	NNP	I-LOC
+"			PUNC
+අමෙති		NNP
+"	PUNC	O
+ආසනය	NNC	O
+වැඩි	JJ	O
+ඡන්ද	NNC	O
+තුන්	NUM	O
+ලක්ෂ	NUM	O
+අනූ	NUM	O
+එක්	NUM	O
+දහසකින්	NUM	O
+ඔහු	PRP	O
+ජයග්‍රහණය	NCV	O
+කිරීමත්	VNN	O
+සමඟය	NVB	O
+.	FS	O
+බිහාර්	NNP	B-LOC
+වැනි	POST	O
+ප්‍රාන්තවල	NNP	O
+බලය	NNC	O
+බී.	ABB	B-ORG
+ජේ.	ABB	I-ORG
+පියට	NNC	I-ORG
+හරවා	VNF	O
+ගැනීම	VNN	O
+සඳහා	POST	O
+හින්දි	NNP	O
+සිනමාවේ	NNP	O
+"			PUNC
+සිහින		JJ
+මාලනිය	NNC
+"	PUNC	O
+හෙවත්	POST	O
+හේමා	NNP	B-PER
+මාලිනිය	NNC	I-PER
+සහ	CC	O
+ධර්මේන්ද්‍ර	NNP	B-PER
+පවා	POST	O
+යොදා	VNF	O
+සිදු	RPCV	O
+කළ	VP	O
+දේශපාලන	JJ	O
+උප්පරවැට්ටිවලට	NNC	O
+එහි	PRP	O
+වෙසෙන	VP	O
+දිළිඳු	JJ	O
+ජනතාවවලට	NNC	O
+හසු	RRPCV	O
+නොවීම	VNN	O
+තවත්	DET	O
+පුදුමයකි	NVB	O
+.	FS	O
+දකුණු	NNP	B-LOC
+ආසියාවේ	NNP	I-LOC
+පැරැණිත	NNP	O
+ම	RP	O
+දේශපාලන	JJ	O
+පක්ෂය	NNC	O
+වන	VP	O
+ඉන්දීය	NNP	B-ORG
+කොංග්‍රස්	NNP	I-ORG
+පක්ෂය	NNC	I-ORG
+ගාන්ධිලාගෙන්	NNC	B-PER
+තොර	POST	O
+ව	RP	O
+වුව	VP	O
+ද	RP	O
+පවත්වා	VNF	O
+ගෙන	VNF	O
+යා	VP	O
+හැකි	AUX	O
+බව	POST	O
+රජිව්	NNP	B-PER
+ගාන්ධි	NNP	I-PER
+ඝාතනයත්	NNC	O
+සමඟ	POST	O
+ම	RP	O
+ඔප්පු	NCV	O
+විය	VFM	O
+.	FS	O
+පී.	NNP	B-PER
+නරසිම්හ	NNC	I-PER
+රාඕ	NNP	I-PER
+,	PUNC	O
+සිතාරාම්	NNP	B-PER
+කේශාරි	NNP	I-PER
+,	PUNC	O
+මන්මෝහන්	NNP	B-PER
+සිං	NNP	I-PER
+,	PUNC	O
+ප්‍රතාබ්	NNP	B-PER
+මුකර්ජි	NNP	I-PER
+,	PUNC	O
+අර්ජුන්	NNP	B-PER
+සිං	NNP	I-PER
+,	PUNC	O
+ශිව්රාජ්	NNP	B-PER
+පටේල්	NNP	I-PER
+වැනි	POST	O
+නායකයන්	NNC	O
+වයසින්	NNC	O
+සහ	CC	O
+දැනුමෙන්	NNC	O
+පදම්	JCV	O
+වී	VNF	O
+ඇති	NIP	O
+නිසා	POST	O
+,	PUNC	O
+ඔවුන්ට	PRP	O
+පක්ෂයේ	NNC	O
+නායකත්වය	NNC	O
+දී	RP	O
+පසු	POST	O
+පස	NNC	O
+පේළියේ	NNC	O
+ගාන්ධිලා	NNP	B-PER
+සිටින	VP	O
+බව	POST	O
+සෝනියා	NNP	B-PER
+,	PUNC	O
+රාහුල්	NNP	B-PER
+,	PUNC	O
+ප්‍රියංකා	NNP	B-PER
+විසින්	POST	O
+පෙන්වා	VNF	O
+දෙනු	VNF	O
+ලැබ	VNF	O
+ඇත	NIP	O
+.	FS	O
+අවශ්‍ය	JJ	O
+නම්	POST	O
+රාහුල්	NNP	B-PER
+ගාන්ධිට	NNP	I-PER
+හෙට	NNC	O
+පක්ෂයේ	NNC	O
+නායකත්වයත්	NNC	O
+ඊළඟ	JJ	O
+වසරේ	NNC	O
+දී	RP	O
+කැබිනට්	NNJ	O
+ඇමැති	NNJ	O
+ධූරයකුත්	NNC	O
+තවත්	DET	O
+වසරක	NNC	O
+දී	RP	O
+ඉන්දීය	NNP	B-LOC
+අග්‍රාමාත්‍ය	JJ	O
+තනතුරක්	NNC	O
+ලබා	VNF	O
+ගත	VP	O
+හැකි	AUX	O
+අතර	POST	O
+,	PUNC	O
+ඔහු	PRP	O
+කිසිසේත්	RB	O
+ඊට	PRP	O
+සූදානම්	JCV	O
+නැති	NIP	O
+බව	POST	O
+දිල්ලිය	NNC	B-LOC
+හරහා	POST	O
+අපට	PRP	O
+ලැබෙන	VP	O
+අලුත්	JJ	O
+ම	RP	O
+ඒජන්සි	NNC	O
+වාර්තාව	NNC	O
+පෙන්වා	VNF	O
+දෙයි	VFM	O
+.	FS	O
+මෙය	PRP	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+දේශපාලන	JJ	O
+දූ	NNC	O
+පුතුන්ට	NNC	O
+ද	RP	O
+හොඳ	JJ	O
+ආදර්ශයකි	NVB	O
+.	FS	O
+පියා	NNC	O
+මරා	VNF	O
+රජ	NCV	O
+වූ	VP	O
+රජුන්	NNC	O
+සිටි	VP	O
+ආසියාවට	NNP	B-LOC
+හොඳ	JJ	O
+දේශපාලන	JJ	O
+පණිවිඩියකි	NVB	O
+.	FS	O
+ඒ	DET	O
+නිසා	POST	O
+ආසියානු	NNP	B-LOC
+දේශපාලන	JJ	O
+විචාරකයන්	NNC	O
+පවසන්නේ	VP	O
+මහත්මා	NNP	B-PER
+ගාන්ධිගෙන්	NNC	I-PER
+පසු	POST	O
+ඉන්දියාවේ	NNP	B-LOC
+නියම	NCV	O
+ගාන්ධිලා	NNP	B-PER
+පහළ	JCV	O
+වෙමින්	VNF	O
+සිටින්නේ	VP	O
+වර්තමානයේ	NNC	O
+බවයි	NVB	O
+.	FS	O
+ඉන්දියාවේ	NNP	B-LOC
+ජනාධිපති	NNC	O
+තුමා	NNC	O
+වන	VP	O
+අබ්දුල්	NNP	B-PER
+කලාම්	NNP	I-PER
+මුස්ලිම්ය	NVB	O
+.	FS	O
+ඉන්දියාවේ	NNP	B-LOC
+අගමැති	NNJ	O
+ආචාර්ය	NNC	O
+සිං	NNP	B-PER
+වනාහි	POST	O
+පාකිස්තානයේ	NNP	B-LOC
+උපන්	VP	O
+ෂික්	NNP	O
+ජාතිකයෙකි	NNC	O
+.	FS	O
+කොංග්‍රස්	NNP	B-ORG
+පක්ෂයේ	NNC	I-ORG
+නායිකා	NNC	O
+ඉතාලි	NNP	B-LOC
+ජාතික	NNP	O
+නෝනා	NNP	O
+කෙනෙකි	NVB	O
+.	FS	O
+එහෙත්	CC	O
+අද	NNC	O
+ඉන්දීය	NNP	B-LOC
+ජනතාව	NNC	O
+මෙය	PRP	O
+ප්‍රශ්නයක්	NNC	O
+නොකර	VNF	O
+ගන්නේ	VP	O
+තමා	PRP	O
+මෙතෙක්	RB	O
+කල්	NCV	O
+රැවටූ	VP	O
+රැඩිකල්වාදී	JJ	O
+ලේ	NNC	O
+පිපාසිත	NNP	O
+හින්දු	NNP	O
+භක්තික	JJ	O
+නායකයන්ට	NNC	O
+වඩා	RP	O
+අපට	PRP	O
+යමක්	NNC	O
+කරනු	VP	O
+ඇතැයි	NIP	O
+යන	VP	O
+හැඟීමක්	NNC	O
+ඔවුන්	PRP	O
+කොයි	JJ	O
+කාගේත්	NNC	O
+හදවත	VP	O
+තුළ	POST	O
+ගුලි	NNC	O
+වී	VNF	O
+ඇති	NIP	O
+බැවිනි	NVB	O
+.	FS	O
+"			PUNC
+ගාන්ධි	NNP
+හයිජැක්	NNP
+"	PUNC	O
+මහත්මා	NNP	B-PER
+ගාන්ධිතුමා	NNP	I-PER
+ජාතිවාදියකු	NNC	O
+නොවූ	VP	O
+අතර	POST	O
+,	PUNC	O
+දේශ	NNJ	O
+හිතෛෂියෙක්	NNC	O
+විය	VFM	O
+.	FS	O
+ඉන්දියානු	NNP	B-LOC
+දේ	NNC	O
+මිල	NNC	O
+දී	RP	O
+ගෙන	VNF	O
+ඉන්දියානුවකු	NNP	O
+වන්න	VP	O
+යන	VP	O
+ප්‍රතිපත්තිය	NNC	O
+සහ	CC	O
+ඔහුගේ	PRP	O
+"			PUNC
+රාම්		NNP
+රාජ්		NNP
+"	PUNC	O
+ප්‍රතිපත්තියත්	NNP	O
+සොරා	NNC	O
+ගත්	VP	O
+භාරතීය	NNP	B-ORG
+ජනතා	NNP	I-ORG
+පක්ෂය	NNC	I-ORG
+ඒ	DET	O
+මඟින්	POST	O
+හින්දු	NNP	O
+ජනතාවගේ	NNC	O
+පෙනහලුවලට	NNC	O
+ජාතිවාදී	JJ	O
+ක්ෂය	NNC	O
+රෝගයේ	NNC	O
+බැක්ටීරියාව	NNC	O
+පතුරුවා	VNF	O
+හැරියේය	VFM	O
+.	FS	O
+එහෙත්	CC	O
+ගාන්ධිගේ	NNP	B-PER
+"			PUNC
+රාම්		NNP
+රාජ්වලින්	NNC
+කියැවුණේ	VP
+කව්රුත්	QBE
+සාමයෙන්	NNC
+සහ			CC
+සාමදානයෙන්	NNC
+ජීවත්		JCV
+වීම		VNN
+විනා		POST
+මුස්ලිම්වරුන්ට	NNC
+ගුටි		NCV
+බැට		NCV
+දී			VNF
+පල්ලි		NNC
+කඩා		VNF
+ඒ			DET
+මත			POST
+"	PUNC	O
+හූනියම්	NNP	O
+දේවතාවන්ගේ	NNC	O
+"			PUNC
+ප්‍රතිමාවන්	NNC
+ඉදිකිරීම	VNN
+නොවන		VP
+බව			POST
+මතක්		JCV
+කළ			VP
+යුතුය		AUX
+.			FS
+බී.			ABB
+ජේ.			ABB
+පී.			ABB
+රැඩිකල්වාදීන්	NNP
+ගාන්ධි	NNP
+දර්ශනය	NNC
+අප්‍රිය	NNC
+කළ			VP
+නපුංසක	NNC
+බලවේගයක්	NNC
+බව			POST
+ජනතාව		NNC
+පරක්කු	JCV
+වී			VNF
+හෝ			CC
+තේරුම්	NCV
+ගනීම		VNN
+සතුටට		NNC
+කරුණකි	NVB
+.			FS
+එනිසා		POST
+"	PUNC	O
+ස්වදේශි	NNP	O
+"			PUNC
+ප්‍රතිපත්තිය	NNC
+හා			CC
+"	PUNC	O
+රාම්	NNP	O
+රාජ්	NNP	O
+"			PUNC
+ප්‍රතිපත්තිය	NNC
+නොපිට		NNC
+හැරවූ		VP
+මේස්		NNC
+කකුලක්	NNC
+සේ			POST
+දේශපාලනයේ	NNC
+දී			RP
+භාවිත		RPCV
+කිරීම		VNN
+පසුගිය	VP
+දා			NNC
+ගුජරාටි	NNP
+ප්‍රාන්තයේ	NNC
+දී			RP
+ගලා		VNF
+ගිය		VP
+රුධිරයෙන්	NNC
+ඔප්පු		NCV
+කර			VNF
+ඇත			NIP
+.			FS
+ගුජරාටියේ	NNP
+දී			RP
+"	PUNC	O
+ස්වදේශ	JJ	O
+!	PUNC	O
+"			PUNC
+රාම්රාජ්	NNP
+"	PUNC	O
+සහ	CC	O
+"			PUNC
+හින්දුත්වා	NNP
+"	PUNC	O
+ගැන	POST	O
+කථා	NCV	O
+කරන	VP	O
+මධ්‍යම	JJ	O
+පංතියේ	NNC	O
+හිංදුන්	NNP	O
+එංගලන්තයේ	NNP	B-LOC
+හෝ	CC	O
+කැනඩාවේ	NNP	B-LOC
+රෙසිඩන්ට්	NNP	O
+වීසා	NNC	O
+හෙවත්	POST	O
+පුරවැසි	JJ	O
+වීසා	JJ	O
+පෝළිම්වල	NNC	O
+සිටින	VP	O
+විට	POST	O
+ඔවුන්ගේ	PRP	O
+කටවල්වලට	NNC	O
+ඉබ්බන්	NNP	O
+වැටී	VNF	O
+ඇති	NIP	O
+බවත්	POST	O
+ඉන්දීය	NNP	B-LOC
+ලේඛිකා	NNC	O
+අරුන්දතී	NNP	B-PER
+රෝයි	NNP	I-PER
+පවසන්නීය	VFM	O
+.	FS	O
+ජාතිවාදී	JJ	O
+,	PUNC	O
+ආගම්වාදී	NNC	O
+සහ	CC	O
+මූලධර්මවාදී	JJ	O
+රැඩිකල්	JJ	O
+බලවේග	NNC	O
+ප්‍රතිගාමීන්	NNC	O
+සමග	POST	O
+එකතු	JCV	O
+වී	VNF	O
+දකුණු	NNP	B-LOC
+ආසියාවේ	NNP	I-LOC
+දේශපාලන	JJ	O
+සමතුලනය	NNC	O
+අවුල්	NNJ	O
+ජාලාවක්	NNC	O
+බවට	POST	O
+පත්	RRPCV	O
+කොට	VNF	O
+න්‍යෂ්ටික	JJ	O
+ආයුධ	NNC	O
+අත	NNC	O
+පත	NNC	O
+ගෑමක්	NNC	O
+දක්වා	POST	O
+යන්නා	NNC	O
+වූ	VP	O
+භයංකර	JJ	O
+දේශපාලන	JJ	O
+ක්‍රියා	NNJ	O
+පිළිවෙත	NNC	O
+මෙතනින්වත්	NNC	O
+නවතා	VNF	O
+දැමීම	VNN	O
+සඳහා	POST	O
+ඉන්දීය	NNP	B-LOC
+කලාපයේ	NNC	I-LOC
+රටවල්	NNC	O
+දෙකක	NUM	O
+ජනතාව	NNC	O
+පසුගිය	VP	O
+මහ	JJ	O
+මැතිවරණයේ	NNC	O
+දී	RP	O
+දුන්	VP	O
+තීන්දුව	NNC	O
+ඉතිහාසයේ	NNC	O
+රන්	JJ	O
+අකුරින්	NNC	O
+ලියැවෙනු	VP	O
+ඇත	NIP	O
+.	FS	O
+ආගම්වාදි	NNP	O
+මූලධර්මවාදීන්	NNP	O
+ඉන්දියාවේ	NNP	B-LOC
+දී	RP	O
+නන්නත්තාර	NNC	O
+වූවාක්	NNC	O
+මෙන්	POST	O
+,	PUNC	O
+ආසියානු	NNP	B-LOC
+අනෙක්	DET	O
+රටවලින්	NNC	O
+මෙය	PRP	O
+අතැගෑවී	VNF	O
+යෑමට	VNN	O
+කාලය	NNC	O
+පැමිණ	VNF	O
+ඇත	NIP	O
+.	FS	O
+දකුණු	NNP	B-LOC
+ආසියානු	NNP	I-LOC
+දේශපාලනය	NNC	O
+ඔප්පු	NCV	O
+කර	VNF	O
+ඇති	NIP	O
+තවත්	DET	O
+වැදගත්	JJ	O
+ලක්ෂණයක්	NNC	O
+වන්නේ	VP	O
+මූලධර්මවාදී	JJ	O
+ආගම්වාදී	NNC	O
+රැඩිකල්	NNP	O
+බලවේගවල	NNC	O
+ආයුෂ	NNC	O
+කාලය	NNC	O
+ඉතා	RP	O
+කෙටි	JJ	O
+බවය	NVB	O
+.	FS	O
+හැබෑ	NNC	O
+ජනතා	JJ	O
+හිතවතුන්	NNC	O
+ලෙස	POST	O
+පෙනී	VNF	O
+සිටිමින්	VNF	O
+ජාති	NNJ	O
+භේදයේ	NNC	O
+ගිනි	NNJ	O
+දළුවලින්	NNC	O
+දැවෙන	VP	O
+ඔවුන්	PRP	O
+ඉන්දීය	NNP	O
+දේශපාලන	JJ	O
+භූමියෙන්	NNC	O
+අතුගා	VNF	O
+දැමීමට	VNN	O
+එරට	NNC	O
+ජනතාවට	NNC	O
+අවුරුදු	NNC	O
+දෙක	NUM	O
+තුනක්	NUM	O
+ගත	VP	O
+වූ	VP	O
+බව	POST	O
+කොයි	PRP	O
+කව්රුත්	QBE	O
+මතක	NNC	O
+තබා	VNF	O
+ගත	VP	O
+යුතුය	AUX	O
+.	FS	O
+ඒ	DET	O
+නිසා	POST	O
+ප්‍රභාකරන්ලාගේ	NNC	B-PER
+දේශපාලන	JJ	O
+බඹර	NNP	O
+චක්‍රය	NNC	O
+වැල්ලේ	NNC	O
+වුව	VP	O
+ද	RP	O
+ගැසූ	VP	O
+විට	POST	O
+කැරකෙන	VP	O
+කාලය	NNC	O
+දැන්	RB	O
+අවසන්	JCV	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+විදෙස්	JJ	O
+ලිපිය	NNC	O
+එකතු	JCV	O
+ඉරාක	NNP	B-LOC
+සටන්	NNJ	O
+බිමේ	NNC	O
+දී	RP	O
+මැරුම්	NCV	O
+කන	VP	O
+ඇමරිකන්	NNP	B-ORG
+හමුදාවේ	NNC	I-ORG
+තරුණයන්ගේ	NNC	O
+නෑදෑ	JJ	O
+පවුල්වල	NNC	O
+දුක්	NNC	O
+අඳෝනා	NNC	O
+ඇමරිකාව	NNP	B-LOC
+තුළ	POST	O
+බරපතල	JJ	O
+දේශපාලන	JJ	O
+ප්‍රශ්නයක්	NNC	O
+බවට	POST	O
+පත්	RRPCV	O
+වෙමින්	VNF	O
+ඇති	NIP	O
+අතර	POST	O
+,	PUNC	O
+එය	PRP	O
+ජෝජ්	NNP	B-PER
+ඩබ්ලිව්.	ABB	I-PER
+බුෂ්ගේ	NNP	I-PER
+ඡන්ද	NNJ	O
+ව්‍යාපාරය	NNC	O
+මුහුණ	NCV	O
+දෙන	VP	O
+ප්‍රධාන	JJ	O
+ගැටලුවක්	NNC	O
+විය	VP	O
+හැකි	AUX	O
+ය	RP	O
+.	FS	O
+අනෙක්	DET	O
+අතට	NNC	O
+ඇමරිකාවේ	NNP	B-LOC
+සමීපතම	JJ	O
+යුරෝපා	NNP	B-LOC
+සගයා	NNC	O
+වන	VP	O
+බ්‍රිතාන්‍යයේ	NNP	B-LOC
+ටෝනි	NNP	B-PER
+බ්ලෙයාර්ගේ	NNP	I-PER
+මෙන්ම	POST	O
+ආසියාවේ	NNP	B-LOC
+ප්‍රධානතම	JJ	O
+සගයා	NNC	O
+වන	VP	O
+ජපන්	NNP	B-LOC
+අගමැති	NNC	O
+කොයිසුමිගේත්	NNC	B-PER
+ඔස්ට්‍රෙලියා	NNP	B-LOC
+අගමැති	NNC	O
+ජෝන්	NNP	B-PER
+ඩවුනර්ගේත්	NNC	I-PER
+දේශපාලන	JJ	O
+අනාගතයට	NNC	O
+ද	RP	O
+දරුණු	JJ	O
+බලපෑමක්	NNC	O
+මෙයින්	PRP	O
+එල්ල	NCV	O
+වනු	VP	O
+ඇත	NIP	O
+.	FS	O
+විශේෂයෙන්ම	RB	O
+,	PUNC	O
+ඉරාකය	NNP	B-LOC
+තුළ	POST	O
+ක්‍රියාකාරී	RPCV	O
+වී	VNF	O
+සිටින	VP	O
+ජපන්	NNP	B-LOC
+ජාතිකයන්	NNC	O
+තිදෙනෙකු	NUM	O
+ඉරාක	NNP	B-LOC
+ගරිල්ලන්	NNP	O
+විසින්	POST	O
+ගිය	VP	O
+සිකුරාදා	NNP	O
+පැහැර	VNF	O
+ගෙන	VNF	O
+යනු	VP	O
+ලැබීමේ	VNN	O
+පුවත	NNC	O
+ජපානය	NNP	B-LOC
+තුළ	POST	O
+කොයිසුම්	NNP	B-PER
+විරෝධි	JJ	O
+හැඟීම්	NNC	O
+උග්‍ර	JCV	O
+කිරීමට	VNN	O
+හේතු	NCV	O
+වී	VNF	O
+තිබේ	VFM	O
+.	FS	O
+සුබසාධක	NNJ	O
+සහ	CC	O
+ප්‍රතිසංස්කරණ	NNJ	O
+කටයුතු	NNC	O
+සඳහා	POST	O
+ඉරාකයට	NNP	B-LOC
+යවා	VNF	O
+ඇති	NIP	O
+ජපන්	NNP	B-ORG
+හමුදාවේ	NNC	I-ORG
+භටයන්	NNC	O
+ආපසු	POST	O
+ගෙන්වා	VNF	O
+නොගැනේ	VP	O
+නම්	POST	O
+,	PUNC	O
+ප්‍රාණ	JJ	O
+ඇපකරුවන්	NNC	O
+මරා	VNF	O
+දමන	VP	O
+බවට	POST	O
+ගරිල්ලන්	NNP	O
+තර්ජනය	NCV	O
+කර	VNF	O
+ඇතැයි	NIP	O
+වාර්තා	NCV	O
+විය	VFM	O
+.	FS	O
+මේ	DET	O
+සමග	POST	O
+ම	RP	O
+වාගේ	POST	O
+පැහැර	VNF	O
+ගනු	VP	O
+ලැබූ	VP	O
+දකුණු	NNP	B-LOC
+කොරියන්	NNP	I-LOC
+ජාතික	JJ	O
+ආගමික	JJ	O
+දේශකයන්	NNC	O
+හත්	NUM	O
+දෙනා	NNC	O
+ඉරාක	NNP	B-LOC
+ගරිල්ලන්	NNP	O
+විසින්	POST	O
+පෙරේදා	NNC	O
+නිදහස්	JCV	O
+කැරිණි	VFM	O
+.	FS	O
+මේ	DET	O
+අතර	POST	O
+,	PUNC	O
+ඉරාක	NNP	B-LOC
+ප්‍රචණ්ඩකාරින්ගේ	NNP	O
+තර්ජන	NNC	O
+හමුවේ	NNC	O
+පසු	POST	O
+නොබසින	VP	O
+බව	POST	O
+ඇමරිකාව	NNP	B-LOC
+තරයේ	RB	O
+කියා	VNF	O
+සිටින	VP	O
+අතර	POST	O
+,	PUNC	O
+ඇමරිකන්	NNP	B-LOC
+විරෝධය	NNC	O
+හරහා	POST	O
+තම	PRP	O
+රටවලට	NNC	O
+එල්ල	NCV	O
+වන	VP	O
+තර්ජනයට	NNC	O
+බිය	NNC	O
+වී	VNF	O
+ඉරාකයේ	NNP	B-LOC
+සිය	PRP	O
+භටයන්	NNC	O
+ඉවත්	RRPCV	O
+කර	VNF	O
+නොගන්නා	VP	O
+බව	POST	O
+ජපන්	NNP	B-LOC
+මෙන්	POST	O
+ම	RP	O
+දකුණු	NNP	B-ORG
+කොරියන්	NNP	I-ORG
+ආණ්ඩු	NNC	I-ORG
+ද	RP	O
+කියා	VNF	O
+සිටිති	VFM	O
+.	FS	O
+දාමරිකයන්ගේ	NNC	O
+සහ	CC	O
+ඝාතකයන්ගේ	NNC	O
+තර්ජනවලට	NNC	O
+බිය	NNC	O
+වී	VNF	O
+ඉරාකයෙන්	NNP	B-LOC
+පලා	VNF	O
+නොයන	VP	O
+බව	POST	O
+ඇමරිකන්	NNP	B-LOC
+ජනාධිපති	NNC	O
+ජෝජ්	NNP	B-PER
+ඩබ්ලිව්.	ABB	I-PER
+බුෂ්	NNP	I-PER
+යළිත්	RB	O
+ප්‍රතිඥා	NCV	O
+දුන්නේ	VP	O
+සිය	PRP	O
+හමුදා	NNJ	O
+භටයන්	NNC	O
+දොළොස්	NUM	O
+දෙනෙකු	NNC	O
+එක	NUM	O
+ම	RP	O
+සිද්ධියේ	NNC	O
+දී	RP	O
+මැරුම්	NCV	O
+කෑ	VP	O
+බිහිසුණු	JJ	O
+අත්දැකීම්	NNC	O
+මැද	POST	O
+ය	RP	O
+.	FS	O
+ඉරාකය	NNP	B-LOC
+තුළ	POST	O
+සිය	PRP	O
+මෙහෙවර	NNC	O
+ඉටු	RPCV	O
+කිරීමට	VNN	O
+ඇමරිකාව	NNP	B-LOC
+දක්වන	VP	O
+අධිෂ්ඨානයේ	NNC	O
+කිසිම	DET	O
+සෙළවීමක්	NNC	O
+නැති	NIP	O
+බව	POST	O
+ද	RP	O
+පළ	RRPCV	O
+වී	VNF	O
+තිබිණි	VFM	O
+.	FS	O
+අර්බුදයේ	NNC	O
+තීරණාත්මක	JJ	O
+මොහොතේ	NNC	O
+දී	RP	O
+ආත්ම	NNJ	O
+විශ්වාසයේ	NNC	O
+රණ	JJ	O
+ගීතය	NNC	O
+වඩා	RP	O
+උස්	JJ	O
+හඬින්	NNC	O
+ගයන්නට	VNN	O
+ලොව	NNC	O
+එක	NUM	O
+ම	RP	O
+සුපිරි	JJ	O
+බලවතා	NNC	O
+වන	VP	O
+ඇමරිකාව	NNP	B-LOC
+පෙළැඹීම	VNN	O
+පුදුමයක්	NNC	O
+නො	RP	O
+වේ	VFM	O
+.	FS	O
+ඉරාකයේ	NNP	B-LOC
+ඇමරිකන්	NNP	I-LOC
+ආක්‍රමණයෙන්	NNC	O
+පසු	POST	O
+දක්නට	VNF	O
+ඇති	NIP	O
+යථාර්ථය	NNC	O
+පැහැදිලි	JCV	O
+කරන	VP	O
+ප්‍රකාශයක්	NNC	O
+ස්වීඩනයේ	NNC	B-LOC
+හිටපු	VP	O
+විදේශ	NNJ	O
+ඇමැතිවරයා	NNC	O
+මෙන්	POST	O
+ම	RP	O
+ඉරාකය	NNP	B-LOC
+තුළ	POST	O
+එක්සත්	NNP	B-ORG
+ජාතින්ගේ	NNP	I-ORG
+ප්‍රධාන	JJ	O
+අවි	NNJ	O
+පරීක්ෂකවරයා	NNC	O
+ද	RP	O
+වූ	VP	O
+හෑන්ඩ්	NNP	B-PER
+බ්ලික්ස්	NNP	I-PER
+විසින්	POST	O
+පළ	RRPCV	O
+කර	VNF	O
+තිබිණි	VFM	O
+.	FS	O
+"			PUNC
+සදාම්		NNP
+හුසේන්ගෙන්	NNC
+ගැලවීමට	VNN
+ලැබීම		VNN
+ගැන		POST
+ඉරාක		NNP
+වැසියන්ගෙන්	NNC
+බහුතරය	NNC
+ඇත්තට		NNC
+ම			RP
+සතුටු		JCV
+වෙති		VFM
+.			FS
+එහෙත්		CC
+,			PUNC
+ඇමරිකාවට	NNP
+යටත්		JCV
+වී			VNF
+සිටීම		VNN
+ගැන		POST
+ඔව්හු		PRP
+සියල්ලෝ	DET
+ම			RP
+විරුද්ධ	JCV
+වෙති		VFM
+.			FS
+එබඳු		PRP
+අවමානයක්	NNC
+ඔවුනට		PRP
+ඉවසා		VNF
+දරා		VNF
+ගත			VP
+නොහැකි	AUX
+ය			RP
+"	PUNC	O
+යි	RP	O
+බ්ලික්ස්	NNP	B-PER
+කියා	VNF	O
+සිටියේ	VP	O
+,	PUNC	O
+ඉරාකය	NNP	B-LOC
+දැන්	RB	O
+සිවිල්	JJ	O
+යුද්ධයකට	NNC	O
+ඔන්න	NNC	O
+මෙන්න	NNC	O
+කියා	VNF	O
+ඇති	NIP	O
+බව	POST	O
+දක්වමිනි	VFM	O
+.	FS	O
+ඉරාකය	NNP	B-LOC
+අවට	NNC	O
+පිහිටි	VP	O
+සවුදි	NNP	B-LOC
+අරාබිය	NNP	I-LOC
+,	PUNC	O
+කුවේට්	NNP	B-LOC
+,	PUNC	O
+කතාර්	NNP	B-LOC
+,	PUNC	O
+ඕමාන්	NNP	B-LOC
+,	PUNC	O
+බහරේන්	NNP	B-LOC
+සහ	CC	O
+එක්සත්	NNP	B-LOC
+අරාබි	NNP	I-LOC
+එමිරේටය	NNP	I-LOC
+යන	VP	O
+රටවලින්	NNC	O
+සැදුම්	RPCV	O
+ලත්	VP	O
+ගල්ෆ්	NNP	B-ORG
+සහයෝගිතා	JJ	I-ORG
+මණ්ඩලය	NNC	I-ORG
+ගිය	VP	O
+බ්‍රහස්පතින්දා	NNP	O
+කළ	VP	O
+ප්‍රකාශයකින්	NNC	O
+ද	RP	O
+මෙම	DET	O
+අනතුරු	NNC	O
+ඇඟ	NNC	O
+වීම	VNN	O
+සිදු	RRPCV	O
+කැරිණි	VFM	O
+.	FS	O
+මූලික	JJ	O
+වශයෙන්	POST	O
+ඇමරිකාවට	NNP	B-LOC
+පක්ෂපාත	JJ	O
+රටවලින්	NNC	O
+සැදුම්	RPCV	O
+ලත්	VP	O
+ගල්ෆ්	NNP	B-ORG
+සහයෝගිතා	JJ	I-ORG
+මණ්ඩලය	NNC	I-ORG
+විසින්	POST	O
+ඉස්මතු	JCV	O
+කැර	VNF	O
+ඇති	NIP	O
+තවත්	DET	O
+කරුණක්	NNC	O
+නම්	POST	O
+ඉරාක	NNP	O
+ජන	JJ	O
+ජීවිතය	NNC	O
+යථා	JJ	O
+තත්ත්වයට	NNC	O
+පත්	RRPCV	O
+කැර	VNF	O
+,	PUNC	O
+එරට	NNC	O
+ස්වෛරී	JJ	O
+භාවයට	NNC	O
+මඟ	NNC	O
+හෙළි	RRPCV	O
+කිරීමේ	VNN	O
+දී	RP	O
+එක්සත්	NNP	B-ORG
+ජාතින්ගේ	NNP	I-ORG
+මණ්ඩලය	NNC	I-ORG
+ප්‍රධාන	JJ	O
+කාර්යභාරයක්	NNC	O
+ඉටු	RPCV	O
+කළ	VP	O
+යුතු	AUX	O
+බව	POST	O
+ය	RP	O
+.	FS	O
+ඉරාකය	NNP	B-LOC
+පමණක්	POST	O
+නොව	VNF	O
+ඕනෑ	NIP	O
+ම	RP	O
+රටක්	NNC	O
+තුළ	POST	O
+ප්‍රචණ්ඩත්වය	NNC	O
+පිටු	RRPCV	O
+දැකිය	VP	O
+යුතු	AUX	O
+ය	RP	O
+.	FS	O
+ඒ	DET	O
+අතර	POST	O
+ම	RP	O
+,	PUNC	O
+ඉරාකයේ	NNP	B-LOC
+විවිධ	JJ	O
+ජන	JJ	O
+කොටස්	NNC	O
+අතරින්	POST	O
+දැනට	RB	O
+පළ	RRPCV	O
+වන	VP	O
+සටන්කාමි	JJ	O
+විරෝධය	NNC	O
+ප්‍රජාතන්ත්‍රවාදී	JJ	O
+ප්‍රතිසංස්කරණ	NNC	O
+ප්‍රතිකේෂ්ප	NCV	O
+කිරීමක්	VNN	O
+නොව	VNF	O
+,	PUNC	O
+විදේශීය	JJ	O
+ආක්‍රමණිකයන්ගේ	NNC	O
+ආධිපත්‍යයට	NNC	O
+විරෝධය	NNC	O
+පෑමක්	NNC	O
+ලෙස	POST	O
+ද	RP	O
+තේරුම්	NCV	O
+ගත	VP	O
+යුතු	AUX	O
+ව	RP	O
+තිබේ	VFM	O
+.	FS	O
+ගත	VP	O
+වූ	VP	O
+තෙමස	NNC	O
+තුළ	POST	O
+උගන්ඩා	NNP	B-LOC
+කැරළිකරුවන්	NNC	O
+ළමයින්	NNC	O
+10000	NUM	O
+ක්	RP	O
+පැහැර	VNF	O
+ගෙන	VNF	O
+ගිහින්	VNF	O
+එක්සත්	NNP	B-ORG
+ජාතීන්ගේ	NNP	I-ORG
+සංවිධානය	NCV	I-ORG
+කියයි	VFM	O
+එක්සත්	NNP	B-ORG
+ජාතීන්ගේ	NNP	I-ORG
+සංවිධානයේ	NNC	I-ORG
+දී	RP	O
+ය	RP	O
+.	FS	O
+ලිංගික	JJ	O
+වහලුන්	NNC	O
+සහ	CC	O
+සොල්දාදුවන්	NNC	O
+ලෙස	POST	O
+යොදවා	VNF	O
+ගැනීම	VNN	O
+සඳහා	POST	O
+,	PUNC	O
+ගත	VP	O
+වු	VP	O
+මාස	NNC	O
+18	NUM	O
+තුළ	POST	O
+,	PUNC	O
+උගන්ඩා	NNP	B-LOC
+කැරළිකරුවන්	NNC	O
+විසින්	POST	O
+,	PUNC	O
+එරට	NNC	O
+ළමයින්	NNC	O
+1000කට	NUM	O
+අධික	JJ	O
+සංඛ්‍යාවක්	NNC	O
+නිවෙස්වලින්	NNC	O
+පැහැර	VNF	O
+ගෙන	VNF	O
+ගොස්	VNF	O
+ඇතැයි	NIP	O
+එක්සත්	NNP	B-ORG
+ජාතීන්ගේ	NNP	I-ORG
+සංවිධානයේ	NNC	I-ORG
+ජ්‍යෙෂ්ඨ	JJ	O
+නිළධාරියකු	NNC	O
+පැවසීය	VFM	O
+.	FS	O
+එක්සත්	NNP	B-ORG
+ජාතීන්ගේ	NNP	I-ORG
+සංවිධානයේ	NNC	I-ORG
+කඩිනම්	JJ	O
+සහනාධාර	NNC	O
+පිළිබඳ	POST	O
+සම්බන්ධීකරණ	JJ	O
+නිලධාරියා	NNC	O
+වන	VP	O
+ජෑන්	NNP	B-PER
+ඉගලන්ඩ්	NNP	I-PER
+නැමැති	POST	O
+මෙම	DET	O
+නිලධාරියා	NNC	O
+,	PUNC	O
+උගන්ඩාවේ	NNP	B-LOC
+මේ	DET	O
+තත්ත්වය	NNC	O
+හඳුන්වා	VNF	O
+දී	RP	O
+ඇත්තේ	NIP	O
+,	PUNC	O
+ලෝකයේ	NNC	O
+මානව	JJ	O
+හිමිකම්	NNC	O
+උල්ලංඝනය	NCV	O
+කිරීම්	VNN	O
+පිළිබඳ	POST	O
+ව	RP	O
+නොසලකා	VNF	O
+හැර	VNF	O
+ඇති	NIP	O
+භයානක	JJ	O
+ම	RP	O
+අර්බූදය	NNC	O
+හැටියටයි	NVB	O
+.	FS	O
+"			PUNC
+ප්‍රාණ	JJ
+පරිත්‍යාගයේ	NNC
+වීරයන්	NNC
+"	PUNC	O
+ලෙස	POST	O
+තමන්	PRP	O
+විසින්	POST	O
+හඳුන්වනු	VP	O
+ලබන	VP	O
+මරා	VNF	O
+ගෙන	VNF	O
+මැරෙන	VP	O
+කණ්ඩායම්වල	NNC	O
+මෙහෙයුම්	NNC	O
+යුක්ති	NCV	O
+සහගත	VP	O
+බව	POST	O
+පෙන්වීම	VNN	O
+සඳහා	POST	O
+හමාස්	NNP	B-ORG
+සංවිධානය	NCV	I-ORG
+කියා	VNF	O
+සිටින්නේ	VP	O
+ඊශ්‍රායෙල්	NNP	B-LOC
+සතුරාට	NNC	O
+වෙනත්	DET	O
+"			PUNC
+භාෂාවක්	NNC
+"	PUNC	O
+නොතේරෙන	VP	O
+බවය	NVB	O
+.	FS	O
+හමාස්	NNP	B-ORG
+මෙන්ම	POST	O
+ජිහාඩ්	NNP	B-ORG
+සංවිධාන	NNC	I-ORG
+ද	RP	O
+ත්‍රස්තවාදී	JJ	O
+කණ්ඩායම්	NNC	O
+ලෙස	POST	O
+ඇමරිකාව	NNP	B-LOC
+සහ	CC	O
+බටහිර	NNP	B-LOC
+ලෝකය	NNC	O
+විසින්	POST	O
+පිළිගනු	VP	O
+ලැබ	VNF	O
+ඇතත්	NIP	O
+,	PUNC	O
+ඇමරිකාවට	NNP	B-LOC
+තරමක	JJ	O
+වෙනස්	JJ	O
+මඟක්	NNC	O
+ගනිමින්	VNF	O
+,	PUNC	O
+ඊශ්‍රායෙලයේ	NNP	B-LOC
+නවතම	JJ	O
+ප්‍රහාරය	NNC	O
+දෙස	POST	O
+වඩා	RP	O
+යථාර්ථවාදී	JJ	O
+බැල්මක්	NNC	O
+හෙළීමට	VNN	O
+යුරෝපා	NNP	B-ORG
+සංගමය	NNC	I-ORG
+පෙළැඹී	VNF	O
+ඇත	NIP	O
+.	FS	O
+බෙල්ජියමේ	NNP	B-LOC
+බ්‍රසල්ස්	NNP	I-LOC
+නගරයේ	NNC	O
+දී	RP	O
+ගිය	VP	O
+සිකුරාදා	NNP	O
+ප්‍රකාශයක්	NNC	O
+කළ	VP	O
+යුරෝපා	NNP	B-ORG
+සංගමයේ	NNC	I-ORG
+නායකත්වය	NNC	O
+නියෝජනය	NCV	O
+කරන	VP	O
+යුරෝපා	NNP	B-ORG
+මණ්ඩලය	NNC	I-ORG
+පෙන්වා	VNF	O
+දුන්නේ	VP	O
+ඊශ්‍රායලයේ	NNP	B-LOC
+හමාස්	NNP	B-ORG
+නායක	NNC	O
+ඝාතනය	NNC	O
+නිසා	POST	O
+උත්සන්න	JCV	O
+වූ	VP	O
+ප්‍රචණ්ඩත්වයේ	NNC	O
+අලුත්	JJ	O
+රැල්ල	NNC	O
+මඟින්	POST	O
+මැද	NNP	O
+පෙරදිග	NNP	O
+සාමකාමී	JJ	O
+විසඳුමකට	NNC	O
+ඇති	NIP	O
+ඉඩ	NNC	O
+ප්‍රස්ථා	NNC	O
+තවත්	DET	O
+ඈත්	RRPCV	O
+කර	VNF	O
+ඇති	NIP	O
+බවය	NVB	O
+.	FS	O
+ෂීක්	NNP	B-PER
+අහ්මද්	NNP	I-PER
+යාසින්	NNP	I-PER
+ඝාතනය	NCV	O
+කිරීම	VNN	O
+සාමාන්‍ය	JJ	O
+ප්‍රචණ්ඩකාරී	JJ	O
+ක්‍රියාවක	NNC	O
+සීමාව	NNC	O
+ඉක්මවා	VNF	O
+වඩාත්	RP	O
+කුරිරු	JJ	O
+අපරාධයක	NNC	O
+ස්වරූපය	NNC	O
+ගෙන	VNF	O
+ඇත්තේ	NIP	O
+දෑත්	NNC	O
+දෙපා	NNC	O
+අවලංගු	JCV	O
+වී	VNF	O
+,	PUNC	O
+රෝද	NNJ	O
+පුටුවකින්	NNC	O
+ගසාවේ	NNP	B-LOC
+මහ	JJ	I-LOC
+පල්ලියට	NNC	I-LOC
+යමින්	VNF	O
+සිටි	VP	O
+ආබාධිතයෙකු	NNC	O
+වන	VP	O
+ඔහු	PRP	O
+මරා	VNF	O
+දැමීමට	VNN	O
+මැද	POST	B-LOC
+පෙරදිග	NNP	I-LOC
+ප්‍රධාන	JJ	O
+ම	RP	O
+යුද්ධ	NNJ	O
+යන්ත්‍රයේ	NNC	O
+මිසයිල්	NNJ	O
+ප්‍රහාරයක්	NNC	O
+උපයෝගී	RRPCV	O
+කර	VNF	O
+ගෙන	VNF	O
+තිබීම	VNN	O
+නිසා	POST	O
+ය	RP	O
+.	FS	O
+හමාස්	NNP	B-ORG
+සංවිධානයේ	NNC	I-ORG
+නායකයන්	NNC	O
+කවදත්	NNC	O
+ජීවත්	JCV	O
+වූයේ	VP	O
+ඝාතන	NNJ	O
+තර්ජනය	NNC	O
+හිසට	NNC	O
+උඩින්	NNC	O
+ඇතිවය	NIP	O
+.	FS	O
+ෂීක්	NNP	B-PER
+යාසින්	NNP	I-PER
+මෙයට	PRP	O
+කලින්	NNC	O
+වතාවකදීත්	NNC	O
+ඊශ්‍රායල්	NNP	B-LOC
+ඝාතන	NNJ	O
+ප්‍රයත්නයකට	NNC	O
+ඉලක්ක	NCV	O
+වී	VNF	O
+යත්නම්	POST	O
+දිවි	NNC	O
+ගලවා	VNF	O
+ගත්	VP	O
+අතර	POST	O
+,	PUNC	O
+ඔහුගෙන්	PRP	O
+පසු	POST	O
+ගාසාවේ	NNP	B-LOC
+හමාස්	NNP	B-ORG
+නායකත්වයට	NNC	O
+පත්	RRPCV	O
+වූ	VP	O
+අබ්දුල්	NNP	B-PER
+අසිස්	NNP	I-PER
+රන්තිසි	NNP	I-PER
+ගිය	VP	O
+ජූලි	NNP	O
+මාසයේ	NNC	O
+ඊශ්‍රායල්	NNP	B-LOC
+ප්‍රහාරයකින්	NNC	O
+තුවාල	NNC	O
+ලැබීය	VFM	O
+.	FS	O
+සිරියාවේ	NNP	B-LOC
+සිට	POST	O
+ක්‍රියාත්මක	JCV	O
+වන	VP	O
+හමාස්හි	NNC	B-ORG
+අනෙක්	DET	O
+නායකයා	NNC	O
+වන	VP	O
+කාලෙද්	NNP	B-PER
+මෂාල්	NNP	I-PER
+කලකට	NNC	O
+පෙර	POST	O
+අම්මාන්	NNP	B-LOC
+නගරයේ	NNC	O
+දී	RP	O
+ඊශ්‍රායල්	NNP	B-LOC
+නියෝජිතයන්	NNC	O
+විසින්	POST	O
+අල්ලා	VNF	O
+ගනු	VP	O
+ලැබ	VNF	O
+,	PUNC	O
+පසුව	POST	O
+බේරා	VNF	O
+ගත	VP	O
+හැකි	AUX	O
+වූයේ	VP	O
+ජෝදාන්	NNP	B-ORG
+රජයේ	NNC	I-ORG
+බරපතල	NNC	O
+මැදිහත්	JCV	O
+වීම	VNN	O
+නිසා	POST	O
+ය	RP	O
+.	FS	O
+ෂීක්	NNP	B-PER
+යාසින්ගෙන්	NNP	I-PER
+පසු	POST	O
+ගාසා	NNP	B-LOC
+තීරුවේ	NNP	I-LOC
+හමාස්	NNP	B-ORG
+ප්‍රධානියා	NNC	O
+ලෙස	POST	O
+පත්	RRPCV	O
+වූ	VP	O
+රන්තිසි	NNP	B-PER
+මෙන්ම	POST	O
+සිරියාව	NNP	B-LOC
+මධ්‍යස්ථානය	NNC	O
+කර	VNF	O
+ගනිමින්	VNF	O
+අරාබි	NNP	B-LOC
+ලෝකයේ	NNC	O
+සැරි	NNC	O
+සරන	VP	O
+හමාස්	NNP	B-ORG
+මූලෝපාය	JJ	O
+න්‍යායධරයා	NNC	O
+ලෙස	POST	O
+සැලැකෙන	VP	O
+කාලෙද්	NNP	B-PER
+මෂාල්	NNP	I-PER
+ද	RP	O
+ඊශ්‍රායලය	NNP	B-LOC
+සමඟ	POST	O
+කිසිම	DET	O
+ආකාරයේ	NNC	O
+අතර	POST	O
+මඟ	NNJ	O
+සමාදානයක්	NNC	O
+ප්‍රතික්ෂේප	NCV	O
+කරති	VFM	O
+.	FS	O
+හමාස්	NNP	B-ORG
+සංවිධානයේ	NNC	I-ORG
+ඉදිරි	JJ	O
+නායකත්වය	NNC	O
+සඳහා	POST	O
+ඔවුන්	PRP	O
+අතර	POST	O
+බල	NNJ	O
+පොරයක්	NNC	O
+ඇති	NIP	O
+නොවේ	VNN	O
+යැයි	CC	O
+කිව	VP	O
+නොහැකි	AUX	O
+වුවද	VP	O
+,	PUNC	O
+පලස්තීනය	NNP	B-LOC
+මුදා	VNF	O
+ගන්නා	VP	O
+තුරු	POST	O
+ඊශ්‍රායල්	NNP	B-LOC
+ඉලක්කවලට	NNC	O
+නොකඩවා	RB	O
+පහර	NCV	O
+දීමටත්	VNN	O
+,	PUNC	O
+එහි	PRP	O
+දී	RP	O
+ඊශ්‍රායල්	NNP	B-LOC
+අගමැති	NNC	O
+ඒරියල්	NNP	B-PER
+ෂැරොන්	NNP	I-PER
+ඇතුළු	POST	O
+ඉලක්ක	NNC	O
+පසුපස	NNC	O
+නො	RP	O
+කඩවා	NNC	O
+හඹා	VNF	O
+යාමටත්	VNN	O
+දෙදෙනා	NNC	O
+ම	RP	O
+ප්‍රතිඥා	NCV	O
+දී	VNF	O
+ඇත	NIP	O
+.	FS	O
+හමාස්	NNP	B-ORG
+සංවිධානය	NNC	I-ORG
+සිරියාවේ	NNP	B-LOC
+අනුග්‍රහයෙන්	RB	O
+පැවැත්වෙන්නක්	VNN	O
+බව	POST	O
+විශ්වාස	NCV	O
+කැරෙන	VP	O
+හෙයින්	POST	O
+,	PUNC	O
+ඇමරිකාව	NNP	B-LOC
+සහ	CC	O
+සිරියාව	NNP	B-LOC
+අතර	POST	O
+දැනට	RB	O
+පවතින	VP	O
+ප්‍රශ්න	NNC	O
+වඩා	RP	O
+උග්‍ර	JCV	O
+වීමට	VNN	O
+ඉඩ	NNC	O
+ඇතැයි	NIP	O
+ද	RP	O
+සැලකේ	VFM	O
+.	FS	O
+ඒ	DET	O
+අතර	POST	O
+,	PUNC	O
+ඉරාක	NNP	B-LOC
+යුද්ධයෙන්	NNC	O
+පසු	POST	O
+උද්ගත	VP	O
+වී	VNF	O
+ඇති	NIP	O
+කලාපීය	JJ	O
+යථාර්ථයන්	NNC	O
+නිසා	POST	O
+ඇමරිකාව	NNP	B-LOC
+දිගට	NNC	O
+ම	RP	O
+නොරොක්	JCV	O
+කර	VNF	O
+ගැනීම	VNN	O
+සිරියාවට	NNP	B-LOC
+ඔරොත්තු	RRPCV	O
+නොදෙන	VP	O
+දෙයක්	NNC	O
+ලෙස	POST	O
+පෙනී	VNF	O
+යන	VP	O
+හෙයින්	POST	O
+හමාස්	NNP	B-ORG
+ක්‍රියාකාරීන්	NNC	O
+තම	PRP	O
+රටින්	NNC	O
+පිටමං	JCV	O
+කිරීමට	VNN	O
+හෝ	CC	O
+ඔවුනට	PRP	O
+සැපයෙන	VP	O
+ආධාර	NNC	O
+අඩු	JCV	O
+කිරීමට	VNN	O
+හෝ	CC	O
+සිරියාව	NNP	B-LOC
+ක්‍රියා	NCV	O
+කරනු	VP	O
+ඇත්ද	QUE	O
+යන	VP	O
+ප්‍රශ්නයත්	NNC	O
+පැන	VNF	O
+නඟී	VFM	O
+.	FS	O
+යාසින්	NNP	B-PER
+ඝාතනය	NNC	O
+වාර්තා	NCV	O
+වූයේ	VP	O
+ලෝක	NNJ	O
+දේශපාලනය	NNC	O
+තුළ	POST	O
+-	PUNC	O
+විශේෂයෙන්	RB	O
+ම	RP	O
+ඉස්ලාමීය	NNP	O
+සටන්කාමීත්වය	NNC	O
+සහ	CC	O
+මූලධර්මවාදය	NNC	O
+මැද	JJ	B-LOC
+පෙරදිග	NNC	I-LOC
+දී	RP	O
+මෙන්ම	POST	O
+ඇෆ්ගනිස්ථානය	NNP	B-LOC
+වැනි	POST	O
+රටවලදීත්	NNC	O
+වඩා	RP	O
+දැඩි	JJ	O
+පැවැත්මක්	NNC	O
+පෙන්නුම්	JCV	O
+කර	VNF	O
+ඇති	NIP	O
+වකවානුවක	NNC	O
+දී	RP	O
+වීම	VNN	O
+නොසලකා	VNF	O
+හළ	VP	O
+නොහැකි	AUX	O
+සාධකයකි	NVB	O
+.	FS	O
+විශේෂයෙන්	RB	O
+ම	RP	O
+2001	NUM	O
+සැප්තැම්බර්	NNP	O
+11	NUM	O
+ඇමරිකාවේ	NNP	B-LOC
+යුද්ධ	NNC	O
+සහ	CC	O
+ආර්ථික	JJ	O
+හදවත්	NNC	O
+මත	POST	O
+එල්ල	NCV	O
+කැරුණු	VP	O
+අල්	NNP	B-ORG
+කයිඩාවරුන්ගේ	NNP	I-ORG
+දරුණු	JJ	O
+ප්‍රහාරත්	NNC	O
+,	PUNC	O
+එහි	PRP	O
+ම	RP	O
+රුධිර	JJ	O
+රේඛාව	NNC	O
+යුරෝපය	NNP	B-LOC
+දක්වා	POST	O
+විහිදමින්	VNF	O
+ස්පාඤ්ඤයේ	NNP	B-LOC
+මැඩ්රිඩ්	NNP	I-LOC
+නුවර	NNC	O
+දුම්රිය	NNJ	O
+පද්ධතියේ	NNC	O
+මහා	JJ	O
+පිපිරීම්	NNJ	O
+මාලාවත්	NNC	O
+සමඟ	POST	O
+එකට	RB	O
+ගත්	VP	O
+විට	POST	O
+,	PUNC	O
+ඊශ්‍රායල්	NNP	B-LOC
+අතිධාවනකාරිත්වය	NNC	O
+ඔස්සේ	POST	O
+සිදු	RPCV	O
+කැරුණු	VP	O
+යාසීන්	NNP	B-PER
+ඝාතනය	NNC	O
+වඩා	RP	O
+බිහිසුණු	JJ	O
+ජාත්‍යන්තර	JJ	O
+පිටාරයකට	NNC	O
+මඟ	NCV	O
+සලසා	VNF	O
+අතැයි	NIP	O
+කිව	VP	O
+හැකිය	AUX	O
+.	FS	O
+විදෙස්	JJ	O
+ලිපිය	NNC	O
+ලිබියාවේ	NNP	B-LOC
+ගඩාෆිගෙන්	NNP	B-PER
+නොගහ	VP	O
+බැරි	JJ	O
+කරණමක්	NNC	O
+ලිබියාවේ	NNP	B-LOC
+මුආමර්	NNP	B-PER
+ගඩාෆි	NNP	I-PER
+ලෝක	NNJ	O
+දේශපාලන	JJ	O
+වේදිකාවේ	NNC	O
+එක	NUM	O
+පැත්තක	NNC	O
+සිට	POST	O
+අනෙක්	DET	O
+පැත්තට	NNC	O
+කරණමක්	NNC	O
+ගසා	VNF	O
+ඇත්ද	NIP	O
+නැත්නම්	POST	O
+,	PUNC	O
+ඇමෙරිකාවේ	NNP	B-LOC
+සුපිරි	JJ	O
+බල	NNJ	O
+ආධිපත්‍යයට	NNC	O
+සහ	CC	O
+ඊශ්‍රායලයේ	NNP	B-LOC
+රණකාමි	JJ	O
+යුදෙව්	NNP	O
+ව්‍යප්තවාදයට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+තුන්වැනි	JJ	O
+ලෝකයේ	NNC	O
+"			PUNC
+බුලට්ටුවක්	NNC
+"	PUNC	O
+ලෙස	POST	O
+සිටි	VP	O
+ගඩාෆි	NNP	B-PER
+අරාබි	NNP	B-LOC
+ලෝකය	NNC	O
+සහ	CC	O
+බටහිර	NNP	B-LOC
+ලෝකය	NNC	O
+අතර	POST	O
+සාම	JJ	O
+කුරුල්ලෙකු	NNC	O
+ලෙස	POST	O
+ඉගිලෙන්නට	VP	O
+පෙළඹුණේ	VP	O
+කළ	VP	O
+හැකි	AUX	O
+වෙන	VP	O
+දෙයක්	NNC	O
+නැති	NIP	O
+නිසා	POST	O
+ද	RP	O
+?	PUNC	O
+පසුගිය	VP	O
+හය	NUM	O
+මාසයක	NNC	O
+පමණ	POST	O
+කාලය	NNC	O
+තුළ	POST	O
+මහත්	JJ	O
+පෙරැළියකට	NNC	O
+බඳුන්	RRPCV	O
+වූ	VP	O
+ගඩාෆිගේ	NNP	B-PER
+වත්මන්	JJ	O
+දේශපාලන	JJ	O
+භූමිකාව	NNC	O
+ඇසුරින්	POST	O
+මේ	DET	O
+ප්‍රශ්න	NNC	O
+නැඟෙයි	VFM	O
+.	FS	O
+බෙල්ජියමේ	NNP	B-LOC
+සංචාරයක්	NNC	O
+සඳහා	POST	O
+ගිය	VP	O
+27වනි	NNP	O
+දා	NNC	O
+බ්‍රසල්ස්	NNP	B-LOC
+නගරයට	NNC	O
+පැමිණි	VP	O
+ගඩාෆි	NNP	B-PER
+බටහිර	NNP	B-LOC
+ජනමාධ්‍යයට	NNC	O
+පෙනුණේ	VP	O
+අපේ	PRP	O
+ග්‍රහලෝකය	NNC	O
+වන	VP	O
+පෘථිවියේ	NNC	B-LOC
+ගෙන්දගම්	NNP	O
+පොළොවට	NNC	O
+අඟහරු	NNP	B-LOC
+ලෝකයේ	NNC	O
+සිට	POST	O
+පාත්	JCV	O
+වූ	VP	O
+අමුත්තෙකු	NNC	O
+මෙනි	NVB	O
+.	FS	O
+බටහිර	NNP	B-LOC
+ලෝකයත්	NNC	O
+ලිබියාවත්	NNP	B-LOC
+අතර	POST	O
+පැවැති	VP	O
+පරතරය	NNC	O
+ඒ	DET	O
+තරමට	NNC	O
+ම	RP	O
+විශාල	JJ	O
+ය	RP	O
+.	FS	O
+ලිබියාව	NNP	B-LOC
+මෙන්ම	POST	O
+බෙල්ජියම	NNP	B-LOC
+ද	RP	O
+පිහිටා	VNF	O
+ඇත්තේ	NIP	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවට	NNP	I-LOC
+බොහෝ	RP	O
+දුර	JJ	O
+බැහැරින්	NNC	O
+වුවද	VP	O
+,	PUNC	O
+දේශපාලනය	NNC	O
+විශේෂයෙන්	RB	O
+ම	RP	O
+වෙනස්	JJ	O
+සමාජ	NNJ	O
+ක්‍රම	NNC	O
+ඇති	NIP	O
+රටවල්	NNC	O
+අතර	POST	O
+සබඳතා	NNC	O
+කොතරම්	QBE	O
+මූලික	JJ	O
+වෙනසකට	NNC	O
+බඳුන්	RPCV	O
+වී	VNF	O
+ඇත්දැයි	NIP	O
+වටහා	VNF	O
+ගැනීමට	VNN	O
+එම	DET	O
+සංචාරය	NNC	O
+අපටත්	PRP	O
+උදව්	NCV	O
+වෙයි	VFM	O
+.	FS	O
+බටහිර	NNP	B-LOC
+ලෝකයට	NNC	O
+පක්ෂපාත	NNC	O
+ව	VNF	O
+සිටි	VP	O
+පළමුවැනි	NNP	O
+අයිදිරිස්	NNP	B-PER
+රජුගේ	NNC	O
+පාලනය	NCV	O
+පෙරළා	VNF	O
+දමා	VNF	O
+එවකට	NNC	O
+26	NUM	O
+හැවිරිදි	POST	O
+ව	VNF	O
+සිටි	VP	O
+හමුදා	NNJ	O
+නිලධාරියෙකු	NNC	O
+වූ	VP	O
+කර්නල්	JJ	O
+මොආමර්	NNP	B-PER
+ගඩාෆි	NNP	I-PER
+1969	NUM	O
+සැප්තැම්බර්	NNP	O
+01	NUM	O
+වැනි	POST	O
+දා	NNC	O
+ලිබියාවේ	NNP	B-LOC
+බලය	NNC	O
+අල්ලා	VNF	O
+ගත්	VP	O
+විට	POST	O
+අරාබි	NNP	B-LOC
+ලෝකයේ	NNC	O
+තවත්	DET	O
+විප්ලවයක්	NNC	O
+පිළිබඳ	POST	O
+පුවත	NNC	O
+වාර්තා	NCV	O
+වූයේ	VP	O
+දැඩි	JJ	O
+කුතුහලයක්	NNC	O
+දනවමිනි	VFM	O
+.	FS	O
+බටහිර	NNP	B-LOC
+මාධ්‍ය	NNC	O
+විසින්	POST	O
+ඉතා	RP	O
+මෑතක්	RRPCV	O
+වන	VP	O
+තුරු	POST	O
+ම	RP	O
+විප්ලවයක්	NNC	O
+නොව	VNF	O
+"			PUNC
+රාජ්‍ය	JJ
+විරෝධි	JJ
+කුමන්ත්‍රණයක්	NNC
+"	PUNC	O
+ලෙස	POST	O
+හැඳින්වුණ	VP	O
+ලිබියාවේ	NNP	B-LOC
+දේශපාලන	JJ	O
+පෙරැළිය	NNC	O
+1952	NUM	O
+වසරේ	NNC	O
+දී	RP	O
+මිසරයේ	NNP	B-LOC
+ෆාරුක්	NNP	B-PER
+රජු	NNC	O
+පන්නා	VNF	O
+දමා	VNF	O
+අරාබි	NNP	B-LOC
+ලෝකයේ	NNC	O
+නව	JJ	O
+දේශපාලන	JJ	O
+පරපුරෙක	NNJ	O
+නායකයා	NNC	O
+ලෙස	POST	O
+ගමවල්	NNP	B-PER
+අබ්දල්	NNP	I-PER
+නසර්	NNP	I-PER
+මතු	RRPCV	O
+වූ	VP	O
+ප්‍රගතිවාදී	JJ	O
+දේශපාලන	JJ	O
+ක්‍රියාදාමයක	NNC	O
+නව	JJ	O
+පුරුකක්	NNC	O
+ලෙස	POST	O
+සැලැකිණි	VFM	O
+.	FS	O
+අරාබි	NNP	B-LOC
+ජාතිකත්වයේ	NNC	O
+දේශපාලන	JJ	O
+දෘෂ්ටියට	NNC	O
+අමතර	POST	O
+ව	VNF	O
+සැපයෙන	VP	O
+තාරුණ්‍යයේ	NNJ	O
+ජීවය	NNC	O
+ද	RP	O
+පෙන්නුම්	JCV	O
+කළ	VP	O
+ගඩාෆිගේ	NNP	B-PER
+දේශපාලන	JJ	O
+භූමිකාව	NNC	O
+ඉදිරියට	NNC	O
+ඇදුණේ	VP	O
+"			PUNC
+කඩා		VNF
+ගෙන		VNF
+යන			VP
+ගතියක්	NNC
+"	PUNC	O
+ඇතිව	NIP	O
+ය	RP	O
+.	FS	O
+ඇමරිකා	NNP	B-LOC
+එක්සත්	NNP	I-LOC
+ජනපදය	NNP	I-LOC
+ප්‍රධාන	JJ	O
+හතුරා	NNC	O
+ලෙස	POST	O
+සැලැකූ	VP	O
+ගඩාෆි	NNP	B-PER
+එයට	PRP	O
+එරෙහි	RB	O
+ව	RP	O
+එවකට	NNC	O
+පැවැති	VP	O
+සෝවියට්	NNP	B-LOC
+දේශයේ	NNC	I-LOC
+ආධිපත්‍යය	NNC	O
+ගෙඩිය	NNC	O
+පිටින්	POST	O
+ම	RP	O
+පිළිගැනීමට	VNN	O
+සූදානම්	JCV	O
+වූයේ	VP	O
+ද	RP	O
+නැත	NIP	O
+.	FS	O
+ඒ	DET	O
+සමඟ	POST	O
+ම	RP	O
+සම්ප්‍රදායික	JJ	O
+අරාබි	NNP	B-LOC
+නායකත්වය	NNC	O
+ඇමරිකාව	NNP	B-LOC
+සහ	CC	O
+ඊශ්‍රායෙලය	NNP	B-LOC
+හමුවේ	NNC	O
+අවශ්‍ය	JJ	O
+තරමේ	NNC	O
+සටන්	NNJ	O
+කාමීත්වයක්	NNC	O
+නොපෙන්වා	VNF	O
+"			PUNC
+වැනෙන		VP
+සුළු		JJ
+"	PUNC	O
+ස්ථාවරයක්	RPCV	O
+ගනිමින්	VNF	O
+ඇතැයි	NIP	O
+ද	RP	O
+ඔහු	PRP	O
+චෝදනා	NCV	O
+කළේ	VP	O
+ය	RP	O
+.	FS	O
+නසාර්ගෙන්	NNP	B-PER
+පසු	POST	O
+අරාබි	NNP	B-LOC
+ජාතිකත්වීය	NNJ	O
+නායකත්වය	NNC	O
+උරුම	NCV	O
+කැර	VNF	O
+ගැනීමේ	VNN	O
+රුචියක්	NNC	O
+පෙන්වූ	VP	O
+ඉරාකයේ	NNP	B-LOC
+සදාම්	NNP	B-PER
+හුසේන්	NNP	I-PER
+,	PUNC	O
+සිරියාවේ	NNP	B-LOC
+පහෙස්	NNP	B-PER
+අල්	NNP	I-PER
+අසාද්	NNP	I-PER
+සහ	CC	O
+පලස්තීන	NNP	B-LOC
+විමුක්ති	NNP	O
+සටනේ	NNC	O
+දී	RP	O
+වඩා	RP	O
+පළල්	JCV	O
+පිළිගැනීමක්	VNN	O
+ලබා	VNF	O
+සිටි	VP	O
+යසර්	NNP	B-PER
+අරෆත්	NNP	I-PER
+පවා	POST	O
+ඇමරිකන්	NNP	B-LOC
+ඊශ්‍රායෙල්	NNP	I-LOC
+සංධානයට	NNC	O
+එරෙහි	RB	O
+සටනේ	NNC	O
+දී	RP	O
+"			PUNC
+සෙවල		NCV
+පෙරමින්	VNF
+"	PUNC	O
+ඇතැයි	NIP	O
+ගඩාෆි	NNP	B-PER
+චෝදනා	NCV	O
+කළේ	VP	O
+ය	RP	O
+.	FS	O
+ඊශ්‍රායෙලය	NNP	B-LOC
+විනාශ	NCV	O
+කැර	VNF	O
+,	PUNC	O
+මැද	NNP	B-LOC
+පෙරදිග	NNP	I-LOC
+සිතියමෙන්	NNC	O
+මකා	VNF	O
+දැමීමෙන්	VNN	O
+තොරව	POST	O
+පලස්තීන	NNP	B-LOC
+විමුක්තියක්	NNC	O
+හෝ	CC	O
+අරාබි	NNP	B-LOC
+පැවැත්මක්	NNC	O
+හෝ	CC	O
+තිබිය	VP	O
+නොහැකි	AUX	O
+බව	POST	O
+ඔහුගේ	PRP	O
+තර්කය	NNC	O
+විය	VFM	O
+.	FS	O
+මහ	JJ	O
+අරාබියක්	NNP	B-LOC
+පිළිබඳ	POST	O
+අන්ත	JJ	O
+ජාතිකවාදී	JJ	O
+දර්ශනයෙන්	NNC	O
+මත්	RRPCV	O
+වූ	VP	O
+ඔහු	PRP	O
+,	PUNC	O
+එහි	PRP	O
+ප්‍රාථමික	JJ	O
+පියවරක්	NNC	O
+ලෙස	POST	O
+ලිබියාව	NNP	B-LOC
+,	PUNC	O
+ඊජිප්තුව	NNP	B-LOC
+,	PUNC	O
+ටියුනිසියාව	NNP	B-LOC
+,	PUNC	O
+සිරියාව	NNP	B-LOC
+එක	NUM	O
+ම	RP	O
+රාජ්‍යයක්	NNC	O
+ලෙස	POST	O
+ගොනු	NCV	O
+වීමේ	VNN	O
+ප්‍රතිපත්තියක්	NNC	O
+වෙනුවෙන්	POST	O
+පෙනී	VNF	O
+සිටි	VP	O
+අතර	POST	O
+,	PUNC	O
+ඇත්ත	NNC	O
+වශයෙන්	POST	O
+ම	RP	O
+එවැන්නක්	NNC	O
+සඳහා	POST	O
+අතිධාවනකාරි	JJ	O
+ගමනක	NNC	O
+යෙදුණේ	VP	O
+ය	RP	O
+.	FS	O
+බටහිර	NNP	B-LOC
+ධනේශ්වර	JJ	O
+ක්‍රමයට	NNC	O
+සහ	CC	O
+සෝවියට්	NNP	O
+කොමියුනිස්ට්	NNP	O
+ක්‍රමයට	NNC	O
+ද	RP	O
+වෙනස්	JCV	O
+වූ	VP	O
+ඉස්ලාමීය	NNP	O
+සමාජවාදයක්	NNC	O
+වෙනුවෙන්	POST	O
+පෙනී	VNF	O
+සිටි	VP	O
+ගඩාෆි	NNP	B-PER
+,	PUNC	O
+ඒ	DET	O
+සඳහා	POST	O
+අරමුණු	NCV	O
+කැරුණු	VP	O
+ජාත්‍යන්තර	JJ	O
+මූලස්ථානයක්	NNC	O
+ලෙස	POST	O
+ලිබියාව	NNP	B-LOC
+ශක්තිමත්	JCV	O
+කළේ	VP	O
+,	PUNC	O
+සිය	PRP	O
+පරමාදර්ශය	NNC	O
+වෙනුවෙන්	POST	O
+කැප	RPCV	O
+වූ	VP	O
+ලොව	NNC	O
+පුරා	POST	O
+ත්‍රස්තවාදී	JJ	O
+කණ්ඩායම්වලට	NNC	O
+මුල්‍යමය	JJ	O
+සහ	CC	O
+යුද්ධමය	NNC	O
+වශයෙන්	POST	O
+ආධාර	NCV	O
+දෙන	VP	O
+බවට	POST	O
+ඇමරිකාවත්	NNP	B-LOC
+සෙසු	DET	O
+බටහිර	NNP	B-LOC
+රටවලුත්	NNC	O
+බරපතළ	JJ	O
+චෝදනා	NNC	O
+නඟද්දී	VNF	O
+ය	RP	O
+.	FS	O
+අරාබි	NNP	B-LOC
+ලෝකය	NNC	O
+සතු	POST	O
+ප්‍රධාන	JJ	O
+ආර්ථික	JJ	O
+සම්පත	NNC	O
+වන	VP	O
+ඛණිජ	JJ	O
+තෙල්	NNC	O
+ඇමරිකාවටත්	NNP	B-LOC
+ඊශ්‍රායලයටත්	NNP	I-LOC
+එරෙහි	RB	O
+ව	VNF	O
+යෙදැවිය	VP	O
+යුතු	AUX	O
+බවට	POST	O
+උද්ඝෝෂණය	NCV	O
+කළ	VP	O
+ගඩාෆි	NNP	B-PER
+,	PUNC	O
+එම	DET	O
+රටවලට	NNC	O
+තෙල්	NNC	O
+විකිණීම	VNN	O
+නැවැත්වීමේ	VNN	O
+ව්‍යාපාරයට	NNC	O
+අත	NNC	O
+ගැසුවේ	VP	O
+අනෙක්	DET	O
+අරාබි	NNP	B-LOC
+රටවලටත්	NNC	O
+කලිනි	NVB	O
+.	FS	O
+ඉස්ලාමීයත්වය	NNP	O
+පෙරටු	RRPCV	O
+කැර	VNF	O
+ගෙන	VNF	O
+ඇමරිකාවට	NNP	B-LOC
+එරෙහි	RB	O
+තුන්වැනි	JJ	B-ORG
+ලෝක	NNJ	I-ORG
+එක්සත්	NNP	I-ORG
+පෙරමුණක්	NNC	I-ORG
+ගොඩ	RRPCV	O
+නඟා	VNF	O
+ඊශ්‍රායෙලය	NNP	B-LOC
+චප්පකැර	VNF	O
+,	PUNC	O
+පලස්තීනය	NNP	B-LOC
+මුදා	VNF	O
+ගැනීමේ	VNN	O
+අති	JJ	O
+සටන්කාමි	JJ	O
+පිළිවෙතකට	NNC	O
+කැපව	VNF	O
+සිටි	VP	O
+ගඩාෆි	NNP	B-PER
+,	PUNC	O
+එම	DET	O
+දේශපාලන	JJ	O
+ක්‍රියාදාමයේ	NNC	O
+දී	RP	O
+ඇමරිකාවේ	NNP	B-LOC
+ආක්‍රමණශීලි	JJ	O
+ප්‍රතිචාරයෙන්	NNC	O
+නොයෙක්	JJ	O
+වර	NNC	O
+බැට	NCV	O
+කෑවේ	VP	O
+ය	RP	O
+.	FS	O
+ලිබියාවට	NNP	B-LOC
+අයත්	POST	O
+සිද්රා	NNP	B-LOC
+මුහුදු	NNJ	I-LOC
+බොක්කට	NNC	I-LOC
+ඇතුළු	POST	O
+වූ	VP	O
+ඇමරිකන්	NNP	B-ORG
+ගුවන්	JJ	I-ORG
+හමුදාවේ	NNC	I-ORG
+ප්‍රහාරක	JJ	O
+යානා	NNC	O
+විසින්	POST	O
+1980	NUM	O
+දී	RP	O
+ලිබියන්	NNP	B-LOC
+යුද	JJ	O
+නැව්	NNC	O
+දෙකක්	NUM	O
+විනාශ	NCV	O
+කරන	VP	O
+ලද	VP	O
+අතර	POST	O
+1986	NUM	O
+දී	RP	O
+එම	DET	O
+මුහුදේ	NNC	O
+ම	RP	O
+යාත්‍රා	NCV	O
+කළ	VP	O
+ඇමරිකන්	NNP	B-LOC
+යුද	JJ	O
+නැව්	NNC	O
+මගින්	POST	O
+තවත්	DET	O
+ලිබියන්	NNP	B-LOC
+යුද	JJ	O
+නැව්	NNC	O
+දෙකක්	NUM	O
+විනාශ	NCV	O
+කැරිණි	VFM	O
+.	FS	O
+ලිබියාව	NNP	B-LOC
+තුළ	POST	O
+හමුදා	NNJ	O
+බැරැක්ක	NNJ	O
+කලාපයකට	NNC	O
+1986	NUM	O
+දී	RP	O
+එල්ල	NCV	O
+කළ	VP	O
+ඇමරිකන්	NNP	B-LOC
+ගුවන්	JJ	O
+යානයක	NNJ	O
+ප්‍රහාරක	NNJ	O
+බෝම්බවලින්	NNC	O
+ගඩාෆිගේ	NNP	B-PER
+නිවහනක්	NNC	O
+ද	RP	O
+විනාශ	NCV	O
+වූයේ	VP	O
+ඔහු	PRP	O
+විසින්	POST	O
+හදා	VNF	O
+ගැනුණු	VP	O
+දියණියක	NNC	O
+ඇතුළු	POST	O
+ලිබියන්	NNP	B-LOC
+වැසියන්	NNC	O
+කිහිප	DET	O
+දෙනෙකු	NNC	O
+මරුමුවට	NNC	O
+පත්	RRPCV	O
+කරමිනි	VFM	O
+.	FS	O
+එවකට	NNC	O
+සිටි	VP	O
+ඇමරිකන්	NNP	B-LOC
+ජනාධිපති	NNC	O
+රොනල්ඩ්	NNP	B-PER
+රේගන්	NNP	I-PER
+කියා	VNF	O
+සිටියේ	VP	O
+මෙම	DET	O
+ප්‍රහාරය	NNC	O
+එල්ල	NCV	O
+කළේ	VP	O
+ගඩාෆි	NNP	B-PER
+විසින්	POST	O
+ලිබියාව	NNP	B-LOC
+තුළ	POST	O
+පවත්වා	VNF	O
+ගෙන	VNF	O
+යනු	VP	O
+ලබන	VP	O
+ත්‍රස්තවාදී	JJ	O
+මධ්‍යස්ථානවලට	NNC	O
+බව	POST	O
+ය	RP	O
+.	FS	O
+ලිබියන්	NNP	B-LOC
+බටහිර	NNP	I-LOC
+ආරෝවට	NNC	O
+තිස්පස්	NUM	O
+වසරක	NNC	O
+ඉතිහාසයක්	NNC	O
+ඇතත්	NIP	O
+ඔවුනතර	PRP	O
+සබඳතා	NNC	O
+ඉතා	RP	O
+තීරණාත්මක	JJ	O
+ලෙස	POST	O
+බිඳ	VNF	O
+වැටුණේ	VP	O
+1988	NUM	O
+ස්කොට්ලන්තයේ	NNP	B-LOC
+ලොකර්බිහි	NNP	I-LOC
+දී	RP	O
+ඇමරිකන්	NNP	B-LOC
+මගී	JJ	O
+ගුවන්	JJ	O
+යානයක්	NNC	O
+සහ	CC	O
+අප්‍රිකාවේ	NNP	B-LOC
+නයිජර්හි	NNP	I-LOC
+පියාසර	JCV	O
+කරමින්	VNF	O
+තිබූ	VP	O
+ප්‍රංශ	NNP	B-LOC
+මගී	JJ	O
+ගුවන්	JJ	O
+යානයක්	NNC	O
+ද	RP	O
+ලිබියානුවන්	NNP	B-LOC
+විසින්	POST	O
+පුපුරවා	VNF	O
+හරිනු	VP	O
+ලැබීමේ	VNN	O
+සිදුවීම්	NNC	O
+දෙක	NUM	O
+සමඟ	POST	O
+ය	RP	O
+.	FS	O
+එම	DET	O
+පිපිරීම්	VNN	O
+දෙකේ	NUM	O
+දී	RP	O
+440ක්	NNC	O
+මරු	NNC	O
+මුවට	NNC	O
+පත්	RRPCV	O
+වූ	VP	O
+අතර	POST	O
+,	PUNC	O
+බටහිර	NNP	B-LOC
+ගුවන්	JJ	O
+යානා	NNC	O
+දෙක	NUM	O
+පුපුරුවා	VNF	O
+හළ	VP	O
+ලිබියානුන්	NNP	B-LOC
+බාර	NCV	O
+දෙන	VP	O
+ලෙස	POST	O
+එක්සත්	NNP	B-ORG
+ජාතීන්ගේ	NNP	I-ORG
+ආරක්ෂක	JJ	I-ORG
+මණ්ඩලය	NNC	I-ORG
+ඔස්සේ	POST	O
+එල්ල	NCV	O
+කැරුණු	VP	O
+දැඩි	JJ	O
+බලපෑම්	NNC	O
+මධ්‍යයේ	NNC	O
+ගඩාෆි	NNP	B-PER
+ජාත්‍යන්තර	JJ	O
+වශයෙන්	POST	O
+දුෂ්කර	JJ	O
+තත්ත්වයකට	NNC	O
+පත්	RRPCV	O
+විය	VFM	O
+.	FS	O
+රාජ්‍යතාන්ත්‍රික	JJ	O
+මෙන්ම	POST	O
+ජගත්	JJ	O
+අධිකරණමය	JJ	O
+ක්‍රියාදාම	NNC	O
+ඔස්සේ	POST	O
+මහත්	JJ	O
+හැලහැප්පීම්	NNC	O
+වලට	CM	O
+ලක්	RRPCV	O
+වූ	VP	O
+ලිබියාව	NNP	B-LOC
+,	PUNC	O
+ආර්ථික	JJ	O
+සහ	CC	O
+දේශපාලන	JJ	O
+සම්බාධක	NNC	O
+වලට	CM	O
+ද	RP	O
+ගොදුරු	NCV	O
+වූ	VP	O
+අතර	POST	O
+,	PUNC	O
+දශක	NNC	O
+එකහමාරක්	NUM	O
+තිස්සේ	POST	O
+ජාත්‍යන්තර	JJ	O
+හුදෙකලාවක්	NNC	O
+තුළ	POST	O
+ලිබියාව	NNP	B-LOC
+කොටු	NNC	O
+කර	VNF	O
+තැබීමට	VNN	O
+හේතු	NCV	O
+වූ	VP	O
+එම	DET	O
+ප්‍රශ්නය	NNC	O
+මාස	NNC	O
+කිහිපයකට	NNC	O
+පෙර	POST	O
+අවසන්	JCV	O
+වූයේ	VP	O
+ගුවන්	JJ	O
+යානා	NNC	O
+බෝම්බ	NNJ	O
+පිපිරවීම්	NNC	O
+පිළිබඳ	POST	O
+වගකීම	NNC	O
+සදාචාරමය	NNC	O
+වශයෙන්	POST	O
+පිළිගත්	VP	O
+ලිබියාව	NNP	B-LOC
+,	PUNC	O
+විපතට	NNC	O
+පත්	RRPCV	O
+වූවන්ගේ	NNJ	O
+පවුල්වලට	NNC	O
+විශාල	JJ	O
+වශයෙන්	POST	O
+වන්දි	NCV	O
+ගෙවීමට	VNN	O
+එකඟ	JCV	O
+වීමෙනි	VFM	O
+.	FS	O
+දශක	NNC	O
+තුනකටත්	NUM	O
+වැඩි	JJ	O
+කාලයක්	NNC	O
+ලිබියාව	NNP	B-LOC
+සහ	CC	O
+බටහිර	NNP	B-LOC
+ලෝකය	NNC	O
+අතර	POST	O
+පැවැති	VP	O
+විරසක	NNC	O
+බව	POST	O
+සමකාලීන	JJ	O
+ලෝකයේ	NNC	O
+ජාත්‍යන්තර	JJ	O
+දේශපාලන	JJ	O
+ප්‍රතිවිරෝධතා	NNC	O
+අතුරෙහි	POST	O
+මුල්	JJ	O
+තැනක්	NNC	O
+ගත්	VP	O
+බව	POST	O
+දකින	VP	O
+විට	POST	O
+,	PUNC	O
+ගඩාෆිගේ	NNP	B-PER
+බෙල්ජියම්	NNP	B-LOC
+සංචාරය	NNC	O
+වැදගත්	JJ	O
+පෙරැළියෙක	NNJ	O
+තීරණාත්මක	JJ	O
+පියසටහනක්	NNC	O
+සේ	POST	O
+සැලැකීම	VNN	O
+නිවැරැදි	JJ	O
+ය	RP	O
+.	FS	O
+එම	DET	O
+සංචාරය	NNC	O
+මූලික	JJ	O
+වශයෙන්	POST	O
+අරමුණු	NCV	O
+කැරුණේ	VP	O
+ලිබියාව	NNP	B-LOC
+සහ	CC	O
+බෙල්ජියම	NNP	B-LOC
+අතර	POST	O
+ද්විපාර්ශවීය	JJ	O
+සබඳතා	NNC	O
+වර්ධනය	NCV	O
+කැර	VNF	O
+ගැනීමකට	VNN	O
+වඩා	RP	O
+ලිබියාව	NNP	B-LOC
+සහ	CC	O
+යුරෝපා	NNP	B-ORG
+සංගමය	NNC	I-ORG
+අතර	POST	O
+නව	JJ	O
+සබඳතා	NNC	O
+රටාවකට	NNC	O
+මුල	JCV	O
+පිරීම	VNN	O
+උදෙසා	POST	O
+ය	RP	O
+.	FS	O
+ලිබියාව	NNP	B-LOC
+පැත්තෙන්	NNC	O
+මෙන්ම	POST	O
+යුරෝපා	NNP	B-ORG
+සංගමය	NNC	I-ORG
+මෙන්ම	POST	O
+ඇමරිකාව	NNP	B-LOC
+පැත්තෙන්	NNC	O
+ද	RP	O
+වැදගත්	JJ	O
+වර්ධනයන්	NNC	O
+දක්නට	VNF	O
+හැකි	AUX	O
+පසුබිමක්	NNC	O
+මැද	NNC	O
+යෙදූණු	VP	O
+එම	DET	O
+සංචාරය	NNC	O
+,	PUNC	O
+ඉරාකය	NNP	B-LOC
+තුළ	POST	O
+ඇමරිකන්	NNP	B-LOC
+බ්‍රිතාන්‍ය	NNP	I-LOC
+ආක්‍රමණය	NNC	O
+නිසා	POST	O
+හටගත්	VP	O
+අලුත්	JJ	O
+දේශපාලන	JJ	O
+සහ	CC	O
+යුද්ධමය	JJ	O
+ගතිකත්වය	NNC	O
+ද	RP	O
+,	PUNC	O
+ආර්ථික	JJ	O
+පෙළ	NNC	O
+ගැසීම	VNN	O
+ද	RP	O
+පිළිබඳ	POST	O
+පසුබිම	NNC	O
+ද	RP	O
+ඇතිව	NIP	O
+සිදුවිය	VFM	O
+.	FS	O
+කොතැනක	NNC	O
+දී	RP	O
+කවර	QBE	O
+දෙයක්	NNC	O
+අභිබවා	VNF	O
+වුවද	VP	O
+කිසිවෙකුට	NNC	O
+දෙවැනි	JCV	O
+වීමට	VNN	O
+නොකැමැති	NNC	O
+අපූරු	JJ	O
+පුද්ගල	JJ	O
+චරිතයක්	NNC	O
+හිමි	VP	O
+ගඩාෆි	NNP	B-PER
+,	PUNC	O
+බටහිර	NNP	B-LOC
+බලපෑමට	NNC	O
+එරෙහි	RB	O
+මෙතෙක්	RB	O
+කළ	VP	O
+සටනේ	NNC	O
+දී	RP	O
+තමා	PRP	O
+ප්‍රමුඛ	JJ	O
+තැනක්	NNC	O
+ගත්තේ	VP	O
+යම්	DET	O
+සේ	POST	O
+ද	RP	O
+,	PUNC	O
+සාමය	NNC	O
+උදෙසා	POST	O
+වන	VP	O
+ව්‍යායාමයේදීත්	NNC	O
+ප්‍රුමුඛ	JJ	O
+තැනක්	NNC	O
+ගන්නා	VP	O
+බව	POST	O
+පෙන්වීමට	VNN	O
+මනාපයක්	NNC	O
+දක්වා	POST	O
+තිබේ	VFM	O
+.	FS	O
+සමූහ	JJ	O
+ඝාතක	NNJ	O
+අවි	NNC	O
+රැස්	RPCV	O
+කර	VNF	O
+ගෙන	VNF	O
+සිටීම	VNN	O
+ගැන	POST	O
+බටහිර	NNP	B-LOC
+කඳවුරෙන්	NNC	O
+නොකඩවා	RB	O
+චෝදනා	NCV	O
+ලත්	VP	O
+හෙතෙම	PRP	O
+එම	DET	O
+අවි	NNC	O
+අත්හැර	VNF	O
+දැමීමෙන්	VNN	O
+තමන්	PRP	O
+විසින්	POST	O
+දක්වා	VNF	O
+ඇති	NIP	O
+ආදර්ශය	NNC	O
+අනුව	POST	O
+වැඩ	NCV	O
+කරන්නැයි	VNF	O
+බ්‍රසල්ස්	NNP	B-LOC
+නගරයේ	NNC	O
+දී	RP	O
+ලෝකයෙන්	NNC	O
+ඉල්ලා	VNF	O
+සිටියේ	VP	O
+ය	RP	O
+.	FS	O
+මෙහිදී	PRP	O
+ලෝක	NNJ	O
+බලවතුන්	NNC	O
+කෙරෙහි	POST	O
+වඩා	RP	O
+"			PUNC
+සමබර		JJ
+"	PUNC	O
+ආකල්පයක්	NNC	O
+දැරීමට	VNN	O
+තමන්	PRP	O
+දක්වන	VP	O
+සූදානම	NNC	O
+ගැන	POST	O
+ඉඟි	NCV	O
+කරමින්	VNF	O
+සිය	PRP	O
+ආදර්ශය	NNC	O
+අනුව	POST	O
+යන්නැයි	VP	O
+විශේෂයෙන්	JJ	O
+ජගත්	JJ	O
+බල	NNJ	O
+තරගයේ	NNC	O
+දෙකොණක	NNC	O
+තවමත්	RB	O
+සිටින	VP	O
+බව	POST	O
+පෙනෙන	VP	O
+ඇමෙරිකාවෙන්	NNP	B-LOC
+සහ	CC	O
+චීනයෙන්	NNP	B-LOC
+විශේෂ	JJ	O
+ඉල්ලීමක්	NNC	O
+ද	RP	O
+කෙළේ	VFM	O
+ය	RP	O
+.	FS	O
+යුරෝපය	NNP	B-LOC
+සහ	CC	O
+අප්‍රිකාව	NNP	B-LOC
+අතර	POST	O
+"			PUNC
+පාලමක්	NNC
+"	PUNC	O
+බවට	POST	O
+පත්වීමට	VNN	O
+තම	PRP	O
+රට	NNC	O
+සූදානම්	JCV	O
+වන්නේ	VP	O
+ලොව	NNC	O
+පුරා	POST	O
+සාම	JJ	O
+ව්‍යාපාරයට	NNC	O
+නායකත්වය	NNC	O
+දෙමින්	VNF	O
+බව	POST	O
+ද	RP	O
+ගඩාෆි	NNP	B-PER
+පැවැසීය	VFM	O
+.	FS	O
+ඇමරිකාව	NNP	B-LOC
+සහ	CC	O
+ඊශ්‍රායලය	NNP	B-LOC
+තවමත්	RB	O
+මුස්ලිම්	NNP	O
+ජනතාවගේ	NNC	O
+ප්‍රධාන	JJ	O
+සතුරා	NNC	O
+බව	POST	O
+විශ්වාස	NCV	O
+කරන	VP	O
+සටන්කාමී	JJ	O
+කොටස්වලට	NNC	O
+දැන්	RB	O
+ගඩාෆි	NNP	B-PER
+පෙනෙණු	VP	O
+ඇත්තේ	NIP	O
+ලෝක	NNJ	O
+දේශපාලනය	NNC	O
+තුළ	POST	O
+ඇමරිකාව	NNP	B-LOC
+මහත්	JJ	O
+දුෂ්කර	JJ	O
+අභියෝගයකට	NNC	O
+පත්	RRPCV	O
+ව	VNF	O
+සිටිය	VP	O
+දී	RP	O
+අරාබි	NNP	B-LOC
+ලෝකයෙන්	NNC	O
+ලැබී	VNF	O
+ඇති	NIP	O
+අලුත්	JJ	O
+ම	RP	O
+"			PUNC
+මුක්කුව	NNC
+"	PUNC	O
+ලෙස	POST	O
+විය	VP	O
+හැකිය	AUX	O
+.	FS	O
+එහෙත්	CC	O
+,	PUNC	O
+ඔහුගේ	PRP	O
+මේ	DET	O
+පෙරළිය	NNC	O
+අහම්බෙන්	RB	O
+වූ	VP	O
+දෙයක්	NNC	O
+නොව	VNF	O
+ඉරාකය	NNP	B-LOC
+තුළ	POST	O
+ඇමරිකන්	NNP	B-LOC
+-	PUNC	O
+බ්‍රිතාන්‍ය	NNP	B-LOC
+ආක්‍රමණයෙන්	NNC	O
+පසුව	POST	O
+හටගත්	VP	O
+තර්කානුකූල	JJ	O
+වූ	VP	O
+ද	RP	O
+,	PUNC	O
+නොවැළැක්විය	VP	O
+හැකි	AUX	O
+වූ	VP	O
+ද	RP	O
+ප්‍රතිඵලයක්	NNC	O
+බවට	POST	O
+පොදු	JJ	O
+පිළිගැනීමක්	NNC	O
+තිබේ	VFM	O
+.	FS	O
+ඇමරිකාව	NNP	B-LOC
+විසින්	POST	O
+යුද්ධමය	NNC	O
+වශයෙන්	POST	O
+ඉරාකය	NNP	B-LOC
+යටත්	JCV	O
+කර	VNF	O
+ගනු	VP	O
+ලැබ	VNF	O
+,	PUNC	O
+සදාම්	NNP	B-PER
+හුසේන්	NNP	I-PER
+ඇමරිකන්	NNP	O
+අත්අඩංගුවට	NNC	O
+පත්	RRPCV	O
+වූ	VP	O
+පසු	POST	O
+ලබ්බට	NNC	O
+තැබූ	VP	O
+අත	NNC	O
+පුහුලටත්	NNC	O
+තබනු	VP	O
+ඇතැයි	NIP	O
+ඔහුට	PRP	O
+දැනෙන්නට	VP	O
+ඇත	NIP	O
+.	FS	O
+සදාම්	NNP	B-PER
+හුසේන්	NNP	I-PER
+මෙන්	POST	O
+"			PUNC
+බෙල්ල		NNC
+ගියත්		VP
+කඳ			NNC
+ෆයිට්		NNC
+"	PUNC	O
+න්‍යායයෙන්	NNC	O
+සටන්	NCV	O
+කිරීම	VNN	O
+දේශපාලන	JJ	O
+වශයෙන්	POST	O
+සියදිවි	JJ	O
+නසා	VNF	O
+ගෙන	VNF	O
+ලිබියාව	NNP	B-LOC
+ද	RP	O
+විනාශ	NCV	O
+කිරීමේ	VNN	O
+මගක්	NNC	O
+වනු	VP	O
+ඇතැයි	NIP	O
+ඔහුට	PRP	O
+හැඟෙන්නට	VP	O
+ඇත	NIP	O
+.	FS	O
+විදෙස්	JJ	O
+විත්ති	NNC	O
+ඉතිරි	JJ	O
+සිය	PRP	O
+පියාගේ	NNC	O
+මෙම	DET	O
+පෙරැළිය	NNC	O
+ඉරාක	NNP	B-LOC
+යුද්ධයේ	NNC	O
+ප්‍රතිඵලයක්	NNC	O
+හෝ	CC	O
+සදාම්	NNP	B-PER
+හුසේන්ට	NNP	I-PER
+අත්	RRPCV	O
+වූ	VP	O
+ඉරණම	NNC	O
+නිසා	POST	O
+ඇති	NIP	O
+කැර	VNF	O
+ගත්	VP	O
+බියක්	NNC	O
+නිසා	POST	O
+හටගත්	VP	O
+වෙනසක්	NNC	O
+නොවන	VP	O
+බව	POST	O
+ඔහුගේ	PRP	O
+පුත්‍රයා	NNC	O
+මෙන්	POST	O
+ම	RP	O
+සමීපතම	JJ	O
+උපදේශකයා	NNC	O
+සහ	CC	O
+අනුප්‍රාප්තිකයා	NNC	O
+ද	RP	O
+ලෙස	POST	O
+සැලැකෙන	VP	O
+සයිෆ්	NNP	B-PER
+අල්	NNP	I-PER
+ඉස්ලාම්	NNP	I-PER
+ගඩාෆි	NNP	I-PER
+කියයි	VFM	O
+.	FS	O
+ඉරාකයට	NNP	B-LOC
+එරෙහි	RB	O
+ඇමරිකන්	NNP	B-LOC
+යුද්ධය	NNC	O
+සැලසුම්	NCV	O
+කිරිමටත්	VNN	O
+කලින්	NNC	O
+ලිබියාවේ	NNP	B-LOC
+සමූලඝාතන	JJ	O
+අවි	NNC	O
+පිළිබඳ	POST	O
+ප්‍රශ්නය	NNC	O
+ගැන	POST	O
+ඇමරිකාව	NNP	B-LOC
+සමග	POST	O
+ලිබියන්	NNP	B-LOC
+නිලධරයන්	NNC	O
+සාකච්ඡා	NCV	O
+අරඹා	VNF	O
+තිබූ	VP	O
+බව	POST	O
+ද	RP	O
+ඔහු	PRP	O
+හෙළි	RRPCV	O
+කෙළේ	VFM	O
+ය	RP	O
+.	FS	O
+ත්‍රස්තවාදයට	NNC	O
+ජාත්‍යන්තරව	RB	O
+අනුබල	NCV	O
+දෙන	VP	O
+"			PUNC
+දුෂ්ට		JJ
+රටවල්		NNC
+"	PUNC	O
+හතරෙන්	NUM	O
+එකක්	NNC	O
+ලෙස	POST	O
+ඇමරිකාව	NNP	B-LOC
+විසින්	POST	O
+නම්	NCV	O
+කැරුණු	VP	O
+ලිබියාව	NNP	B-LOC
+සහ	CC	O
+ඇමරිකාව	NNP	B-LOC
+අතර	POST	O
+1980	NUM	O
+සිට	POST	O
+බිඳ	VNF	O
+වැටී	VNF	O
+තිබුණු	VP	O
+සබඳතා	NNC	O
+පිළිසකර	JCV	O
+කර	VNF	O
+ගැනීමේ	VNN	O
+පොටක්	NNC	O
+පෑදෙමින්	VNF	O
+ඇතැයි	NIP	O
+ලොව	NNC	O
+හාපුරා	POST	O
+දැන	VNF	O
+ගත්තේ	VP	O
+ගිය	VP	O
+වර්ෂයේ	NNC	O
+දෙසැම්බර්	NNP	O
+19වැනි	NUM	O
+දා	NNC	O
+ලිබියන්	NNP	B-ORG
+රජය	NNC	I-ORG
+කළ	VP	O
+ප්‍රකාශයක්	NNC	O
+සමඟ	POST	O
+ය	RP	O
+.	FS	O
+සිය	PRP	O
+සමූහ	JJ	O
+ඝාතක	NNJ	O
+අවි	NNJ	O
+වැඩසටහන	NNC	O
+නවත්වා	VNF	O
+දැමීමටත්	VNN	O
+,	PUNC	O
+ඒවා	PRP	O
+පරීක්ෂා	NCV	O
+කිරීම	VNN	O
+සඳහා	POST	O
+කොන්දේසි	NNC	O
+විරහිතව	POST	O
+සිය	PRP	O
+රටට	NNC	O
+පැමිණීමට	VNN	O
+විදේශ	NNJ	O
+නිරීක්ෂකයන්ට	NNC	O
+ඉඩ	NCV	O
+දීමටත්	VNN	O
+එකඟ	JCV	O
+බව	POST	O
+ලිබියාව	NNP	B-LOC
+ප්‍රකාශයට	NNC	O
+පත්	RRPCV	O
+කළේ	VP	O
+මුළු	DET	O
+ලොව	NNC	O
+ම	RP	O
+විස්මයට	NNC	O
+පත්	RRPCV	O
+කරවමිනි	VFM	O
+.	FS	O
+එවැනි	DET	O
+අවි	NNC	O
+තමන්	PRP	O
+ළඟ	NNC	O
+ඇතැයි	NIP	O
+යන	VP	O
+චෝදනාව	NNC	O
+ලිබියාව	NNP	B-LOC
+එක	NUM	O
+දිගට	NNC	O
+ප්‍රතිකේෂ්ප	NCV	O
+කර	VNF	O
+තිබිණි	VFM	O
+.	FS	O
+ලිබියාව	NNP	B-LOC
+මෙම	DET	O
+පියවර	NNC	O
+නිවේදනය	NCV	O
+කළේ	VP	O
+,	PUNC	O
+ඇමරිකන්	NNP	B-LOC
+සහ	CC	O
+බ්‍රිතාන්‍ය	NNP	B-LOC
+රහස්	NNJ	O
+ඔත්තු	NNJ	O
+සේවා	NNJ	O
+නියෝජිතයන්	NNC	O
+ඇතුළු	POST	O
+නිලධාරින්	NNC	O
+කාලයක	NNC	O
+සිට	POST	O
+ලිබියාව	NNP	B-LOC
+තුළ	POST	O
+සෝදිසි	JJ	O
+කටයුතු	NNC	O
+ගෙන	VNF	O
+ගොස්	VNF	O
+තිබීමේ	VNN	O
+පසුබිමක්	NNC	O
+ඇතිව	NIP	O
+ය	RP	O
+.	FS	O
+ලිබියානු	NNP	B-LOC
+ප්‍රකාශය	NNC	O
+ඇමරිකාව	NNP	B-LOC
+තුළ	POST	O
+මහත්	JJ	O
+තෘප්තියක්	NNC	O
+ඇති	NIP	O
+කළ	VP	O
+අතර	POST	O
+,	PUNC	O
+එය	PRP	O
+ත්‍රස්තවාදයට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+සහ	CC	O
+සමූහ	JJ	O
+ඝාතක	NNJ	O
+අවි	NNC	O
+අහෝසි	RPCV	O
+කිරීමේ	VNN	O
+ඇමරිකන්	NNP	B-LOC
+ව්‍යාපෘතිය	NNC	O
+දැඩි	JJ	O
+ලෙස	POST	O
+ශක්තිමත්	JCV	O
+කළ	VP	O
+පියවරක්	NNC	O
+ලෙස	POST	O
+සැලැකිණි	VFM	O
+.	FS	O
+ඉන්	PRP	O
+පසු	POST	O
+ඉරානය	NNP	B-LOC
+සහ	CC	O
+සිරියාව	NNP	B-LOC
+විසින්	POST	O
+ලිබියාව	NNP	B-LOC
+ආදර්ශයට	NNC	O
+ගත	VP	O
+යුතු	AUX	O
+බවට	POST	O
+ඇමරිකාව	NNP	B-LOC
+ප්‍රකාශ	NCV	O
+කෙළේ	VFM	O
+ය	RP	O
+.	FS	O
+ගිය	VP	O
+ජනවාරියේ	NNP	O
+දී	RP	O
+ඇමරිකන්	NNP	B-ORG
+කොංග්‍රස්	NNP	I-ORG
+මණ්ඩල	NNJ	I-ORG
+සභික	NNC	O
+ටොම්	NNP	B-PER
+ලැන්ටෝස්ගේ	NNP	I-PER
+නායකත්වයෙන්	NNC	O
+නියෝජිත	JJ	O
+පිරිසක්	NNC	O
+ලිබියාවේ	NNP	B-LOC
+සංචාරය	NCV	O
+කෙළේ	VFM	O
+ය	RP	O
+.	FS	O
+සමග	POST	O
+සිය	PRP	O
+කැමැත්තෙන්	NNC	O
+ම	RP	O
+තම	PRP	O
+න්‍යෂ්ටික	JJ	O
+බලාගාර	NNC	O
+එම	DET	O
+නියෝජිත	JJ	O
+පිරිසට	NNC	O
+පෙන්වූ	VP	O
+ලිබියාව	NNP	B-LOC
+,	PUNC	O
+න්‍යෂ්ටික	JJ	O
+වැඩසටහනට	NNC	O
+අදාළ	POST	O
+උපකරණ	NNC	O
+සහ	CC	O
+ද්‍රව්‍ය	NNC	O
+රැසක්	NNC	O
+ම	RP	O
+ඇමරිකාවට	NNP	B-LOC
+බාර	NCV	O
+දුන්නේ	VP	O
+ය	RP	O
+.	FS	O
+ලිබියන්	NNP	B-ORG
+රජය	NNC	I-ORG
+විසින්	POST	O
+අව්‍යාජ	JJ	O
+පියවර	NNC	O
+කිහිපයක්	NNC	O
+ගෙන	VNF	O
+ඇති	NIP	O
+බවත්	POST	O
+,	PUNC	O
+ඒ	DET	O
+ගැන	POST	O
+ලිබියාවට	NNP	B-LOC
+හොඳින්	NNC	O
+සලකන	VP	O
+බවත්	POST	O
+ඇමරිකන්	NNP	B-ORG
+රාජ්‍ය	JJ	I-ORG
+දෙපාර්තමේන්තුවේ	NNJ	I-ORG
+ප්‍රකාශක	NNC	O
+රිචඩ්	NNP	B-PER
+බවුෂර්	NNP	I-PER
+කළ	VP	O
+ප්‍රකාශයකින්	NNC	O
+පසුව	POST	O
+ගිය	VP	O
+පෙබරවාරි	NNP	O
+11වැනි	NNP	O
+දා	NNC	O
+නිරීක්ෂණයක	NCV	O
+යෙදුණු	VP	O
+රාජ්‍ය	JJ	O
+ලේකම්	NNC	O
+කොලින්	NNP	B-PER
+පවල්	NNP	I-PER
+ලිබියාවේ	NNP	B-LOC
+තහනම්	JJ	O
+අවි	NNJ	O
+වැඩපිළිවෙළ	NNC	O
+නවතා	VNF	O
+දැමීමේ	VNN	O
+ක්‍රියාදාමය	NNC	O
+මහත්	JCV	O
+පැසසුමට	VNN	O
+ලක්	RRPCV	O
+කෙළේ	VFM	O
+ය	RP	O
+.	FS	O
+අප්‍රිකා	NNP	B-LOC
+මහාද්වීපයේ	NNC	I-LOC
+හොඳ	JJ	O
+ම	RP	O
+"			PUNC
+තෙල්		NNJ
+කෑල්ල		NNC
+"	PUNC	O
+ලෙස	POST	O
+සැලැකෙන	VP	O
+ලිබියාව	NNP	B-LOC
+සමග	POST	O
+යළි	RB	O
+සබඳතා	NNC	O
+ඇති	NIP	O
+කර	VNF	O
+ගැනීමේ	VNN	O
+ක්‍රියාවලියේ	NNC	O
+දී	RP	O
+ඇමරිකාවට	NNP	B-LOC
+වඩා	RP	O
+යුරෝපය	NNP	B-LOC
+කඩිසර	JCV	O
+වී	VNF	O
+ඇති	NIP	O
+බව	POST	O
+පෙනී	VNF	O
+යයි	VFM	O
+.	FS	O
+ඇමරිකන්	NNP	B-LOC
+-	PUNC	O
+ලිබියන්	NNP	B-LOC
+සබඳතා	NNC	O
+පූර්ණ	JJ	O
+වශයෙන්	POST	O
+යථා	JJ	O
+තත්ත්වයට	NNC	O
+පත්	RRPCV	O
+කර	VNF	O
+ගැනීම	VNN	O
+ලිබියාව	NNP	B-LOC
+-	PUNC	O
+යුරෝපා	NNP	B-LOC
+සබඳතා	NNC	O
+යථාකරණයකට	NNC	O
+වඩා	RP	O
+කල්ගත	NNC	O
+වන	VP	O
+රාජ්‍යතාන්ත්‍රික	JJ	O
+අභ්‍යාසයක්	NNC	O
+විය	VP	O
+හැකි	AUX	O
+වුවත්	POST	O
+,	PUNC	O
+මධ්‍යධරණි	NNP	B-LOC
+කලාපයේ	NNC	I-LOC
+මේ	DET	O
+ඉතා	RP	O
+වැදගත්	JJ	O
+මුස්ලිම්	NNP	O
+රාජ්‍යය	NNC	O
+තුළ	POST	O
+බලපෑම්	NNC	O
+සඳහා	POST	O
+ඇමරිකන්	NNP	B-LOC
+-	PUNC	O
+යුරෝපා	NNP	B-LOC
+තරගයක්	NNC	O
+අනාගතයේ	NNC	O
+දී	RP	O
+හට	RRPCV	O
+ගැනීමේ	VNN	O
+ඉඩකඩ	NNC	O
+බැහැර	RPCV	O
+කළ	VP	O
+හැකි	AUX	O
+නො	RP	O
+වේ	VFM	O
+.	FS	O
+ලිබියන්	NNP	B-LOC
+-	PUNC	O
+බටහිර	NNP	B-LOC
+නව	JJ	O
+මුකුළුව	NNC	O
+මැද	POST	O
+මුලින්	RB	O
+ම	RP	O
+ලිබියාවට	NNP	B-LOC
+ගිය	VP	O
+යුරෝපීය	NNP	B-LOC
+නායකයා	NNC	O
+වූයේ	VP	O
+පෙබරවාරි	NNP	O
+10වැනි	NNP	O
+දා	NNC	O
+එහි	PRP	O
+සංචාරය	NCV	O
+කළ	VP	O
+ඉතාලි	NNP	B-LOC
+අගමැති	NNC	O
+සිල්වියෝ	NNP	B-PER
+බෙර්ලුස්කොනි	NNP	I-PER
+ය	RP	O
+.	FS	O
+ඉතාලිය	NNP	B-LOC
+,	PUNC	O
+කලක්	NNC	O
+ලිබියාව	NNP	B-LOC
+යටත්	JCV	O
+කර	VNF	O
+ගෙන	VNF	O
+සිටි	VP	O
+පැරණි	JJ	O
+විජිත	NNJ	O
+බලවතා	NNC	O
+ලෙස	POST	O
+එරට	NNC	O
+තුළ	POST	O
+විශේෂ	JJ	O
+පල	NNC	O
+ප්‍රයෝජන	NNC	O
+සෙවීම	VNN	O
+ස්වභාවික	JJ	O
+දෙයකි	NVB	O
+.	FS	O
+පෙබරවාරි	NNP	O
+15වැනි	NNP	O
+දා	NNC	O
+ලිබියාවට	NNP	B-LOC
+ගිය	VP	O
+බෙල්ජියම්	NNP	B-LOC
+විදේශ	NNJ	O
+ඇමැති	NNC	O
+ලුවී	NNP	B-PER
+මිචෙල්	NNP	I-PER
+,	PUNC	O
+ලිබියාව	NNP	B-LOC
+සහ	CC	O
+යුරෝපය	NNP	B-LOC
+අතර	POST	O
+සබඳතා	NNC	O
+අතින්	NNC	O
+නව	JJ	O
+ඓතිහාසික	JJ	O
+පියවරක්	NNC	O
+ලෙස	POST	O
+සැලැසෙන	VP	O
+බෙල්ජියම්	NNP	B-LOC
+නිල	JJ	O
+සංචාරය	NNC	O
+සඳහා	POST	O
+ගඩාෆිට	NNP	B-PER
+ඇරියුම්	NCV	O
+කෙළේ	VFM	O
+ය	RP	O
+.	FS	O
+මේ	DET	O
+අතුරින්	POST	O
+ඉතා	RP	O
+ම	RP	O
+වැදගත්	JJ	O
+සංචාරය	NNC	O
+ලෙස	POST	O
+සැලැකෙන්නේ	VP	O
+බ්‍රිතාන්‍ය	NNP	B-LOC
+අගමැති	NNC	O
+ටෝනි	NNP	B-PER
+බ්ලෙයාර්	NNP	I-PER
+පෙබරවාරි	NNP	O
+25වැනි	NUM	O
+දා	NNC	O
+ලිබියාවේ	NNP	B-LOC
+යෙදුණු	VP	O
+සංචාරය	NNC	O
+යි	RP	O
+.	FS	O
+ගඩාෆි	NNP	B-PER
+වෙත	POST	O
+හවුල්කාරිත්වයේ	NNC	O
+මිතුරු	JJ	O
+හස්තය	NNC	O
+දිගු	JCV	O
+කළ	VP	O
+බ්ලෙයාර්	NNP	B-PER
+,	PUNC	O
+2001	NUM	O
+සැප්තැම්බර්	NNP	O
+11වැනි	NUM	O
+දා	NNC	O
+ඇමරිකාවට	NNP	B-LOC
+එල්ල	NCV	O
+වූ	VP	O
+ත්‍රස්ත	JJ	O
+ප්‍රහාරයෙන්	NNC	O
+පසු	POST	O
+බටහිර	NNP	B-LOC
+ලෝකය	NNC	O
+සහ	CC	O
+අරාබි	NNP	B-LOC
+ලෝකය	NNC	O
+අතර	POST	O
+සබඳතා	NNC	O
+අතින්	NNC	O
+ලිබියාව	NNP	B-LOC
+ආදර්ශයක්	NNC	O
+දක්වා	POST	O
+ඇතැයි	NIP	O
+උදම්	NCV	O
+ඇනීය	VFM	O
+.	FS	O
+බ්ලෙයාර්ගේ	NNP	B-PER
+ලිබියා	NNP	O
+සංචාරය	NNC	O
+එක	NUM	O
+අතකින්	NNC	O
+බටහිර	NNP	B-LOC
+ලෝකයට	NNC	O
+යළි	RB	O
+පිවිසීමේ	VNN	O
+ආයාසකර	VNF	O
+ප්‍රයත්නයේ	NNC	O
+දී	RP	O
+ගඩාෆිට	NNP	B-PER
+ලොකු	JJ	O
+රුකුලක්	NNC	O
+වූ	VP	O
+අතර	POST	O
+,	PUNC	O
+ඉරාක	NNP	B-LOC
+ආක්‍රමණයේ	NNC	O
+දී	RP	O
+ඇමරිකාවට	NNP	B-LOC
+දැක්වූ	VP	O
+කොන්දේසි	NNC	O
+විරහිත	JJ	O
+සහාය	NNC	O
+නිසා	POST	O
+මුස්ලිම්	NNP	O
+ලෝකය	NNC	O
+තුළ	POST	O
+මෙන්	POST	O
+ම	RP	O
+බ්‍රිතාන්‍ය	NNP	B-LOC
+තුළ	POST	O
+ද	RP	O
+දේශපාලන	JJ	O
+වශයෙන්	POST	O
+පල්ලම්	NCV	O
+බසිමින්	VNF	O
+සිටින	VP	O
+ටෝනි	NNP	B-PER
+බ්ලෙයාර්ට	NNP	I-PER
+ද	RP	O
+අලුත්	JJ	O
+වාරුවක්	NNC	O
+සපයා	VNF	O
+දීමට	VNN	O
+සමත්	JCV	O
+විය	VFM	O
+.	FS	O
+දශක	NNC	O
+තුනක්	NUM	O
+තිස්සේ	POST	O
+හටගත්	VP	O
+ගැටලු	NNC	O
+එකින්	NNC	O
+එක	NUM	O
+ලිහෙමින්	VNF	O
+ලිබියා	NNP	B-LOC
+-	PUNC	O
+බටහිර	NNP	B-LOC
+සබඳතා	NNC	O
+සුහද	JJ	O
+තලයකට	NNC	O
+එළැඹෙමින්	VNF	O
+ඇති	NIP	O
+අතර	POST	O
+,	PUNC	O
+අලුත්	JJ	O
+ප්‍රශ්නයක්	NNC	O
+මේ	DET	O
+අතර	POST	O
+යුරෝපය	NNP	B-LOC
+ඇසුරු	RRPCV	O
+කැර	VNF	O
+මේ	DET	O
+සතිය	NNC	O
+මුල	NNC	O
+දී	RP	O
+මතු	RRPCV	O
+විය	VFM	O
+.	FS	O
+ඒ	DET	O
+සිය	PRP	O
+ගණනක්	NNC	O
+ලිබියන්	NNP	B-LOC
+දරුවන්ට	NNC	O
+ඒඩ්ස්	NNP	O
+රෝග	NNJ	O
+කාරක	NNJ	O
+රුධිරය	NNC	O
+එන්නත්	NCV	O
+කිරීමේ	VNN	O
+චෝදනා	NNC	O
+යටතේ	POST	O
+ලිබියන්	NNP	B-LOC
+අධිකරණයේ	NNC	O
+දි	RP	O
+නඩු	NNC	O
+පැවැරුණු	VP	O
+බල්ගේරියන්	NNP	B-LOC
+වෛද්‍යවරුන්	NNC	O
+හය	NUM	O
+දෙනෙකු	NNC	O
+සහ	CC	O
+පලස්තීන	NNP	B-LOC
+වෛද්‍යවරයකු	NNC	O
+ද	RP	O
+වෙඩි	NCV	O
+තබා	VNF	O
+මරා	VNF	O
+දැමිය	VP	O
+යුතු	AUX	O
+බවට	POST	O
+දුන්	VP	O
+නඩු	NNC	O
+තීන්දුවකි	NVB	O
+.	FS	O
+1990	NUM	O
+දී	RP	O
+වෛද්‍ය	JJ	O
+කණ්ඩායම	NNC	O
+විසින්	POST	O
+හිතා	VNF	O
+මතා	RB	O
+ම	RP	O
+සිදු	RRPCV	O
+කළැයි	VP	O
+කියන	VP	O
+මෙම	DET	O
+එන්නත්	NCV	O
+කිරීමට	VNN	O
+ගොදුරු	NCV	O
+වු	VP	O
+ලිබියන්	NNP	B-LOC
+දරුවන්	NNC	O
+426	NUM	O
+දෙනෙකුගෙන්	NNC	O
+40ක්	NUM	O
+මරුමුවට	NNC	O
+පත්	RRPCV	O
+වූ	VP	O
+බව	POST	O
+ලිබියන්	NNP	B-ORG
+රජය	NNC	I-ORG
+කියයි	VFM	O
+.	FS	O
+මෙම	DET	O
+නඩු	NNJ	O
+තීන්දුව	NNC	O
+පිළිගත	VP	O
+නොහැකි	AUX	O
+බව	POST	O
+ඇමරිකාව	NNP	B-LOC
+ඇතුළු	POST	O
+බටහිර	NNP	B-LOC
+රටවල්	NNC	O
+වහා	RB	O
+ම	RP	O
+ප්‍රකාශ	NCV	O
+කළ	VP	O
+අතර	POST	O
+,	PUNC	O
+තීන්දුවට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+අභියාචනා	JCV	O
+කිරීමේ	VNN	O
+ඉඩකඩ	NNC	O
+තිබේ	VFM	O
+.	FS	O
+එමෙන්ම	POST	O
+,	PUNC	O
+බටහිර	NNP	B-LOC
+සමග	POST	O
+වැඩෙමින්	VNF	O
+ඇති	NIP	O
+සබඳතා	NNC	O
+ක්‍රියාදාමය	NNC	O
+අනතුරකට	NNC	O
+පත්වීමෙන්	NNC	O
+වළකන	VP	O
+පියවරක්	NNC	O
+වශයෙන්	POST	O
+වරදකරුවන්	NNC	O
+වු	VP	O
+පුද්ගලයන්ට	NNC	O
+රාජ්‍ය	JJ	O
+නායක	NNC	O
+අභිමතය	NNC	O
+මත	POST	O
+සමාව	NCV	O
+දීමට	VNN	O
+ගඩාෆි	NNP	B-PER
+ක්‍රියා	NCV	O
+කරනු	VP	O
+ඇතැයි	NIP	O
+විශ්වාසයක්	NNC	O
+ද	RP	O
+පවතී	VFM	O
+.	FS	O
+ලිබියාව	NNP	B-LOC
+බටහිරටත්	NNP	I-LOC
+බටහිර	NNP	I-LOC
+රටවල්	NNC	O
+ලිබියාවටත්	NNP	B-LOC
+අන්‍යොන්‍ය	JJ	O
+වශයෙන්	POST	O
+වැදගත්	JCV	O
+වන්නේ	VP	O
+ඇයි	QUE	O
+දැයි	CC	O
+වටහා	VNF	O
+ගැනීම	VNN	O
+අමාරු	JJ	O
+නැත	NIP	O
+.	FS	O
+අරාබි	NNP	B-LOC
+ලෝකය	NNC	O
+සහ	CC	O
+අප්‍රිකා	NNP	B-LOC
+කලාපය	NNC	I-LOC
+මුසු	JCV	O
+කරන	VP	O
+උපයා	VNF	O
+මාර්ගික	JJ	O
+සන්ධිස්ථානයක	NNC	O
+ලිබියාව	NNP	B-LOC
+පිහිටා	VNF	O
+ඇත්තේ	NIP	O
+උතුරු	NNP	B-LOC
+අප්‍රිකාවේ	NNP	I-LOC
+මධ්‍යධරණීය	NNP	I-LOC
+වෙරළ	NNC	I-LOC
+ඇසුරෙහි	POST	O
+සතරැස්	JJ	O
+කිලෝ	NNP	O
+මීටර්	NNP	O
+17	NUM	O
+,	PUNC	O
+,540ක	NUM	O
+පමණ	POST	O
+බිම්	NNJ	O
+කඩක්	NNC	O
+වසා	VNF	O
+පැතිරෙමිනි	VFM	O
+.	FS	O
+අප්‍රිකාවේ	NNP	B-LOC
+විශාල	JJ	O
+ම	RP	O
+රටවලින්	NNC	O
+එකක්	NNC	O
+ලෙස	POST	O
+භූ	JJ	O
+ප්‍රමාණික	JJ	O
+වැදගත්කමක්	NNC	O
+උසුලන	VP	O
+එය	PRP	O
+,	PUNC	O
+තෙල්	NNJ	O
+සහ	CC	O
+ගෑස්	NNJ	O
+සම්පත්	NNC	O
+නිසා	POST	O
+සුවිශේෂ	JJ	O
+ආර්ථික	JJ	O
+භූමිකාවක්	NNC	O
+හිමි	RRPCV	O
+කැර	VNF	O
+ගනියි	VFM	O
+.	FS	O
+සියයට	NUM	O
+97ක	NUM	O
+මුස්ලිම්	NNP	O
+ජනගහණයක්	NNC	O
+ඇති	NIP	O
+රටක්	NNC	O
+ලෙස	POST	O
+සමකාලීන	JJ	O
+ජගත්	JJ	O
+දේශපාලන	JJ	O
+ය	RP	O
+තුළ	POST	O
+සුවිශාල	JJ	O
+බලපෑමක්	NNC	O
+එයට	PRP	O
+හිමි	RRPCV	O
+වන්නේ	VP	O
+බටහිර	NNP	B-LOC
+ලෝකයට	NNC	O
+දැනට	RB	O
+ඇති	NIP	O
+ප්‍රධාන	JJ	O
+දේශපාලන	JJ	O
+සහ	CC	O
+ආරක්ෂක	JJ	O
+තර්ජනය	NNC	O
+ඉස්ලාමීය	NNP	O
+අන්තවාදය	NNC	O
+කෙරෙන්	POST	O
+පැන	VNF	O
+නැඟෙන	VP	O
+නිසා	POST	O
+ය	RP	O
+.	FS	O
+අතීතයේ	NNC	O
+දී	RP	O
+ඉතා	RP	O
+ම	RP	O
+දරුණු	JJ	O
+සතුරෙකු	NNC	O
+සහ	CC	O
+හිසරදයක්	NNC	O
+ලෙස	POST	O
+ඇමරිකාව	NNP	B-LOC
+ගඩාෆි	NNP	B-PER
+දෙස	POST	O
+බැලුව	VP	O
+ද	RP	O
+සිය	PRP	O
+ත්‍රස්තවාද	JJ	O
+විරෝධි	JJ	O
+ජගත්	JJ	O
+සටනේ	NNC	O
+දී	RP	O
+ඔහුගේ	PRP	O
+සහාය	NNC	O
+එයට	PRP	O
+ඉතා	RP	O
+ම	RP	O
+වැදගත්	JJ	O
+දේශපාලන	JJ	O
+සහ	CC	O
+ආරක්ෂක	JJ	O
+ආවරණයක්	NNC	O
+වනු	VP	O
+ඇත	NIP	O
+.	FS	O
+අනෙක්	DET	O
+අතට	NNC	O
+ආර්ථික	JJ	O
+තහංචිවලින්	NNC	O
+වැහැරී	VNF	O
+,	PUNC	O
+ජාත්‍යන්තර	JJ	O
+වශයෙන්	POST	O
+හුදෙකලාවට	NNC	O
+තෙරපනු	VP	O
+ලැබ	VNF	O
+සිටි	VP	O
+ලිබියාවට	NNP	B-LOC
+ඇමරිකාව	NNP	I-LOC
+සහ	CC	O
+යුරෝපය	NNP	B-LOC
+සමග	POST	O
+නොරාක්	RRPCV	O
+වී	VNF	O
+සිටියදී	VNF	O
+අහිමි	JCV	O
+වූ	VP	O
+බොහෝ	RP	O
+දේ	NNC	O
+ඔවුන්	PRP	O
+සමඟ	POST	O
+යාලු	RRPCV	O
+වීමෙන්	VNN	O
+හිමි	RRPCV	O
+කර	VNF	O
+ගත	VP	O
+හැකි	AUX	O
+වනු	VP	O
+ඇතැයි	NIP	O
+පෙනී	VNF	O
+යාම	VNN	O
+පුදුමයක්	NNC	O
+නො	RP	O
+වේ	VFM	O
+.	FS	O
+උග්‍ර	JJ	O
+අරාබි	NNP	B-LOC
+ජාතිකවාදී	JJ	O
+චින්තනයෙන්	NNC	O
+මත්	RRPCV	O
+වූ	VP	O
+ඉස්ලාමිකත්වය	NNP	O
+ඔස්සේ	POST	O
+අරාබි	NNP	B-LOC
+ලෝකයේ	NNC	O
+නායකත්වය	NNC	O
+හිමි	RRPCV	O
+කැර	VNF	O
+ගැනීමට	VNN	O
+දශක	NNC	O
+තුනක්	NUM	O
+තිස්සේ	POST	O
+අසමත්	JCV	O
+වූ	VP	O
+ගඩාෆි	NNP	B-PER
+,	PUNC	O
+බටහිර	NNP	B-LOC
+ලෝකය	NNC	O
+සමග	POST	O
+ඇති	NIP	O
+කැර	VNF	O
+ගන්නා	VP	O
+නව	JJ	O
+සංධානය	NNC	O
+ඔස්සේ	POST	O
+අප්‍රිකානු	NNP	B-LOC
+බලවතකු	NNC	O
+ලෙස	POST	O
+පියවර	NCV	O
+නැඟීමට	VNN	O
+සමත්	JCV	O
+වේද	QUE	O
+යනු	POST	O
+එක	NUM	O
+ප්‍රශ්නයකි	NVB	O
+.	FS	O
+ඒ	DET	O
+ප්‍රශ්නයෙන්	NNC	O
+පැන	VNF	O
+නැඟෙන	VP	O
+අතුරු	JJ	O
+ප්‍රශ්නයක්	NNC	O
+නම්	POST	O
+,	PUNC	O
+දේශපාලන	JJ	O
+ජීවිතයෙන්	NNC	O
+ඉතා	RP	O
+වැඩි	JJ	O
+කාලයක්	NNC	O
+ඔහුගේ	PRP	O
+දෘෂ්ටිමය	JJ	O
+සගයින්	NNC	O
+සහ	CC	O
+ඉස්ලාම්	JJ	O
+සොහොයුරන්	NNC	O
+ලෙස	POST	O
+සිටි	VP	O
+බලවේග	NNC	O
+,	PUNC	O
+ඇමරිකාව	NNP	B-LOC
+සහ	CC	O
+යුරෝපය	NNP	B-LOC
+මෙන්	POST	O
+ලිබියාවේ	NNP	B-LOC
+නායකයා	NNC	O
+වන	VP	O
+ඔහු	PRP	O
+ද	RP	O
+සතුරකු	NNC	O
+ලෙස	POST	O
+සලකයි	VP	O
+ද	RP	O
+යන්නයි	NVB	O
+.	FS	O
+ඒ	DET	O
+සමඟ	POST	O
+ම	RP	O
+එක	NUM	O
+දෙයක්	NNC	O
+පැහැදිලි	JCV	O
+ය	RP	O
+.	FS	O
+ඉතා	RP	O
+ම	RP	O
+දැඩි	JJ	O
+අන්තයෙක	NNC	O
+සිටි	VP	O
+කෙනෙකුට	NNC	O
+වුවද	VP	O
+,	PUNC	O
+දේශපාලනයේ	NNC	O
+කිසියම්	DET	O
+ඉසව්වක	NNC	O
+දී	RP	O
+වෙනස්	JCV	O
+වන	VP	O
+ලෝකය	NNC	O
+තුළ	POST	O
+වෙනස්	JCV	O
+නොවී	VNF	O
+සිටිය	VP	O
+නොහැකි	AUX	O
+බව	POST	O
+ය	RP	O
+.	FS	O
+කළු	JJ	O
+ජාතිකයාගෙන්	NNC	O
+පහර	NCV	O
+කෑ	VP	O
+ශ්‍රි	NNP	O
+ලාංකිකයාගේ	NNC	O
+ජීවිතය	NNC	O
+අනතුරේ	NNC	O
+පසුගිය	VP	O
+ඉරිදා	NNP	O
+උදෑසන	NNC	O
+වෙම්බ්ලි	NNP	B-LOC
+නගරයේ	NNC	O
+උමං	NNJ	B-LOC
+දුම්රිය	NNJ	I-LOC
+පොළේ	NNC	I-LOC
+දී	RP	O
+කළු	JJ	O
+ජාතිකයකුගෙන්	NNC	O
+තදබල	RB	O
+ලෙස	POST	O
+පහර	NCV	O
+කෑ	VP	O
+විපුල්	NNP	B-PER
+ප්‍රසන්න	NNP	I-PER
+නම්	POST	O
+41	NUM	O
+වයසැති	NNC	O
+ශ්‍රී	NNP	O
+ලාංකිකයා	NNP	O
+ඉතාමත්	RP	O
+අනතුරුදායක	JJ	O
+තත්ත්වයක	NNC	O
+පසු	POST	O
+වන	VP	O
+බව	POST	O
+රෝහල්	NNC	O
+ආරංචි	NNJ	O
+මාර්ග	NNC	O
+පවසයි	VFM	O
+.	FS	O
+ඔහු	PRP	O
+ති	NNC	O
+දරු	JJ	O
+පියෙකි	NVB	O
+.	FS	O
+දුම්රිය	NNJ	O
+පොළ	NNC	O
+තුළ	POST	O
+දී	RP	O
+ඇති	NIP	O
+වූ	VP	O
+දෙබසකින්	NNC	O
+අනතුරුව	POST	O
+පිටතට	NNC	O
+පැමිණි	VP	O
+ප්‍රසන්නගේ	NNP	B-PER
+හිසට	NNC	O
+පහර	NCV	O
+දී	VNF	O
+ඇති	NIP	O
+මෙම	DET	O
+කළු	JJ	O
+ජාතිකයා	NNC	O
+ප්‍රසන්න	NNP	B-PER
+සිහි	NNC	O
+මූර්ඡා	NCV	O
+වී	VNF	O
+බිම	NNC	O
+වැටුණු	VP	O
+පසු	POST	O
+සිය	PRP	O
+පුත්‍රයාත්	NNC	O
+සමඟ	POST	O
+සැඟවී	VNF	O
+පලා	VNF	O
+ගොස්	VNF	O
+ඇත	NIP	O
+.	FS	O
+සිද්ධිය	NNC	O
+සැල	RRPCV	O
+වූ	VP	O
+විගස	POST	O
+මෙට්‍රෝපොලිටන්	NNP	B-ORG
+පොලිසිය	NNC	I-ORG
+වහා	RB	O
+ක්‍රියාත්මක	JCV	O
+වු	VP	O
+මුත්	POST	O
+පහර	NCV	O
+දුන්	VP	O
+පුද්ගලයා	NNC	O
+මේ	DET	O
+වෙන	VP	O
+තෙක්	POST	O
+සොයා	VNF	O
+ගැනීමට	VNN	O
+නොහැකි	AUX	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+දුම්රිය	NNJ	O
+පොළේ	NNC	O
+සවි	RPCV	O
+කර	VNF	O
+ඇති	NIP	O
+ස්වයංක්‍රීය	JJ	O
+කැමරා	NNJ	O
+දර්ශන	NNC	O
+අනුව	POST	O
+සිද්ධිය	NNC	O
+ගැන	POST	O
+අනුමාන	NCV	O
+කරන	VP	O
+පොලිසිය	NNC	O
+,	PUNC	O
+කළු	JJ	O
+ජාතිකයා	NNC	O
+සහ	CC	O
+ඔහුගේ	PRP	O
+දස	NUM	O
+හැවිරිදි	POST	O
+පුත්‍රයා	NNC	O
+වලංගු	JJ	O
+ප්‍රවේශ	JJ	O
+පත්‍රයක්	NNC	O
+නොමැතිව	NIP	O
+දුම්රියෙන්	NNC	O
+පැමිණ	VNF	O
+දුම්රිය	NNJ	O
+පොළෙන්	NNC	O
+පිට	RPCV	O
+වීමට	VNN	O
+මාන	NCV	O
+බලමින්	VNF	O
+සිටි	VP	O
+බවත්	POST	O
+ඔවුනට	PRP	O
+ඉදිරියෙන්	RB	O
+පැමිණි	VP	O
+ප්‍රසන්න	NNP	B-PER
+සිය	PRP	O
+වලංගු	JJ	O
+ප්‍රවේශ	JJ	O
+පත්‍රය	NNC	O
+ගේට්ටුවේ	NNC	O
+සවි	RPCV	O
+කොට	VNF	O
+ඇති	NIP	O
+ස්වයංක්‍රීය	JJ	O
+යන්ත්‍රයට	NNC	O
+ඇතුළු	JCV	O
+කිරීමේ	VNN	O
+දී	RP	O
+ගේට්ටුව	NNC	O
+විවර	JCV	O
+වෙනවාත්	VP	O
+සමග	POST	O
+ම	RP	O
+ඒ	DET	O
+අවස්ථාවෙන්	NNC	O
+ප්‍රයෝජන	NNC	O
+ගෙන	VNF	O
+කළු	JJ	O
+ජාතිකයා	NNC	O
+සිය	PRP	O
+පුත්‍රයා	NNC	O
+ගේට්ටුවෙන්	NNC	O
+තල්ලු	NCV	O
+කිරීමට	VNN	O
+උත්සාහ	NCV	O
+ගත්	VP	O
+බවත්	POST	O
+පවසයි	VFM	O
+.	FS	O
+දරුවා	NNC	O
+ගේට්ටුවෙන්	NNC	O
+පිට	RPCV	O
+කිරිමට	VNN	O
+කළු	JJ	O
+ජාතිකයා	NNC	O
+උත්සාහ	NCV	O
+දරද්දී	VNF	O
+අහම්බෙන්	RB	O
+ප්‍රසන්න	NNP	B-PER
+වෙතින්	POST	O
+එම	DET	O
+කුඩා	JJ	O
+දරුවාගේ	NNC	O
+කකුල	NNC	O
+පෑගී	VNF	O
+ඇත	NIP	O
+.	FS	O
+වහා	RB	O
+පිටුපස	NNC	O
+බැලූ	VP	O
+ප්‍රසන්න	NNP	B-PER
+එසේ	RB	O
+කළේ	VP	O
+මන්දැයි	QUE	O
+කළු	JJ	O
+ජාතිකයාගෙන්	NNC	O
+විමසීමේ	VNN	O
+දී	RP	O
+බහින්බස්	NCV	O
+වීම	VNN	O
+ඇරැඹී	VNF	O
+තිබේ	VFM	O
+.	FS	O
+එහෙත්	CC	O
+මුල	NNC	O
+පටන්	POST	O
+ම	RP	O
+ඉතාමත්	RP	O
+ආචාරශීලී	JJ	O
+ලෙස	POST	O
+ප්‍රසන්න	NNP	B-PER
+ඔවුන්ගෙන්	PRP	O
+සමාව	NCV	O
+අයැද	VNF	O
+ඇති	NIP	O
+අතර	POST	O
+දරුවාගේ	NNC	O
+කකුල	NNC	O
+ගැන	POST	O
+කිහිප	DET	O
+වතාවක්	NNC	O
+ම	RP	O
+ඔහුගෙන්	PRP	O
+විමසා	VNF	O
+ඇත	NIP	O
+.	FS	O
+නමුත්	CC	O
+කෝපයට	NNC	O
+පත්	RRPCV	O
+අවිචාරශීලී	JJ	O
+කළු	JJ	O
+ජාතිකයා	NNC	O
+වහා	RB	O
+ඉදිරියට	NNC	O
+පැන	VNF	O
+ප්‍රසන්නගේ	NNP	B-PER
+හිසට	NNC	O
+තදින්	RB	O
+පහර	NCV	O
+දීමත්	VNN	O
+සමඟ	POST	O
+ම	RP	O
+ඔහු	PRP	O
+සිහිමූර්ඡා	RRPCV	O
+වී	VNF	O
+බිම	NNC	O
+වැටී	VNF	O
+ඇත	NIP	O
+.	FS	O
+අනතුරුව	POST	O
+ප්‍රසන්න	NNP	B-PER
+රෝහල්	NNC	O
+ගත	VP	O
+කොට	VNF	O
+ඇත	NIP	O
+.	FS	O
+පොලිසිය	NNC	O
+පවසන	VP	O
+අන්දමට	POST	O
+ප්‍රසන්නගේ	NNP	B-PER
+තත්ත්වය	NNC	O
+බරපතළ	JCV	O
+වෙයි	VFM	O
+.	FS	O
+ප්‍රසන්නගේ	NNP	B-PER
+බිරිය	NNC	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+සිට	POST	O
+එංගලන්තයට	NNP	B-LOC
+පැමිණීමට	VNN	O
+වහා	RB	O
+ක්‍රියාත්මක	JCV	O
+වූ	VP	O
+මුත්	POST	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+මහා	JJ	B-ORG
+බ්‍රිතාන්‍ය	NNP	I-ORG
+මහා	JJ	I-ORG
+කොමසාරිස්	NNJ	I-ORG
+කාර්යාලය	NNC	I-ORG
+ඇයගේ	PRP	O
+වීසා	NNC	O
+සම්බන්ධයෙන්	POST	O
+දින	NNC	O
+කිහිපයක්	NNC	O
+ගනු	VP	O
+ඇතැයි	NIP	O
+විශ්වාස	NCV	O
+කෙරේ	VFM	O
+.	FS	O
+දැවැන්ත	JJ	O
+වෙසක්	NNP	O
+කූඩු	NNC	O
+ප්‍රදර්ශනයක්	NNC	O
+සහ	CC	O
+ගිනස්	NNP	O
+වාර්තාවක්	NNC	O
+බ්‍රිතාන්‍ය	NNP	B-LOC
+ජාතිකයනට	NNC	O
+නව	JJ	O
+අත්දැකීමක්	NNC	O
+හා	CC	O
+මවිතයක්	NNC	O
+දනවමින්	VNF	O
+ප්‍රදර්ශනය	NCV	O
+වූ	VP	O
+දැවැන්ත	JJ	O
+වෙසක්	NNP	O
+කූඩුවක්	NNC	O
+පසුගිය	VP	O
+දිනවල	NNC	O
+කිංස්බරි	NNP	B-LOC
+ශ්‍රී	NNP	I-LOC
+සද්ධාතිස්ස	NNP	I-LOC
+ජාත්‍යන්තර	JJ	I-LOC
+බෞද්ධ	NNP	I-LOC
+මධ්‍යස්ථානයේ	NNC	I-LOC
+දි	RP	O
+දැක	VNF	O
+ගන්නට	VNN	O
+ලැබිණි	VFM	O
+.	FS	O
+කැරකෙන	VP	O
+කූඩුවක්	NNC	O
+වන	VP	O
+මෙය	PRP	O
+නිර්මාණය	NCV	O
+කළේ	VP	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+සිට	POST	O
+පැමිණි	VP	O
+සමන්	NNP	B-PER
+හෙට්ටිආරච්චි	NNP	I-PER
+නම්	POST	O
+කලාකරුවා	NNC	O
+ය	RP	O
+.	FS	O
+වෘත්තියෙන්	NNJ	O
+උද්‍යාන	NNJ	O
+අලංකාර	JJ	O
+ශිල්පියකු	NNC	O
+වන	VP	O
+සමන්	NNP	B-PER
+හෙට්ටිආරච්චි	NNP	I-PER
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+දී	RP	O
+ඉතාමත්	RP	O
+සාර්ථක	JJ	O
+චිත්‍ර	NNJ	O
+ප්‍රදර්ශන	NNJ	O
+කිහිපයක්	NNC	O
+ම	RP	O
+පැවැත්වූවෙකි	VFM	O
+.	FS	O
+1992	NUM	O
+දී	RP	O
+පැවැත්වූ	VP	O
+ඔහුගේ	PRP	O
+ප්‍රථම	JJ	O
+චිත්‍ර	NNJ	O
+ප්‍රදර්ශනයකට	NNC	O
+ඔහු	PRP	O
+යොදා	VNF	O
+ගෙන	VNF	O
+තිබුණේ	VP	O
+ගස්වල	JJ	O
+පොතු	NNC	O
+සහ	CC	O
+මුල්වලින්	NNC	O
+සාදා	VNF	O
+ගන්නා	VP	O
+ලද	VP	O
+දිය	VP	O
+සායම්	NNC	O
+ය	RP	O
+.	FS	O
+ඔහු	PRP	O
+මෙසේ	RB	O
+කිරීමට	VNN	O
+පෙළැඹී	VNF	O
+ඇත්තේ	NIP	O
+ආර්ථික	JJ	O
+ප්‍රශ්නය	NNC	O
+නිසා	POST	O
+බව	POST	O
+පැවසුවේ	VP	O
+ය	RP	O
+.	FS	O
+නමුත්	CC	O
+ප්‍රදර්ශනයෙන්	NNC	O
+පසු	POST	O
+ලද	VP	O
+ප්‍රතිචාර	NNC	O
+නිසා	POST	O
+දිගට	NNC	O
+ම	RP	O
+එම	DET	O
+සායම්	NNC	O
+වර්ග	NNC	O
+ම	RP	O
+යොදා	VNF	O
+ගැනීමට	VNN	O
+ඔහු	PRP	O
+යොමු	RPCV	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+1993	NUM	O
+දී	RP	O
+මත්ද්‍රව්‍ය	NNC	O
+වැළැක්වීම	VNN	O
+වෙනුවෙන්	POST	O
+ඔහු	PRP	O
+විසින්	POST	O
+පවත්වන	VP	O
+ලද	VP	O
+ප්‍රදර්ශනය	NNC	O
+කොළඹ	NNP	B-LOC
+කලා	JJ	I-LOC
+භවනේ	NNC	I-LOC
+දී	RP	O
+ඉතා	RP	O
+සාර්ථක	JCV	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+වසර	NNC	O
+2000	NUM	O
+දී	RP	O
+"			PUNC
+වර්ණ		NNC
+"	PUNC	O
+නමින්	NNC	O
+කොළඹ	NNP	B-LOC
+කලා	JJ	I-LOC
+භවනේ	NNC	I-LOC
+දී	RP	O
+පැවැත්වූ	VP	O
+ඔහුගේ	PRP	O
+3වැනි	JJ	O
+චිත්‍ර	NNJ	O
+ප්‍රදර්ශනය	NNC	O
+ඉතාමත්	RP	O
+ම	RP	O
+සාර්ථක	JCV	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+මෙහි	PRP	O
+දී	RP	O
+ඔහු	PRP	O
+ප්‍රදර්ශනය	NCV	O
+කර	VNF	O
+තිබුණේ	VP	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+සර්පයින්ගේ	NNC	O
+හැවවලින්	NNC	O
+කළ	VP	O
+නිර්මාණයන්	NNC	O
+ය	RP	O
+.	FS	O
+මෙහි	PRP	O
+සාර්ථකත්වය	NNC	O
+තුළින්	POST	O
+ලද	VP	O
+ආරාධනාවක්	NNC	O
+මත	POST	O
+මහා	JJ	B-LOC
+බ්‍රිතාන්‍යයට	NNP	I-LOC
+පැමිණි	VP	O
+සමන්	NNP	B-PER
+පසුගිය	VP	O
+දා	NNC	O
+ලන්ඩන්	NNP	B-LOC
+නුවර	NNC	O
+දී	RP	O
+එම	DET	O
+ප්‍රදර්ශනය	NNC	O
+ම	RP	O
+නැවතත්	RB	O
+පැවැත්වීය	VFM	O
+.	FS	O
+ප්‍රදර්ශනය	NNC	O
+අවසානයේ	NNC	O
+ලද	VP	O
+සුළු	JJ	O
+විවේක	JJ	O
+කාලය	NNC	O
+ඔහු	PRP	O
+මෙම	DET	O
+වෙසක්	NNP	O
+කූඩුව	NNC	O
+නිර්මාණයට	NNC	O
+යොදා	VNF	O
+ගෙන	VNF	O
+ඇත	NIP	O
+.	FS	O
+මේ	DET	O
+සඳහා	POST	O
+කිහිප	DET	O
+දෙනෙක්	NNC	O
+ම	RP	O
+ඔහුට	PRP	O
+මහා	JJ	O
+සහායක්	NNC	O
+ලබා	VNF	O
+දී	RP	O
+ඇති	NIP	O
+අතර	POST	O
+කිංස්ලි	NNP	B-PER
+ජයරත්න	NNP	I-PER
+ඉන්	PRP	O
+ප්‍රධාන	JJ	O
+තැනක්	NNC	O
+ගනී	VFM	O
+.	FS	O
+විදුලි	JJ	O
+තාක්ෂණය	NNC	O
+සහ	CC	O
+අනෙකුත්	DET	O
+කාර්මීකරණය	NNC	O
+ජගත්	NNP	B-PER
+රණසිංහ	NNP	I-PER
+මහතා	NNC	O
+අතින්	NNC	O
+සිදු	RRPCV	O
+වී	VNF	O
+ඇත	NIP	O
+.	FS	O
+ඉදිරියේ	NNC	O
+දී	RP	O
+තමා	PRP	O
+ගිනස්	NNP	O
+වාර්තාවක්	NNC	O
+තැබීමට	VNN	O
+සියලු	DET	O
+කටයුතු	NNC	O
+සූදානම්	JCV	O
+කොට	VNF	O
+හමාර	VP	O
+බවත්	POST	O
+ඒ	DET	O
+සඳහා	POST	O
+ගිනස්	NNP	B-ORG
+කමිටුවෙන්	NNC	I-ORG
+අවසර	NCV	O
+ලැබී	VNF	O
+ඇති	NIP	O
+බවත්	POST	O
+ඔහු	PRP	O
+අප	PRP	O
+හා	CC	O
+පැවසුවේ	VP	O
+ය	RP	O
+.	FS	O
+එහි	PRP	O
+කටයුතු	NCV	O
+ලබන	VP	O
+දෙසැම්බර්	NNP	O
+මස	NNC	O
+සිට	POST	O
+ආරම්භ	JCV	O
+කිරීමට	VNN	O
+නියමිත	RB	O
+ය	RP	O
+.	FS	O
+ක්‍රිස්තු	NNP	O
+දෙවියන්	NNC	O
+වහන්සේගේ	NNC	O
+ජීවිත	NNJ	O
+කථාව	NNC	O
+අඩි	NNP	O
+7800ක්	NUM	O
+දිගැති	NNC	O
+කැන්වස්	JJ	O
+රෙද්දක	NNC	O
+දිය	VP	O
+සායමෙන්	NNC	O
+නිර්මාණය	NCV	O
+කිරීම	VNN	O
+ඔහුගේ	PRP	O
+වෑයම	NNC	O
+වේ	VFM	O
+.	FS	O
+මේ	DET	O
+සඳහා	POST	O
+පවුම්	NNP	O
+1,000ත්	NUM	O
+2,000ත්	NUM	O
+අතර	POST	O
+වියදමක්	NNC	O
+(	PUNC	O
+රුපියල්	NNP	O
+17000000	NUM	O
+-	PUNC	O
+2550000	NUM	O
+)	PUNC	O
+වැය	NNC	O
+වෙතැයි	CC	O
+ගණන්	NNC	O
+බලා	VNF	O
+ඇති	NIP	O
+අතර	POST	O
+ඒ	DET	O
+වෙනුවෙන්	POST	O
+අනුග්‍රාහකයන්	NNC	O
+සෙවීමට	VNN	O
+ඔහු	PRP	O
+දැන්	RB	O
+යුහුසුළු	JCV	O
+වෙයි	VFM	O
+.	FS	O
+කෝට්ටේ	NNP	B-LOC
+ශාන්ත	NNP	B-ORG
+තෝමස්	NNP	I-ORG
+විද්‍යාලයේ	NNC	I-ORG
+ආදි	JJ	O
+ශිෂ්‍යයකු	NNC	O
+වන	VP	O
+සමන්	NNP	B-PER
+හෙට්ටිආරච්චි	NNP	I-PER
+චිත්‍ර	NNJ	O
+කලාවේ	NNC	O
+නිරත	RRPCV	O
+වී	VNF	O
+ඇත්තේ	NIP	O
+විනෝදය	NNC	O
+සහ	CC	O
+සමාජ	NNJ	O
+සේවය	NNC	O
+සඳහා	POST	O
+ය	RP	O
+.	FS	O
+තමාගේ	PRP	O
+චිත්‍ර	NNJ	O
+ප්‍රදර්ශනවලින්	NNC	O
+ලැබෙන	VP	O
+සියලු	DET	O
+ම	RP	O
+ආදායම	NNC	O
+සමාජ	NNJ	O
+සේවා	NNC	O
+සහ	CC	O
+පුණ්‍ය	JJ	O
+කටයුතු	NNC	O
+සඳහා	POST	O
+වැය	NCV	O
+කරන	VP	O
+බව	POST	O
+ඔහු	PRP	O
+පැවසුවේ	VP	O
+ය	RP	O
+.	FS	O
+"			PUNC
+දෙවියන්ගේ	NNC
+ආදරය		NNC
+"	PUNC	O
+නමින්	NNC	O
+පැවැත්වීමට	VNN	O
+බලාපොරොත්තු	NCV	O
+වෙන	VP	O
+මෙම	DET	O
+ගිනස්	NNP	O
+වාර්තාවෙන්	NNC	O
+ලැබෙන	VP	O
+සියලු	DET	O
+ම	RP	O
+මුදල්	NNJ	O
+කුඩා	JJ	O
+ළමයින්ගේ	NNC	O
+අධ්‍යාපන	JJ	O
+කටයුතු	NNC	O
+සඳහා	POST	O
+ක්‍රියාත්මක	JCV	O
+වන	VP	O
+අරමුදලකට	NNC	O
+ප්‍රදානය	NCV	O
+කිරීමට	VNN	O
+ඔහු	PRP	O
+තීරණය	NCV	O
+කොට	VNF	O
+ඇත	NIP	O
+.	FS	O
+ජාති	NNJ	O
+බේදයට	NNC	O
+නිසි	JJ	O
+පිළිතුර	NNC	O
+බෞද්ධ	NNP	O
+දර්ශනයෙන්	NNC	O
+මහා	JJ	B-LOC
+බ්‍රිතාන්‍යයේ	NNP	I-LOC
+ශ්‍රී	NNP	B-ORG
+ලංකා	NNP	I-ORG
+මහ	JJ	I-ORG
+කොමසාරිස්	NNC	I-ORG
+කාර්යාලය	NNC	I-ORG
+විසින්	POST	O
+පවත්වන	VP	O
+ලද	VP	O
+ධර්ම	NNJ	O
+දේශනාවක	NNC	O
+දී	RP	O
+දේශකයන්	NNC	O
+වහන්සේ	NNC	O
+වූ	VP	O
+දීගල්ලේ	NNP	B-PER
+මහින්ද	NNP	I-PER
+හිමියෝ	NNC	O
+අද	NNC	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+පවතින	VP	O
+ජාතිවාදී	JJ	O
+අරගලයට	NNC	O
+නියම	JJ	O
+පිළිතුර	NNC	O
+සොයා	VNF	O
+ගත	VP	O
+හැක්කේ	AUX	O
+බෞද්ධ	NNP	O
+දර්ශනය	NNC	O
+තුළින්	POST	O
+පමණක්	POST	O
+බව	POST	O
+පැවසූහ	VFM	O
+.	FS	O
+බෞද්ධ	NNP	O
+දර්ශනය	NNC	O
+සැම	DET	O
+විට	POST	O
+ම	RP	O
+ආගන්තුකයිනට	NNC	O
+අන්‍ය	JJ	O
+ආගමිකයිනට	NNC	O
+සැම	DET	O
+විට	POST	O
+ම	RP	O
+පහසුවක්	NCV	O
+සැලසූ	VP	O
+අතර	POST	O
+සැම	DET	O
+සමසේ	POST	O
+පිළිගත්	VP	O
+බව	POST	O
+ද	RP	O
+උන්වහන්සේ	NNC	O
+පැවසූහ	VFM	O
+.	FS	O
+බුද්ධාගම	NNP	O
+සිංහලයිනට	NNP	O
+පමණක්	POST	O
+සීමා	NCV	O
+නොවූ	VP	O
+ආගමක්	NNC	O
+බවත්	POST	O
+ලෝ	JJ	O
+පුරා	POST	O
+බෞද්ධයින්	NNP	O
+බොහෝ	RP	O
+පිරිසක්	NNC	O
+විසිරී	VNF	O
+සිටින	VP	O
+බවත්	POST	O
+පැවසූ	VP	O
+උන්වහන්සේ	NNC	O
+නමුත්	CC	O
+සිංහලයින්	NNP	O
+අනෙක්	DET	O
+සෑම	DET	O
+ජාතියක්	NNC	O
+අභිබවා	VNF	O
+චිරාත්	NNC	O
+කාලයක්	NNC	O
+පුරා	POST	O
+බුද්ධ	JJ	O
+දර්ශනය	NNC	O
+රැකීමට	VNN	O
+ගත්	VP	O
+උත්සාහය	NNC	O
+සියලු	DET	O
+බෞද්ධයන්	NNC	O
+විසින්	POST	O
+ගරු	JCV	O
+කරනු	VP	O
+ලබන	VP	O
+බවත්	POST	O
+කීහ	VFM	O
+.	FS	O
+ශ්‍රී	NNP	B-LOC
+ලංකා	NNP	I-LOC
+මහ	JJ	O
+කොමසාරිස්	NNC	O
+ෆායිස්	NNP	B-PER
+මුස්තාපා	NNP	I-PER
+මහතා	NNC	O
+අන්‍ය	JJ	O
+ආගමිකයකු	NNC	O
+වී	VNF	O
+ද	RP	O
+බෞද්ධාගම	NNP	O
+නඟා	VNF	O
+සිටුවීමට	VNN	O
+දරන	VP	O
+මෙම	DET	O
+උත්සාහය	NNC	O
+බෞද්ධ	NNP	O
+ධර්මයේ	NNC	O
+පැවසෙන	VP	O
+චින්තනයට	NNC	O
+කදිම	JJ	O
+උදාහරණයක්	NNC	O
+බව	POST	O
+ද	RP	O
+මහින්ද	NNP	B-PER
+හිමියෝ	NNC	O
+පැවසූහ	VFM	O
+.	FS	O
+මහා	JJ	B-LOC
+බ්‍රිතාන්‍යයේ	NNP	I-LOC
+"			PUNC
+බාත්		NNP
+ස්පා		NNP
+"	PUNC	O
+විශ්ව	JJ	B-ORG
+විද්‍යාලයේ	NNC	I-ORG
+බෞද්ධාගම	NNP	O
+පිළිබඳ	POST	O
+ප්‍රධාන	JJ	O
+කථිකාචාර්ය	NNC	O
+පදවිය	NNC	O
+හොබවන	VP	O
+දීගල්ලේ	NNP	B-PER
+මහින්ද	NNP	I-PER
+හිමිපාණන්	NNC	O
+බුද්ධ	JJ	O
+දර්ශනය	NNC	O
+පිළිබඳ	POST	O
+පත්	RRPCV	O
+පොත්	NNC	O
+රාශියක්	NNC	O
+නිර්මාණය	NCV	O
+කළ	VP	O
+මහාචාර්ය	NNC	O
+වරයෙකි	NVB	O
+.	FS	O
+රොහාන්	NNP	B-PER
+එලියතම්බි	NNP	I-PER
+එජාපේ	NNC	B-ORG
+අක්‍රීය	JJ	O
+සාමාජිකයෙක්ලු	NNP	O
+ලන්ඩන්	NNP	B-LOC
+නුවර	NNC	O
+දී	RP	O
+පැවති	VP	O
+පොදු	JJ	B-ORG
+ජන	JJ	I-ORG
+එක්සත්	NNP	I-ORG
+පෙරමුණු	NNP	I-ORG
+සන්ධාන	JJ	I-ORG
+රැළියේ	NNC	O
+දී	RP	O
+එක්සත්	NNP	B-LOC
+රාජධානියේ	NNP	I-LOC
+එක්සත්	NNP	B-ORG
+ජාතික	JJ	I-ORG
+පක්ෂ	NNJ	I-ORG
+ශාඛාවේ	NNC	O
+සම	JJ	O
+ලේකම්	NNC	O
+යයි	VNN	O
+කියමින්	VNF	O
+කතා	NCV	O
+කළ	VP	O
+රොහාන්	NNP	B-PER
+එලියතම්බි	NNP	I-PER
+මහතා	NNC	O
+එම	DET	O
+පක්ෂයේ	NNC	O
+අක්‍රීය	JJ	O
+සාමාජිකයකු	NNC	O
+බවට	POST	O
+පත්	RRPCV	O
+වූවකු	NNC	O
+බව	POST	O
+එක්සත්	NNP	B-ORG
+ජාතික	JJ	I-ORG
+පක්ෂ	NNC	I-ORG
+බ්‍රිතාන්‍ය	NNP	B-LOC
+ශාඛාවේ	NNC	O
+සභාපති	NNC	O
+ආසාහිමි	NNP	B-PER
+මොහොමඩ්	NNP	I-PER
+මහතා	NNC	O
+පැවසුවේ	VP	O
+ය	RP	O
+.	FS	O
+සාමාජික	JJ	O
+මුදල්	NNC	O
+නිසි	JJ	O
+කලට	NNC	O
+නොලැබීම	VNN	O
+හේතුවෙන්	NNC	O
+එලියතම්බි	NNP	B-PER
+මහතා	NNC	O
+වසර	NNC	O
+2002	NUM	O
+දී	RP	O
+අක්‍රීය	JJ	O
+සාමාජිකයෙකු	NNC	O
+බවට	POST	O
+පත්	RRPCV	O
+වූ	VP	O
+අතර	POST	O
+බ්‍රිතාන්‍ය	NNP	B-LOC
+ශාඛාව	NNC	O
+කිසි	DET	O
+ම	RP	O
+රාජකාරි	NNJ	O
+මට්ටමේ	NNJ	O
+සම්බන්ධකමක්	NNC	O
+එලියතම්බි	NNP	B-PER
+මහතා	NNC	O
+සමඟ	POST	O
+නොපැවැත්	PCV	O
+වූ	VP	O
+බවත්	POST	O
+ඒ	DET	O
+මහතා	NNC	O
+තවදුරටත්	RB	O
+පැවසී	VNF	O
+ය	RP	O
+.	FS	O
+වර්තමාන	JJ	O
+එක්සත්	NNP	B-ORG
+ජාතික	JJ	I-ORG
+පක්ෂ	NNJ	I-ORG
+ශාඛාවේ	NNC	O
+සම	JJ	O
+ලේකම්වරුන්	NNC	O
+ලෙස	POST	O
+කටයුතු	NCV	O
+කරනුයේ	VP	O
+මාලේන්	NNP	B-PER
+තිසේරා	NNP	I-PER
+සහ	CC	O
+හර්ෂ	NNP	B-PER
+සිරිවර්ධන	NNP	I-PER
+යන	VP	O
+මහත්වරුන්	NNC	O
+බව	POST	O
+ද	RP	O
+මොහොමඩ්	NNP	B-PER
+මහතා	NNC	O
+කීය	VFM	O
+.	FS	O
+තම	PRP	O
+ශාඛාව	NNC	O
+බ්‍රිතාන්‍යයේ	NNP	B-LOC
+දී	RP	O
+සියලු	DET	O
+ම	RP	O
+ශ්‍රී	NNP	O
+ලාංකිකයින්	NNP	O
+සමඟ	POST	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+වර්තමාන	JJ	O
+තත්ත්වය	NNC	O
+ගැන	POST	O
+අවබෝධයක්	NNC	O
+ලබා	VNF	O
+දීමට	VNN	O
+උත්සුක	JCV	O
+වෙන	VP	O
+අතර	POST	O
+බ්‍රිතාන්‍යවාසී	NNP	O
+සිංහල	NNP	O
+,	PUNC	O
+ද්‍රවිඩ	NNP	O
+,	PUNC	O
+මුස්ලිම්	NNP	O
+සහ	CC	O
+අනෙකුත්	DET	O
+සියලු	DET	O
+ම	RP	O
+බ්‍රිතාන්‍ය	NNP	O
+වෙසෙන	VP	O
+ශ්‍රී	NNP	O
+ලාංකික	NNP	O
+ජන	JJ	O
+කොටස්	NNC	O
+සමඟ	POST	O
+ඉතා	RP	O
+සමීප	JJ	O
+සාකච්ඡා	NNC	O
+පවත්වමින්	VNF	O
+ඔවුන්ගේ	PRP	O
+අදහස්	NNC	O
+නිරන්තරයෙන්	RB	O
+ම	RP	O
+එජාපෙ	NNP	B-ORG
+නායකත්වය	NNC	O
+වෙත	POST	O
+ලැබීමට	VNN	O
+සලස්වන	VP	O
+බව	POST	O
+ද	RP	O
+ඒ	DET	O
+මහතා	NNC	O
+තවදුරටත්	RB	O
+පෙන්වා	VNF	O
+දුන්නේ	VP	O
+ය	RP	O
+.	FS	O
+එක්සත්	NNP	B-ORG
+ජාතික	JJ	I-ORG
+පක්ෂය	NNC	I-ORG
+විසින්	POST	O
+රටේ	NNC	O
+ඇති	NIP	O
+කරන	VP	O
+ලද	VP	O
+සාමය	NNC	O
+ම	RP	O
+මෙවර	NNC	O
+මැතිවරණය	NNC	O
+ජයග්‍රහණය	NCV	O
+කිරීමට	VNN	O
+සෑහෙන	VP	O
+බව	POST	O
+පෙන්වා	VNF	O
+දුන්	VP	O
+මොහොමඩ්	NNP	B-PER
+මහතා	NNC	O
+රනිල්	NNP	B-PER
+වික්‍රමසිංහ	NNP	I-PER
+ප්‍රමුඛ	JJ	O
+රජය	NNC	O
+රට	NNC	O
+තුළ	POST	O
+මෙවන්	PRP	O
+සාමයක්	NNC	O
+ඇති	NIP	O
+නොකළේ	VP	O
+නම්	POST	O
+මෙවැනි	PRP	O
+මැතිවරණයක්	NNC	O
+පවත්	RPCV	O
+වන්නේ	VP	O
+කෙසේ	RB	O
+දැයි	CC	O
+ප්‍රශ්න	NCV	O
+කිරීමට	VNN	O
+තමා	PRP	O
+කැමැති	NNC	O
+බව	POST	O
+ද	RP	O
+මෙහි	PRP	O
+දී	RP	O
+ඔහු	PRP	O
+ප්‍රකාශ	NCV	O
+කළේ	VP	O
+ය	RP	O
+.	FS	O
+ගංගොඩවිල	NNP	B-PER
+සෝම	NNP	I-PER
+හිමි	VP	O
+තෙමස්	JJ	O
+ගුණ	NNC	O
+සමරු	NNJ	O
+පිංකම්	NNJ	O
+ගංගොඩවිල	NNP	B-PER
+සෝම	NNP	I-PER
+හිමි	VP	O
+අපවත්	NNC	O
+වී	VNF	O
+තෙමසක්	NNC	O
+ගෙවීම	VNN	O
+නිමිත්තෙන්	POST	O
+සැකසුණු	VP	O
+විශේෂ	JJ	O
+ගුණානුස්මරණ	JJ	O
+පිංකම්	NNJ	O
+මාලාවක්	NNC	O
+පසුගිය	VP	O
+12වැනි	JJ	O
+දා	NNC	O
+ලන්ඩන්	NNP	B-LOC
+බෞද්ධ	NNP	I-LOC
+විහාරයේ	NNC	I-LOC
+දී	RP	O
+පැවැත්විණි	VFM	O
+.	FS	O
+නිහාල්	NNP	B-PER
+සිල්වා	NNP	I-PER
+සහ	CC	O
+රාජා	NNP	B-PER
+බස්නායක	NNP	I-PER
+යන	VP	O
+මහත්වරුන්ගේ	NNC	O
+ප්‍රධානත්වයෙන්	RB	O
+සිදු	RRPCV	O
+වූ	VP	O
+මෙම	DET	O
+පිංකමට	NNC	O
+ගිහි	JJ	O
+පැවිදි	NNC	O
+විශාල	JJ	O
+පිරිසක්	NNC	O
+සහභාගි	RRPCV	O
+වූහ	VFM	O
+.	FS	O
+මහා	JJ	B-LOC
+බ්‍රිතාන්‍යයේ	NNP	I-LOC
+ප්‍රධාන	JJ	O
+සංඝනායක	NNC	O
+ආචාර්ය	JJ	O
+පූජ්‍ය	JJ	O
+මැදගම	NNP	B-PER
+වජිරඤාණ	NNP	I-PER
+හිමිපාණන්	NNC	O
+ද	RP	O
+සහ	CC	O
+සෙල්ස්ඩන්	NNP	B-LOC
+විහාරාධිපති	NNC	O
+පහළගම	NNP	B-PER
+සෝමරතන	NNP	I-PER
+හිමිපාණෝ	NNC	O
+ද	RP	O
+එම	DET	O
+අවස්ථාවට	NNC	O
+සහභාගි	RRPCV	O
+වූහ	VFM	O
+.	FS	O
+පිංකම	NNJ	O
+අවසානයේ	NNC	O
+තිස්ස	NNP	B-PER
+මඩවල	NNP	I-PER
+විසින්	POST	O
+අධ්‍යක්ෂණය	NCV	O
+කරන	VP	O
+ලද	VP	O
+සෝම	NNP	B-PER
+හිමියන්ගේ	NNC	I-PER
+ජීවිත	NNJ	O
+කථාව	NNC	O
+ඇතුළත්	POST	O
+කෙටි	JJ	O
+චිත්‍රපටයක්	NNC	O
+ද	RP	O
+ප්‍රදර්ශනය	NCV	O
+කෙරිණි	VFM	O
+.	FS	O
+"			PUNC
+සුළං		NNP
+කිරිල්ලී	NNP
+"	PUNC	O
+ලන්ඩනයට	NNP	O
+ජාත්‍යන්තර	JJ	O
+සම්මානයෙන්	NNC	O
+පිදුම්	RRPCV	O
+ලද	VP	O
+ඉනෝකා	NNP	B-PER
+සත්‍යාංගනී	NNP	I-PER
+කීර්තිනන්දගේ	NNP	I-PER
+"			PUNC
+සුළං		NNP
+කිරිල්ලී	NNP
+"	PUNC	O
+සිනමා	NNJ	O
+වෘතාන්තය	NNC	O
+හයවන	NUM	O
+ආසියාතික	NNP	B-LOC
+වනිතා	JJ	O
+සිනමා	NNJ	O
+උලෙළ	NNC	O
+නියෝජනය	NCV	O
+කරමින්	VNF	O
+ලබන	VP	O
+27වැනි	JJ	O
+දා	NNC	O
+ලන්ඩනයේ	NNP	B-LOC
+දී	RP	O
+තිරගත	VP	O
+වේ	VFM	O
+.	FS	O
+වසර	NNC	O
+2004	NUM	O
+දී	RP	O
+බංගලදේශයේ	NNP	B-LOC
+ඩකා	NNP	I-LOC
+ජාත්‍යන්තර	JJ	O
+සිනමා	NNJ	O
+උලෙළේ	NNC	O
+දී	RP	O
+හොඳ	JJ	O
+ම	RP	O
+චිත්‍රපටයට	NNC	O
+හිමි	RRPCV	O
+සම්මානය	NNC	O
+"			PUNC
+සුළං		NNP
+කිරිල්ලී	NNP
+"	PUNC	O
+දිනා	VNF	O
+ගත්	VP	O
+අතර	POST	O
+එහි	PRP	O
+ප්‍රධාන	JJ	O
+චරිතය	NNC	O
+නිරූපණය	NCV	O
+කරන	VP	O
+දමිතා	NNP	B-PER
+අබේරත්න	NNP	I-PER
+දක්ෂතම	JJ	O
+නිළියට	NNC	O
+හිමි	VP	O
+සම්මානය	NNC	O
+දිනා	VNF	O
+ගත්තා	VFM	O
+ය	RP	O
+.	FS	O
+තරුණ	JJ	O
+සිනමා	NNJ	O
+ශිල්පිනියක	NNC	O
+වන	VP	O
+ඉනෝකා	NNP	B-PER
+සත්‍යාංගනී	NNP	I-PER
+කීර්තිනන්ද	NNP	I-PER
+ඇගේ	PRP	O
+මෙම	DET	O
+සිනමා	NNJ	O
+කෘතිය	NNC	O
+තුළින්	POST	O
+නීතිය	NNC	O
+සංස්කෘතිය	NNC	O
+හා	CC	O
+යථාර්ථය	NNC	O
+අතර	POST	O
+ගැටීම	VNN	O
+විග්‍රහ	NCV	O
+කිරීමට	VNN	O
+සැබෑ	JJ	O
+උත්සාහයක්	NNC	O
+ගෙන	VNF	O
+ඇතැයි	NIP	O
+විචාරකයෝ	NNC	O
+පවසති	VFM	O
+.	FS	O
+ඇත්	NNJ	O
+දළ	NNJ	O
+ජාවාරම	NNC	O
+බ්‍රිතාන්‍යයේ	NNP	B-LOC
+සරුවට	NNC	O
+මහා	JJ	B-LOC
+බ්‍රිතාන්‍යයේ	NNP	I-LOC
+සත්ව	JJ	B-ORG
+සුභ	JJ	I-ORG
+සාධක	NNC	I-ORG
+සංගමය	NNC	I-ORG
+පෙන්වා	VNF	O
+දෙන	VP	O
+ආකාරයට	NNC	O
+ඇත්	NNJ	O
+දළ	NNJ	O
+ජාවාරම	NNC	O
+මගින්	POST	O
+පෞද්ගලික	JJ	O
+ආයතන	NNC	O
+විශාල	JJ	O
+මුදල්	NNC	O
+ඉපයීමට	VNN	O
+පටන්	JCV	O
+ගෙන	VNF	O
+ඇත	NIP	O
+.	FS	O
+සෝනියාගේ	NNP	B-ORG
+කොංග්‍රසය	NNP	I-ORG
+ඇතුළු	POST	O
+සෙසු	DET	O
+මිත්‍ර	JJ	O
+පක්ෂ	NNC	O
+මේ	DET	O
+නැති	NIP	O
+බැරි	JJ	O
+බහුතරයේ	JJ	O
+අසහනයට	NNC	O
+නිවැරදි	JJ	O
+ලෙස	POST	O
+ආමන්ත්‍රණය	NCV	O
+කැර	VNF	O
+මහ	JJ	O
+මැතිවරණයේ	NNC	O
+ජය	NNC	O
+කණුව	NNC	O
+කරා	POST	O
+ළඟා	RPCV	O
+වී	VNF	O
+ඇතත්	NIP	O
+,	PUNC	O
+ඔවුන්ගේ	PRP	O
+සාර්ථකත්වය	NNC	O
+රැඳී	VNF	O
+ඇත්තේ	NIP	O
+ඒ	DET	O
+ජනකාය	NNC	O
+තෘප්තිමත්	JCV	O
+කිරීමට	VNN	O
+සමත්	JCV	O
+වන	VP	O
+ප්‍රමාණය	NNC	O
+අනුව	POST	O
+ය	RP	O
+.	FS	O
+මේ	DET	O
+හැරෙන්නට	POST	O
+,	PUNC	O
+පසුගිය	JJ	O
+මහා	JJ	O
+මැතිවරණ	NNJ	O
+දෙක	NUM	O
+සමඟ	POST	O
+සසඳන	VP	O
+විට	POST	O
+දේශපාලන	JJ	O
+වශයෙන්	POST	O
+වඩා	RP	O
+වැඩදායක	JJ	O
+ප්‍රවණතාවක්	NNC	O
+මෙවර	NNC	O
+මහා	JJ	O
+මැතිවරණයේ	NNC	O
+දී	RP	O
+දක්නට	VNF	O
+තිබිණි	VFM	O
+.	FS	O
+එම	DET	O
+මහා	JJ	O
+මැතිවරණයේ	NNC	O
+ප්‍රධාන	JJ	O
+වශයෙන්	POST	O
+සාකච්ඡා	NCV	O
+වූයේ	VP	O
+ආගමිකත්වය	NNC	O
+සහ	CC	O
+කුල	NNJ	O
+පදනම	NNC	O
+උඩ	POST	O
+ගොඩ	RRPCV	O
+නැගුණු	VP	O
+ප්‍රශ්න	NNC	O
+වුවද	VP	O
+,	PUNC	O
+මෙවර	NNC	O
+බොහෝ	RP	O
+දුර	NNC	O
+කතිකා	NCV	O
+වූයේ	VP	O
+සමස්තයක්	NNC	O
+වශයෙන්	POST	O
+පොදු	JJ	O
+ජනතාව	NNC	O
+එදිනෙදා	NNC	O
+මුහුණ	NCV	O
+දෙන	VP	O
+ජීවන	JJ	O
+ගැටලු	NNC	O
+ගැන	POST	O
+ය	RP	O
+.	FS	O
+ආගමික	JJ	O
+අන්තවාදයේ	NNC	O
+දේශපාලන	JJ	O
+අගතියෙන්	NNC	O
+නිදහස්	JCV	O
+වූ	VP	O
+ප්‍රජාතන්ත්‍රවාදී	JJ	O
+දේශයක්	NNC	O
+තුළ	POST	O
+සාධාරණ	JJ	O
+සමාජයක්	NNC	O
+ගොඩනැඟීමේ	VNN	O
+අරමුණ	NNC	O
+කරා	POST	O
+ළඟාවීමේ	VNN	O
+දී	RP	O
+රට	NNC	O
+තුළ	POST	O
+ප්‍රගතිශීලී	JJ	O
+වාමාංශික	JJ	O
+කොටස්වල	NNC	O
+සහාය	NNC	O
+ගොනු	NCV	O
+කර	VNF	O
+ගැනීමට	VNN	O
+සෝනියාගේ	NNP	B-ORG
+කොංග්‍රසය	NNP	I-ORG
+සමත්	JCV	O
+වූ	VP	O
+අතර	POST	O
+,	PUNC	O
+සන්ධාන	JJ	O
+යුගයේ	NNC	O
+පාර්ලිමේන්තු	NNJ	O
+දේශපාලනයේ	NNC	O
+තවත්	DET	O
+දකුණු	NNP	B-LOC
+ආසියාතික	NNP	I-LOC
+අත්	NNJ	O
+දැකීමක්	NNC	O
+ලෙස	POST	O
+සලකන	VP	O
+විට	POST	O
+ශ්‍රී	NNP	B-LOC
+ලංකාවේ	NNP	I-LOC
+හට	POST	O
+ගත්	VP	O
+උන්නතිකාමි	JJ	O
+පෙරළියට	NNC	O
+සමගාමි	NCV	O
+වූ	VP	O
+නව	JJ	O
+පෙළගැස්මක්	NNC	O
+ඉන්දියාව	NNP	B-LOC
+තුළ	POST	O
+යළි	RB	O
+හට	RPCV	O
+ගැනෙමින්	VNF	O
+ඇතැයි	NIP	O
+පෙනී	VNF	O
+යයි	VFM	O
+.	FS	O
+ගෝලීයකරණයේ	NNC	O
+අයහපත්	JJ	O
+බලපෑම	NNC	O
+අවම	JCV	O
+කර	VNF	O
+ගැනීමේ	VNN	O
+දී	RP	O
+මේ	DET	O
+පෙළගැස්ම	NNC	O
+ඔස්සේ	POST	O
+ඉන්දියාව	NNP	B-LOC
+ලබන	VP	O
+යම්	DET	O
+සාර්ථකත්වයක්	NNC	O
+වේ	VP	O
+නම්	POST	O
+,	PUNC	O
+එය	PRP	O
+සංවර්ධනය	NCV	O
+වෙමින්	VNF	O
+ඇති	NIP	O
+අනෙක්	DET	O
+රටවලට	NNC	O
+ද	RP	O
+යහපත්	JJ	O
+බලපෑමක්	NNC	O
+ගෙනෙනු	VP	O
+ඇතැයි	NIP	O
+සිතිය	VP	O
+හැකි	AUX	O
+ය	RP	O
+.	FS	O
+කලාපයීය	JJ	O
+බලවතකු	NNC	O
+ලෙස	POST	O
+දකුණු	NNP	B-LOC
+ආසියාව	NNP	I-LOC
+තුළ	POST	O
+ඉන්දියාව	NNP	B-LOC
+උසුලන	VP	O
+ප්‍රමුඛ	JJ	O
+තත්ත්ව	NNC	O
+දෙස	POST	O
+විමසන	VP	O
+විට	POST	O
+,	PUNC	O
+ඉන්දියාවේ	NNP	B-LOC
+අභ්‍යන්තර	JJ	O
+දේශපාලන	JJ	O
+පෙරළියකින්	NNC	O
+ඇති	NIP	O
+විය	VP	O
+හැකි	AUX	O
+කලාපීය	JJ	O
+පිටාරය	NNC	O
+ගැන	POST	O
+ද	RP	O
+නිතැතින්	RB	O
+ම	RP	O
+අපගේ	PRP	O
+අවධානය	NNC	O
+යොමු	RRPCV	O
+වෙයි	VFM	O
+.	FS	O
+මේ	DET	O
+අතුරින්	POST	O
+ක්ෂණිකව	RB	O
+සංවේදිතාවක්	NNC	O
+දක්වන්නේ	VP	O
+පාකිස්ථානයයි	NVB	B-LOC
+.	FS	O
+ඉන්දු	NNP	B-LOC
+–	PUNC	O
+පාකිස්ථාන්	NNP	B-LOC
+සබඳතා	NNC	O
+පිළිබඳ	POST	O
+ඉතිහාසයේ	NNC	O
+දී	RP	O
+ගැටුම්	NNC	O
+අභිමුඛතාවේ	VNF	O
+සීතල	JJ	O
+යුද්ධ	NNJ	O
+ස්ථාවරයේ	NNC	O
+සිට	POST	O
+සංහිඳියාවේ	NNC	O
+නව	JJ	O
+සහයෝගිතා	JJ	O
+යුගයක්	NNC	O
+කරා	POST	O
+පිය	RPCV	O
+නඟමින්	VNF	O
+පසුගිය	VP	O
+වසරෙක	NNC	O
+කාලය	NNC	O
+තුළ	POST	O
+අඟනා	JJ	O
+පුරෝගාමිත්වයක්	NNC	O
+දැක්වූ	VP	O
+අගමැති	NNC	O
+වජ්පායි	NNP	B-PER
+කෙරෙහි	POST	O
+විශේෂ	JJ	O
+මනාපයක්	NNC	O
+දැක්වීමට	VNN	O
+පාකිස්ථනයට	NNP	B-LOC
+හේතු	NNC	O
+ඇතත්	NIP	O
+,	PUNC	O
+කොංග්‍රසයේ	NNP	B-ORG
+නායකත්වයෙන්	NNC	O
+යුතු	AUX	O
+නව	JJ	O
+ඉන්දීය	NNP	B-ORG
+රජයක්	NNC	I-ORG
+සමඟ	POST	O
+ඒ	DET	O
+අයුරින්	NNC	O
+ම	RP	O
+වැඩ	NCV	O
+කරමින්	VNF	O
+දෙරට	NNC	O
+අතර	POST	O
+සාම	JJ	O
+කියාදාමය	NNC	O
+පෙරට	JCV	O
+ගෙන	VNF	O
+යාමට	VNN	O
+හැකිවේ	AUX	O
+යයි	VNN	O
+,	PUNC	O
+පාකිස්තානය	NNP	B-LOC
+සඳහන්	RRPCV	O
+කර	VNF	O
+ඇත්තේ	NIP	O
+මහ	JJ	O
+මැතිවරණ	NNJ	O
+ප්‍රතිඵලයෙන්	NNC	O
+පසු	POST	O
+මුල්	JJ	O
+ප්‍රතිචාරය	NNC	O
+දැක්වූ	VP	O
+විදේශ	NNJ	O
+රට	NNC	O
+වශයෙනි	POST	O
+.	FS	O
+ඉන්දු	NNP	B-LOC
+-	PUNC	O
+පාකිස්ථාන්	NNP	B-LOC
+සංහිඳියාව	NNC	O
+තවදුරටත්	RB	O
+වැඩි	JJ	O
+දියුණු	JCV	O
+කිරීමට	VNN	O
+තමන්	PRP	O
+දක්වන	VP	O
+කැපවීම	NNC	O
+සෝනියා	NNP	B-PER
+විසින්	POST	O
+ද	RP	O
+ප්‍රකාශ	NCV	O
+කර	VNF	O
+ඇත	NIP	O
+.	FS	O
+ශ්‍රී	NNP	B-LOC
+ලංකාව	NNP	I-LOC
+හා	CC	O
+ඉන්දියාව	NNP	B-LOC
+අතර	POST	O
+සබඳතා	NNC	O
+කොංග්රස්	NNP	B-ORG
+පක්ෂයේ	NNC	I-ORG
+නායකත්වයෙන්	NNC	O
+යුතු	AUX	O
+නව	JJ	O
+රජයක්	NNC	O
+වැඩ	NNC	O
+බාර	NCV	O
+ගන්නේ	VP	O
+ශ්‍රී	NNP	B-LOC
+ලංකාව	NNP	I-LOC
+සහ	CC	O
+ඉන්දියාව	NNP	B-LOC
+අතර	POST	O
+සබඳතා	NNC	O
+ඉහළ	JCV	O
+ම	RP	O
+සුහද	JJ	O
+තලයෙක	NNC	O
+පවතිද්දී	VNF	O
+ය	RP	O
+.	FS	O
+දෙරටේ	NNC	O
+ම	RP	O
+නායකයන්	NNC	O
+ඔවුනොවුන්ගේ	PRP	O
+රටවල්	NNC	O
+අතර	POST	O
+ක්‍රියාශීලී	JJ	O
+සහයෝගය	NNC	O
+සහ	CC	O
+මිත්‍රත්වය	NNC	O
+අරභයා	VNF	O
+දක්වන	VP	O
+සමාන	JJ	O
+චින්තනය	NNC	O
+ගැන	POST	O
+සිතන	VP	O
+විට	POST	O
+වඩා	RP	O
+ළබැඳි	JJ	O
+කැපවීමකින්	NNC	O
+ක්‍රියා	NCV	O
+කිරීමට	VNN	O
+දෙරටට	NNC	O
+ම	RP	O
+හැකි	AUX	O
+වනු	VP	O
+ඇත	NIP	O
+.	FS	O
+වැරැදි	JJ	O
+ගණන්	NNC	O
+බැලීමක්	VNN	O
+භාරතීය	NNP	B-ORG
+ජනතා	NNP	I-ORG
+පක්ෂයේ	NNC	I-ORG
+නායකත්වය	NNC	O
+ඇති	NIP	O
+ප්‍රජාතන්ත්‍රවාදී	JJ	B-ORG
+ජාතික	JJ	I-ORG
+සංධානයේ	NNC	I-ORG
+මැතිවරණ	NNJ	O
+ජයග්‍රහණයක්	NNC	O
+උදෙසා	POST	O
+ඉතා	RP	O
+ම	RP	O
+සුදුසු	JCV	O
+එළැඹ	VNF	O
+ඇතැයි	NIP	O
+නිගමනය	NCV	O
+කැර	VNF	O
+,	PUNC	O
+නියමිත	JJ	O
+කාලයට	NNC	O
+පස්	NUM	O
+මාසයකට	NNC	O
+කලින්	NNC	O
+පාර්ලිමේන්තුව	NNC	O
+විසුරුවා	VNF	O
+හරිමින්	VNF	O
+අගමැති	NNC	O
+අතාල්	NNP	B-PER
+බිහාරි	NNP	I-PER
+වජ්පායි	NNP	I-PER
+ගත්	VP	O
+තීරණය	NNC	O
+වැරැදි	JJ	O
+ගණන්	NNC	O
+බැලීමක්	VNN	O
+මත	POST	O
+පදනම්	NCV	O
+වූවක්	VNN	O
+බව	POST	O
+පැහැදිලි	JJ	O
+ය	RP	O
+.	FS	O
+එහෙත්	CC	O
+"			PUNC
+වැරදි		JJ
+පක්ෂයේ	NNC
+නායකත්වයට	NNC
+පත්		RRPCV
+වූ			VP
+හරි		JJ
+මිනිහා	NNC
+"	PUNC	O
+ලෙස	POST	O
+ද	RP	O
+හැඳින්වෙන	VP	O
+වජ්පායිගේ	NNP	B-PER
+දේශපාලන	JJ	O
+ප්‍රතිරූපයට	NNC	O
+මේ	DET	O
+පරාජය	NNC	O
+නිසා	POST	O
+හානියක්	NNC	O
+වී	VNF	O
+ඇතැයි	NIP	O
+කිව	VP	O
+නොහැකි	AUX	O
+ය	RP	O
+.	FS	O
+ජනතාවගේ	NNC	O
+නිදහස්	JJ	O
+ඡන්දයෙන්	NNC	O
+සිය	PRP	O
+පක්ෂ	NNC	O
+ප්‍රතික්ෂේප	NCV	O
+කැර	VNF	O
+ඇති	NIP	O
+බව	POST	O
+ඉඳුරා	RB	O
+දැනැ	VNF	O
+ගත්	VP	O
+ගිය	VP	O
+බ්‍රහස්පතින්දා	NNP	O
+ම	RP	O
+අගමැති	NNC	O
+පුටුවෙන්	NNC	O
+ඔහු	PRP	O
+සමු	RRPCV	O
+ගත්තේ	VP	O
+පරාජයේ	NNC	O
+දී	RP	O
+ගරු	JJ	O
+කටයුතු	NNC	O
+ලෙස	POST	O
+හැසිරුණු	VP	O
+ප්‍රජාතන්ත්‍රවාදි	JJ	O
+නායකයකුගේ	NNC	O
+සම්භාවනීයත්වයක්	NNC	O
+සිය	PRP	O
+දේශපාලන	JJ	O
+පෞරුෂයට	NNC	O
+එකතු	JCV	O
+කැර	VNF	O
+ගනිමිනි	VFM	O
+.	FS	O
+මහා	JJ	O
+මැතිවරණයේ	NNC	O
+විවාද	NNC	O
+රහිත	POST	O
+වීරවරිය	NNC	O
+ලෙස	POST	O
+ඉන්දීය	NNP	B-LOC
+ජනමතය	NNC	O
+ඔස්සේ	POST	O
+උස්	NNC	O
+ව	RP	O
+නැඟී	VNF	O
+සිටින	VP	O
+කොංග්රස්	NNP	B-ORG
+නායිකා	NNC	O
+සෝනියා	NNP	B-PER
+පරාජයෙන්	NNC	O
+ඇද	VNF	O
+වැටී	VNF	O
+,	PUNC	O
+දේශපාලන	JJ	O
+වශයෙන්	POST	O
+ආබාධිත	NCV	O
+ව	VNF	O
+පැවැති	VP	O
+පක්ෂයක්	NNC	O
+යළි	RB	O
+ගොඩ	RRPCV	O
+ගැනීමට	VNN	O
+පමණක්	POST	O
+නොව	VNF	O
+,	PUNC	O
+විජාතිකත්වය	NNC	O
+පිළිබඳ	POST	O
+දේශපාලන	JJ	O
+අවලාදය	NNJ	O
+මධ්‍යයේ	NNC	O
+කෝටි	NUM	O
+සංඛ්‍යාත	JJ	O
+ජනතාවකගේ	NNJ	O
+විශ්වාසය	NNC	O
+සිය	PRP	O
+නායකත්වය	NNC	O
+වටා	1	O
+ගොනු	NCV	O
+කර	VNF	O
+ගනිමින්	VNF	O
+,	PUNC	O
+ඉන්දියාවේ	NNP	B-LOC
+ඉරණම	NNC	O
+අතට	NNC	O
+ගත්	VP	O
+නව	JJ	O
+නායිකාව	NNC	O
+බවට	POST	O
+පත්	RRPCV	O
+ව	VNF	O
+ඇත්තී	VFM	O
+,	PUNC	O
+ඉතිහාසගත	JJ	O
+ජයග්‍රහණයෙක	NNC	O
+දී	RP	O
+නිහතමානිත්වයේ	JJ	O
+ආභරණයෙන්	NNC	O
+සිය	PRP	O
+ප්‍රතිරූපයට	NNC	O
+තව	DET	O
+දීප්තියක්	NNC	O
+එකතු	JCV	O
+කැර	VNF	O
+ගනිමිනි	VFM	O
+.	FS	O
+සෝනියා	NNP	B-PER
+ඉන්දියාවේ	NNP	B-LOC
+නව	JJ	O
+අගමැති	NNC	O
+වේද	QBE	O
+යනු	VP	O
+තව	DET	O
+ම	RP	O
+විවෘත	JJ	O
+ප්‍රශ්නයකි	NVB	O
+.	FS	O
+එහෙත්	CC	O
+කොංග්රස්	NNP	B-ORG
+පක්ෂයට	NNC	I-ORG
+සහ	CC	O
+එහි	PRP	O
+මිතුරු	JJ	O
+පක්ෂවලට	NNC	O
+ලැබුණු	VP	O
+ජන	JJ	O
+වරම	NNC	O
+,	PUNC	O
+විජාතිකත්වය	NNC	O
+සාධකයක්	NNC	O
+කර	VNF	O
+ගනිමින්	VNF	O
+ඇයට	PRP	O
+එරෙහි	RB	O
+ව	RP	O
+ගොනු	NCV	O
+කැරුණු	VP	O
+විරෝධතා	NNJ	O
+ජනතාව	NNC	O
+විසින්	POST	O
+ප්‍රතික්ෂේප	NCV	O
+කරනු	VP	O
+ලැබීමකි	VFM	O
+.	FS	O
+මේ	DET	O
+නිසා	POST	O
+ඇය	PRP	O
+අගමැති	NNC	O
+වේද	QBE	O
+,	PUNC	O
+නැතිද	NIP	O
+යනු	POST	O
+දැන්	RB	O
+ඇය	PRP	O
+විසින්	POST	O
+ම	RP	O
+ගත	VP	O
+යුතු	AUX	O
+ව	VNF	O
+ඇති	NIP	O
+තීරණයකි	NVB	O
+.	FS	O
+අගමැති	NNJ	O
+පුටුවේ	NNC	O
+කවුරුන්	NNC	O
+වාඩි	JCV	O
+වුවත්	VNF	O
+,	PUNC	O
+එය	PRP	O
+පිටුපස	NNC	O
+ඇති	NIP	O
+ජංගම	JJ	O
+බලය	NNC	O
+ඇයට	PRP	O
+වනු	VP‍	O
+ඇති	NIP	O
+බවට	POST	O
+නම්	POST	O
+සැකයෙක්	NNC	O
+නැත	NIP	O
+.	FS	O
+බී.	ABB	B-ORG
+ජේ.	ABB	I-ORG
+පී.	ABB	I-ORG
+දේශපාලනයට	NNC	O
+එරෙහි	RB	O
+ව	RP	O
+පෙළ	NCV	O
+ගැසෙන	VP	O
+ඉතා	RP	O
+පළල්	JJ	O
+සංධානයක්	NNC	O
+වීමේ	VNN	O
+හැකියාව	NNC	O
+හැරෙන්නට	POST	O
+,	PUNC	O
+ඉන්දියාවේ	NNP	B-LOC
+නව	JJ	O
+රජයේ	NNC	O
+හැඩ	NNC	O
+රුව	NNC	O
+තව	DET	O
+ම	RP	O
+හරි	JJ	O
+හැටි	NNC	O
+පැහැදිලි	JCV	O
+නැත	VFM	O
+.	FS	O
+කෙසේ	RB	O
+වුවද	VP	O
+ලොව	NNC	O
+විශාලතම	JJ	O
+ප්‍රජාතන්ත්‍රවාදී	JJ	O
+රටේ	NNC	O
+මැද	JJ	O
+මාවත්	NNC	O
+දේශාපලනය	NNC	O
+සහ	CC	O
+ප්‍රගතිශීලී	JJ	O
+වාමාංශය	NNC	O
+අතර	POST	O
+සුසංයෝජනයක්	NNC	O
+වේ	VP	O
+නම්	POST	O
+,	PUNC	O
+එය	PRP	O
+හමුවේ	NNC	O
+නව	JJ	O
+අවස්ථා	NNC	O
+පමණක්	POST	O
+නොව	VNF	O
+තියුණු	JJ	O
+අභියෝග	NNC	O
+ද	RP	O
+හට	RRPCV	O
+ගැනෙනු	VP	O
+දැක	VNF	O
+ගත	VP	O
+හැකි	AUX	O
+වනු	VP	O
+ඇත	NIP	O
+.	FS	O
+දෙමළ	NNP	O
+පත්තරවලින්	NNP	O
+නැගෙනහිර	NNP	B-LOC
+ප්‍රහාරයෙන්	NNC	O
+සටන්	NNJ	O
+විරාමය	NNC	O
+කැඩුණා	NNP	O
+තමිල්	NNP	B-PER
+සෙල්වන්	NNP	I-PER
+නැගෙනහිර	NNP	B-LOC
+කොටි	NNP	O
+පාලන	NNJ	O
+ප්‍රදේශයක්	NNC	O
+වන	VP	O
+අයිත්තමලෛ	NNP	B-LOC
+කොටි	NNP	I-LOC
+කඳවුරට	NNC	I-LOC
+පසුගියදා	NNC	O
+එල්ල	NCV	O
+වූ	VP	O
+ප්‍රහාරය	NNC	O
+සටන්	NNJ	O
+විරාම	NNJ	O
+ගිවිසුම	NNC	O
+උල්ලංඝනය	NCV	O
+වීමකැයි	VNN	O
+සටන්	NNJ	O
+විරාම	NNJ	O
+ගිවිසුම්	NNC	O
+ප්‍රධාන	JJ	O
+මේජර්	JJ	O
+ජනරාල්	NNC	O
+ට්‍රොන්	NNP	B-PER
+ෆුර්හව්දේ	NNC	I-PER
+පිළිගෙන	VNF	O
+ඇති	NIP	O
+බවත්	POST	O
+,	PUNC	O
+මෙය	PRP	O
+මුළුමනින්ම	RB	O
+සටන්	NNJ	O
+විරාම	NNJ	O
+ගිවිසුම	NNC	O
+උල්ලංඝනය	NCV	O
+කිරීමක්	VNN	O
+වන	VP	O
+හෙයින්	POST	O
+ඒ	DET	O
+පිළිබඳ	POST	O
+තම	PRP	O
+සංවිධානයේ	NNC	O
+විරෝධය	NNC	O
+සටන්	NNJ	O
+විරාම	NNJ	O
+ගිවිසුම්	NNC	O
+හරහා	POST	O
+රජය	NNC	O
+වෙත	POST	O
+දැනුම්	NCV	O
+දුන්	VP	O
+බවත්	POST	O
+කොටි	NNP	B-ORG
+සංවිධානයේ	NNC	I-ORG
+දේශපාලනාංශ	NNC	O
+ප්‍රධානි	NNC	O
+එස්.	ABB	B-PER
+පී.	ABB	I-PER
+තමිල්	NNP	I-PER
+සෙල්වන්	NNP	I-PER
+ප්‍රකාශ	NCV	O
+කළ	VP	O
+බව	POST	O
+"			PUNC
+උදයන්		NNC
+"	PUNC	O
+පුවත්පත	NNC	O
+වාර්තා	NCV	O
+කරයි	VFM	O
+.	FS	O
+අධි	JJ	O
+ආරක්ෂිත	JJ	O
+කලාප	NNC	O
+පෙන්වා	VNF	O
+යළි	RB	O
+පදිංචි	NCV	O
+වීමට	VNN	O
+බාධා	NCV	O
+නොකළ	VP	O
+යුතුයි	AUX	O
+යාපන	NNP	B-LOC
+අර්ධද්වීපයේ	NNC	I-LOC
+ස්ථාපිත	JCV	O
+කැරුණු	VP	O
+අධි	JJ	O
+ආරක්ෂිත	JJ	O
+කලාප	NNJ	O
+හේතුවෙන්	NNC	O
+එකී	VP	O
+ප්‍රදේශවලින්	NNC	O
+අවතැන්වූවන්	NNC	O
+යළි	RB	O
+පදිංචි	NCV	O
+කරවීම	VNN	O
+සඳහා	POST	O
+අවශ්‍ය	JJ	O
+ප්‍රායෝගික	JJ	O
+ක්‍රියාමාර්ග	NNC	O
+ගත	VP	O
+යුතු	AUX	O
+බවත්	POST	O
+,	PUNC	O
+ආරක්ෂක	JJ	O
+කාරණා	NNC	O
+පිළිබඳ	POST	O
+සාකච්ඡා	NNC	O
+අවසන්	JCV	O
+වන	VP	O
+තෙක්	POST	O
+අවතැන්වූවනට	NNC	O
+ඉවසා	VNF	O
+සිටින්නැයි	VNN	O
+කීම	VNN	O
+නුසුදුසු	JJ	O
+බවත්	POST	O
+,	PUNC	O
+අවතැන්වූවන්ගේ	NNP	O
+ප්‍රශ්නයට	NNC	O
+විසඳුම්	NNC	O
+ලබා	VNF	O
+දීමේ	VNN	O
+දි	RP	O
+අධි	JJ	O
+ආරක්ෂිත	JJ	O
+කලාප	NNJ	O
+බාධාවක්	NNC	O
+නොවිය	VP	O
+යුතු	AUX	O
+බවත්	POST	O
+සරණාගතයන්	NNC	O
+සඳහා	POST	O
+වන	VP	O
+එක්සත්	NNP	B-ORG
+ජාතීන්ගේ	NNP	I-ORG
+ප්‍රධානි	NNC	O
+ඩෙනිස්	NNP	B-PER
+මකන්මාරා	NNP	I-PER
+ප්‍රකාශ	NCV	O
+කළ	VP	O
+බව	POST	O
+"			PUNC
+සුඩර්ඔල	NNC
+"	PUNC	O
+පුවත්පත	NNC	O
+කියයි	VFM	O
+.	FS	O
+නැගෙනහිර	NNP	B-LOC
+"			PUNC
+නාඳුනන	JJ
+"	PUNC	O
+ප්‍රහාරය	NNC	O
+කොටි	JJ	O
+නායකයෙකු	NNC	O
+ඉලක්ක	NCV	O
+කළ	VP	O
+එකක්	NNC	O
+.	FS	O
+නැගෙනහිර	NNP	B-LOC
+කොටි	NNP	O
+පාලන	NNJ	O
+ප්‍රදේශයේ	NNC	O
+වව්නතීව්	NNP	B-LOC
+,	PUNC	O
+ආයිත්තයමලෛහි	NNP	B-LOC
+පිහිටි	VP	O
+කොටි	NNP	B-LOC
+කඳවුරට	NNC	I-LOC
+පසුගියදා	NNC	O
+එල්ල	NCV	O
+වූ	VP	O
+ප්‍රහාරය	NNC	O
+එම	DET	O
+සංවිධානයේ	NNC	O
+මූල්‍ය	JJ	O
+අංශ	NNC	O
+"			PUNC
+නිරෝන්	NNP
+"	PUNC	O
+නමැත්තා	NNC	O
+ඉලක්ක	NCV	O
+කොට	VNF	O
+දියත්	JCV	O
+වූ	VP	O
+එකක්	NNC	O
+බව	POST	O
+වාර්තා	NCV	O
+වේ	VFM	O
+.	FS	O
+"			PUNC
+නිරෝන්	NNP
+"	PUNC	O
+හිටපු	VP	O
+නැගෙනහිර	NNP	B-LOC
+කොටි	NNP	O
+නායක	NNC	O
+"			PUNC
+කරුණා		NNP
+අම්මාන්ගේ	NNP
+"	PUNC	O
+මුදල්	NNJ	O
+වංචා	NNC	O
+පිළිබඳ	POST	O
+වන්නි	NNP	B-LOC
+කොටි	NNP	O
+නායකත්වයට	NNC	O
+තොරතුරු	NNC	O
+ලබා	VNF	O
+දුන්	VP	O
+අයෙකු	NNC	O
+බවත්	POST	O
+,	PUNC	O
+කරුණාගේ	NNP	B-PER
+වෙන්ව	VNF	O
+යාමේ	VNN	O
+තීරණයත්	NNC	O
+සමඟ	POST	O
+ම	RP	O
+වන්නියට	NNC	B-LOC
+පැන	VNF	O
+ගත්	VP	O
+"			PUNC
+නිරෝන්	NNP
+"	PUNC	O
+නැගෙනහිර	NNP	B-LOC
+පළාත	NNC	I-LOC
+යළිත්	RB	O
+වන්නි	NNP	B-LOC
+කොටි	NNP	O
+නායකත්වය	NNC	O
+යටතට	POST	O
+පත්වීමත්	VNN	O
+සමඟ	POST	O
+ම	RP	O
+නැගෙනහිරට	NNC	B-LOC
+පැමිණ	VNF	O
+ප්‍රහාරයට	NNC	O
+ලක්	RRPCV	O
+වූ	VP	O
+කඳවුරේ	NNC	O
+සිට	POST	O
+තම	PRP	O
+කටයුතු	NNC	O
+යළි	RB	O
+අරඹා	VNF	O
+තිබූ	VP	O
+බවත්	POST	O
+,	PUNC	O
+ඒ	DET	O
+බව	POST	O
+දැන	VNF	O
+ගත්	VP	O
+කරුණා	NNP	B-PER
+අම්මාන්ගේ	NNP	I-PER
+සගයන්	NNC	O
+"			PUNC
+නිරෝන්	NNP
+"	PUNC	O
+ඝාතනය	NCV	O
+කිරීමේ	VNN	O
+අරමුණින්	NNC	O
+මේ	DET	O
+ප්‍රහාරය	NNC	O
+එල්ල	NCV	O
+කර	VNF	O
+ඇතත්	NIP	O
+ප්‍රහාරය	NNC	O
+එල්ල	NCV	O
+වූ	VP	O
+අවස්ථාවේ	NNC	O
+"			PUNC
+නිරෝන්	NNP
+"	PUNC	O
+එහි	PRP	O
+නොසිටි	VP	O
+බැවින්	POST	O
+කරුණා	NNP	B-PER
+පාර්ශ්වයේ	NNC	O
+අපේක්ෂා	NCV	O
+ඉටු	RPCV	O
+නොවූ	VP	O
+බවත්	POST	O
+තතු	NNC	O
+දත්	NNC	O
+ආරංචි	NNJ	O
+මාර්ග	NNC	O
+පවසන	VP	O
+බව	POST	O
+සුඩර්ඔලි	NNP	B-ORG
+පුවත්පත	NNC	O
+කියයි	VFM	O
+.	FS	O
+නැගෙනහිර	NNP	B-LOC
+ආරක්ෂක	JJ	O
+අංශ	NNC	O
+ආරක්ෂක	JJ	O
+වැඩපිළිවෙළක්	NNC	O
+යොදයි	VP	O
+නැගෙනහිර	NNP	B-LOC
+පළාතේ	NNC	I-LOC
+කොටි	JJ	O
+පාලනයට	NNC	O
+අයත්	POST	O
+ප්‍රදේශ	NNC	O
+හා	CC	O
+රජයේ	NNC	O
+පාලනය	NNC	O
+යටතේ	POST	O
+පවතින	VP	O
+ප්‍රදේශ	NNC	O
+අතර	POST	O
+වැටී	VNF	O
+ඇති	NIP	O
+අතුරු	JJ	O
+මාර්ග	NNC	O
+අටක	NUM	O
+ප්‍රවාහන	JJ	O
+කටයුතු	NNC	O
+සීමා	NCV	O
+කිරීමට	VNN	O
+ආරක්ෂක	JJ	O
+අංශ	NNC	O
+තීරණය	NCV	O
+කර	VNF	O
+ඇතැයි	NIP	O
+කොටි	JJ	O
+පාලන	NNJ	O
+ප්‍රදේශයේ	NNC	O
+පළවන	VP	O
+තමිල්අලෛ	NNC	B-ORG
+පුවත්පත	NNC	O
+කියයි	VFM	O
+.	FS	O
+ඒ	DET	O
+අනුව	POST	O
+රාත්‍රි	JJ	O
+10ත්	NNC	O
+පාන්දර	JJ	O
+5ත්	NNC	O
+අතර	POST	O
+කාලයේ	NNC	O
+දී	RP	O
+එම	DET	O
+මාර්ගවල	NNC	O
+ආරක්ෂක	JJ	O
+අංශ	NNC	O
+ගමන්	NCV	O
+සීමා	NCV	O
+කැරෙනු	VP	O
+ඇති	NIP	O
+,	PUNC	O
+එම	DET	O
+කාලයේ	NNC	O
+දී	RP	O
+මේ	DET	O
+මාර්ගවල	NNC	O
+ගමන්	NCV	O
+ගන්නා	VP	O
+වාහන	NNC	O
+දැඩි	JJ	O
+සෝදිසි	JJ	O
+කිරීමකට	NNC	O
+ලක්	RRPCV	O
+කැරෙන	VP	O
+අතර	POST	O
+මහජන	JJ	O
+ප්‍රවාහන	NNJ	O
+කටයුතු	NNC	O
+මානුෂික	JJ	O
+හේතු	NNC	O
+මත	POST	O
+පමණක්	POST	O
+සිදු	RPCV	O
+කිරීමට	VNN	O
+අවසර	NCV	O
+ලැබෙන	VP	O
+බවත්	POST	O
+වාර්තා	NCV	O
+වේ	VFM	O
+.	FS	O
+පට්ටිරුප්පුව	NNC	B-LOC
+,	PUNC	O
+මණ්ඩූර්	NNP	B-LOC
+,	PUNC	O
+වව්නතීව්	NNP	B-LOC
+,	PUNC	O
+කළුපාලම	NNP	B-LOC
+,	PUNC	O
+කිරාන්	NNP	B-LOC
+,	PUNC	O
+වාලච්චේනෙ	VP	B-LOC
+යන	VP	O
+ප්‍රදේශවල	NNC	O
+මාර්ග	NNC	O
+මේ	DET	O
+යටතට	POST	O
+වැටෙයි	VFM	O
+.	FS	O
+පසුගියදා	NNC	O
+කොටි	JJ	O
+පාලන	NNJ	O
+ප්‍රදේශයට	NNC	O
+එල්ල	NCV	O
+වූ	VP	O
+ප්‍රහාරයට	NNC	O
+ආරක්ෂක	JJ	O
+අංශ	NNC	O
+සහය	NNC	O
+ලැබුණු	VP	O
+බවට	POST	O
+කොටි	NNC	O
+චෝදනා	NCV	O
+කිරීමෙන්	VNN	O
+පසුව	POST	O
+ආරක්ෂක	JJ	O
+අංශ	NNC	O
+මේ	DET	O
+පියවර	NNC	O
+ගෙන	VNF	O
+ඇති	NIP	O
+බව	POST	O
+තමිල්	NNP	B-ORG
+අලෛ	NNC	I-ORG
+පුවත්පත	NNC	O
+වැඩිදුරටත්	RB	O
+වාර්තා	NCV	O
+කරයි	VFM	O
+.	FS	O
+මන්නාරමට	NNP	B-LOC
+හොරෙන්	JCV	O
+එන	VP	O
+අයත්	POST	O
+හොරාට	NNC	O
+ගේන	VP	O
+බඩුත්	NNP	O
+වැඩිවෙලා	NNP	O
+ඉන්දියාවේ	NNP	B-LOC
+සිට	POST	O
+ශ්‍රී	NNP	B-LOC
+ලංකාව	NNP	I-LOC
+බලා	VNF	O
+පැමිණෙන	VP	O
+සරණාගත	JJ	O
+සංඛ්‍යාව	NNC	O
+ක්‍රමයෙන්	NNC	O
+ඉහළ	JCV	O
+යන	VP	O
+,	PUNC	O
+එසේ	RB	O
+මෙරටට	NNC	O
+පැමිණෙන	VP	O
+සරණාගතයන්	NNC	O
+දැන	VNF	O
+හෝ	CC	O
+නොදැන	VP	O
+තමන්	PRP	O
+සමඟ	POST	O
+නීති	NNJ	O
+විරෝධි	JJ	O
+බඩු	NNJ	O
+භාහිරාදිය	NNC	O
+ද	RP	O
+රැගෙන	VNF	O
+එන	VP	O
+බවත්	POST	O
+මන්නාරමේ	NNP	B-LOC
+නියෝජ්‍ය	JJ	O
+රේගු	NNJ	B-ORG
+ප්‍රධානයා	NNC	O
+පවසන	VP	O
+බව	POST	O
+වීරකේසරී	JJ	B-ORG
+පුවත්පත	NNC	O
+කියයි	VFM	O
+.	FS	O
+නීති	NNJ	O
+විරෝධී	JJ	O
+ලෙස	POST	O
+තලෛමන්නාරම	NNC	B-LOC
+හරහා	POST	O
+මෙරටට	NNC	O
+එන	VP	O
+එකී	DET	O
+සරණාගතයන්	NNC	O
+රැගෙන	VNF	O
+එන	VP	O
+නීති	NNJ	O
+විරෝධී	JJ	O
+භාණ්ඩ	NNC	O
+රාජසන්තක	JCV	O
+කළ	VP	O
+යුතු	AUX	O
+තත්ත්වයක්	NNC	O
+උද්ගතවී	VNF	O
+ඇතැයි	NIP	O
+ද	RP	O
+පසුගිය	JJ	O
+මාස	NNC	O
+තුනක්	NUM	O
+ඇතුළත	POST	O
+එලෙස	RB	O
+නීති	NNJ	O
+විරෝධී	JJ	O
+ආකාරයෙන්	NNC	O
+මෙරටට	NNC	O
+ගෙන	VNF	O
+ආ	VP	O
+රුපියල්	NNP	O
+ලක්ෂ	NUM	O
+දහයක්	NUM	O
+වටිනා	JJ	O
+බීඩි	NNP	O
+තොගයක්	NNC	O
+මන්නාරමේ	NNP	B-LOC
+පොලිසීය	NNP	B-ORG
+විසින්	POST	O
+අත්අඩංගුවට	NNC	O
+ගෙන	VNF	O
+රේගුව	NNC	B-ORG
+වෙත	POST	O
+භාරදී	VNF	O
+ඇතැයි	NIP	O
+ද	RP	O
+එම	DET	O
+පුවත්පත	NNC	O
+තවදුරටත්	RB	O
+හෙළි	RRPCV	O
+කර	VNF	O
+ඇත	NIP	O
+.	FS	O
+එහෙත්	CC	O
+එසේ	RB	O
+රේගුව	NNC	B-ORG
+භාරයට	NNC	O
+ගැනෙන	VP	O
+නීතිවිරෝධී	JJ	O
+භාණ්ඩ	NNJ	O
+ආරක්ෂාකාරීව	NNC	O
+තැබීමට	VNN	O
+අවශ්‍ය	JJ	O
+පහසුකම්	NNC	O
+මන්නාරමේ	NNP	B-LOC
+නැති	NIP	O
+හෙයින්	POST	O
+එම	DET	O
+භාණ්ඩ	NNC	O
+කොළඹට	NNP	B-LOC
+යැවෙන	VP	O
+බව	POST	O
+ද	RP	O
+වාර්තාවේ	VFM	O
+.	FS	O
+දන්ත	JJ	O
+ධාතූන්	NNC	O
+වැඳ	VNF	O
+පුදා	VNF	O
+ගනී	VFM	O
+දෙමළ	NNP	B-ORG
+එක්සත්	NNP	I-ORG
+විමුක්ති	NNP	I-ORG
+පෙරමුණේ	NNP	I-ORG
+නායක	NNC	O
+හා	CC	O
+හිටපු	JJ	O
+පාර්ලිමේන්තු	NNJ	O
+මන්ත්‍රීවරයකු	NNC	O
+ද	RP	O
+වන	VP	O
+වී.	ABB	B-PER
+ආනන්ද	NNP	I-PER
+සංගරී	NNP	I-PER
+මහතා	NNC	O
+පසුගිය	VP	O
+දිනක	NNC	O
+මහනුවර	NNP	B-LOC
+ශ්‍රී	NNP	I-LOC
+දළදා	NNP	I-LOC
+මාළිගය	NNC	I-LOC
+වෙත	POST	O
+ගොස්	VNF	O
+දන්තධාතූන්	NNC	O
+වහන්සේ	NNC	O
+වැඳපුදාගත්	VP	O
+බව	POST	O
+වාර්තා	NCV	O
+වේ	VFM	O
+.	FS	O
+මේ	DET	O
+දිනවල	NNC	O
+පැවැත්වෙන	VP	O
+දළදා	NNJ	O
+ප්‍රදර්ශනයට	NNC	O
+සංගරී	JJ	B-PER
+මහතා	NNC	O
+සහභාගි	RRPCV	O
+වී	VNF	O
+ඇත්තේ	NIP	O
+මධ්‍යම	JJ	B-LOC
+පළාත්	NNJ	I-LOC
+ප්‍රධාන	JJ	O
+අමාත්‍ය	NNC	O
+වසන්ත	NNP	B-PER
+අළුවිහාරේ	NNP	I-PER
+මහතා	NNC	O
+සමගිනි	POST	O
+.	FS	O
+දළදා	NNC	O
+ප්‍රදර්ශනය	NCV	O
+නැරඹීම	VNN	O
+සඳහා	POST	O
+ජපාන	NNP	B-LOC
+,	PUNC	O
+තායිලන්ත	NNP	B-LOC
+,	PUNC	O
+චීන	NNP	B-LOC
+,	PUNC	O
+සිංගප්පූරු	NNP	B-LOC
+,	PUNC	O
+බුරුමය	NNP	B-LOC
+,	PUNC	O
+මැලේසියාව	NNP	B-LOC
+,	PUNC	O
+කොරියාව	NNP	B-LOC
+යන	VP	O
+රටවල	NNC	O
+වැසියන්	NNC	O
+ද	RP	O
+විශාල	JJ	O
+වශයෙන්	POST	O
+පැමිණෙන	VP	O
+බවත්	POST	O
+වීරකේසරී	JJ	B-ORG
+පුවත්පත	NNC	O
+වාර්තා	NCV	O
+කර	VNF	O
+තිබුණි	VFM	O
+.	FS	O
+ඔබට	PRP	O
+ලැබුණු	VP	O
+ජනවරමට	NNC	O
+යුක්තිය	NNC	O
+ඉටුකරන්න	VNN	O
+ප්‍රභාකරන්	NNP	B-PER
+මැතිවරණයේ	NNC	O
+දී	RP	O
+ජනතාව	NNC	O
+ලබා	VNF	O
+දුන්	VP	O
+ජනවරමට	NNC	O
+යුක්තිය	NNC	O
+ඉටු	RPCV	O
+කිරීම	VNN	O
+සඳහා	POST	O
+ක්‍රියා	NCV	O
+කළ	VP	O
+යුතු	AUX	O
+බවත්	POST	O
+,	PUNC	O
+ජනතාව	NNC	O
+අතරට	POST	O
+ගොස්	VNF	O
+ඒ	DET	O
+ජනතාව	NNC	O
+සමඟ	POST	O
+එක්ව	VNF	O
+ක්‍රියා	NCV	O
+කළ	VP	O
+යුතු	AUX	O
+බවත්	POST	O
+කොටි	NNP	O
+නායක	NNC	O
+වේළුපිල්ලේ	NNP	B-PER
+ප්‍රභාකරන්	NNP	I-PER
+කියයි	VFM	O
+.	FS	O
+ජනතාවට	NNC	O
+දුන්	VP	O
+පොරොන්දු	NNC	O
+ඉටු	RPCV	O
+කිරීම	VNN	O
+සඳහා	POST	O
+සාමුහිකව	RB	O
+ක්‍රියා	NCV	O
+කළ	VP	O
+යුතු	AUX	O
+බවත්	POST	O
+,	PUNC	O
+නැගෙනහිර	NNP	B-LOC
+පළාතේ	NNC	O
+ඇතිවූ	VP	O
+නොසන්සුන්තාව	NNC	O
+හේතුවන්	POST	O
+ශෝකයටත්	NNC	O
+පීඩාවටත්	NNC	O
+පත්ව	VNF	O
+සිටින	VP	O
+ජනතාව	NNC	O
+හමුවී	VNF	O
+ඔවුන්ව	PRP	O
+අස්වසාලීම	VNN	O
+සඳහා	POST	O
+දෙමළ	NNP	B-ORG
+ජාතික	JJ	I-ORG
+සන්ධානයේ	NNC	I-ORG
+පාර්ලිමේන්තු	NNJ	O
+මන්ත්‍රීවරුන්	NNC	O
+විසිදෙදෙනා	NUM	O
+ම	RP	O
+නැගෙනහිර	NNP	B-LOC
+ගොස්	VNF	O
+එම	DET	O
+ජනතාවගේ	NNC	O
+දුක	NNC	O
+සැප	NNC	O
+සොයා	VNF	O
+බැලිය	VP	O
+යුතු	AUX	O
+බවත්	POST	O
+කොටි	NNP	O
+නායක	NNC	O
+වේළුපිල්ලේ	NNP	B-PER
+ප්‍රභාකරන්	NNP	I-PER
+පසුගියදා	NNC	O
+ඔහු	PRP	O
+හමුවූ	VP	O
+දෙමළ	NNP	B-ORG
+ජාතික	JJ	I-ORG
+සන්ධානයේ	NNC	I-ORG
+නියෝජිතයන්ට	NNC	O
+පවසා	VNF	O
+ඇතැයි	NIP	O
+වීරකේසරී	JJ	B-ORG
+පුවත්පත	NNC	O
+වාර්තා	NCV	O
+කරයි	VFM	O
+.	FS	O
+කොටි	JJ	O
+මැතිවරණ	NNJ	O
+නිරීක්ෂකයනට	NNC	O
+අප්‍රිකානු	NNP	B-ORG
+කොංග්‍රසයෙන්	NNC	I-ORG
+පැසසුම්	NNC	O
+දකුණු	NNP	B-LOC
+අප්‍රිකාවේ	NNP	I-LOC
+පැවැති	VP	O
+මහ	JJ	O
+මැතිවරණය	NNC	O
+සාමකාමි	JJ	O
+හා	CC	O
+සාධාරණ	JJ	O
+මැතිවරණයක්	NNC	O
+බවට	POST	O
+පත්වීමෙහිලා	NNP	O
+කොටි	NNP	O
+සංවිධානයේ	NNC	O
+උසස්	JJ	O
+නිරීක්ෂණය	NNC	O
+බෙහෙවින්	RP	O
+ඉවහල්	JCV	O
+වූ	VP	O
+බව	POST	O
+එම	DET	O
+මැතිවරණයෙන්	NNC	O
+විශිෂ්ට	JJ	O
+ජයග්‍රහණයක්	NNC	O
+අත්කර	VNF	O
+ගත්	VP	O
+අප්‍රිකානු	NNP	B-ORG
+ජාතික	NNP	I-ORG
+කොංග්‍රසය	NNP	I-ORG
+ප්‍රසංසා	NNC	O
+කළ	VP	O
+බව	POST	O
+වීරකේසරී	JJ	B-ORG
+පුවත්පත	NNC	O
+කියයි	VFM	O
+.	FS	O
+එම	DET	O
+නිරීක්ෂණ	NNJ	O
+කටයුතු	NNC	O
+සඳහා	POST	O
+කොටි	NNP	O
+සාම	JJ	O
+ලේකම්	NNJ	O
+පුලිදේවන්	NNC	B-PER
+ඇතුළු	POST	O
+කොටි	JJ	O
+නියෝජිතයන්	NNC	O
+පස්දෙනෙකුගෙන්	NNC	O
+යුත්	POST	O
+කණ්ඩායමක්	NNC	O
+සහභාගි	RRPCV	O
+විය	VFM	O
+.	FS	O
+නිරීක්ෂණ	NNJ	O
+කටයුතු	NNC	O
+අවසන්	JCV	O
+කර	VNF	O
+අප්‍රිකානු	NNP	B-LOC
+මාධ්‍ය	NNC	O
+වෙත	POST	O
+අදහස්	NCV	O
+දක්වා	VNF	O
+ඇති	NIP	O
+පුලිදේවන්	NNC	B-PER
+"			PUNC
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+මැතිවරණ	NNJ
+කිසිවිටෙකත්	RB
+සාමකාමී	JJ
+හා			CC
+සාධාරණ	JJ
+ආකාරයෙන්	NNC
+නොපැවැත්වෙන	VP
+බවත්		POST
+,			PUNC
+ප්‍රචණ්ඩ	JJ
+මැතිවරණ	NNJ
+සංස්කෘතියක්	NNC
+ශ්‍රී		NNP
+ලංකාවේ	NNP
+දේශපාලනඥයන්	NNC
+විසින්	POST
+නිර්මාණය	NCV
+කර			VNF
+ඇති		NIP
+බවත්		POST
+,			PUNC
+අප්‍රිකාවේ	NNP
+පැවැති	VP
+සාමකාමී	JJ
+හා			CC
+සාධාරණ	JJ
+මැතිවරණය	NNC
+ලෝකයට		NNC
+ආදර්ශයක්	NNC
+බවත්		POST
+ප්‍රකාශ	NCV
+කර			VNF
+ඇත			NIP
+.			FS
+අවුරුදු	JJ
+සති		NNJ
+අන්තයේ	NNC
+කොමර්ෂල්	NNP
+බැංකු		NNC
+ඒ			ABB
+ටී			ABB
+එම්		ABB
+යන්ත්‍රවලින්	NNC
+මිලියන	NUM
+625ක්		NNC
+ගෙවයි		VFM
+අප්‍රේල්	NNP
+මස			NNC
+පැවැති	VP
+දින		NNC
+5ක			NUM
+අවුරුදු	NNC
+සති		NNJ
+අන්තය		NNC
+තුළ		POST
+කොමර්ෂල්	NNP
+බැංකුවේ	NNC
+ඒ			DET
+ටී			ABB
+එම්		ABB
+ජාලයට		NNC
+සම්බන්ධ	POST
+යන්ත්‍ර	NNC
+170			NUM
+මඟින්		POST
+රුපියල්	NNP
+මිලියන	NUM
+625ක			NUM
+මුදලක්	NNC
+ආපසු		POST
+ගෙවා		VNF
+ඇති		NIP
+බව			POST
+එම			DET
+බැංකුව	NNC
+පවසයි		VFM
+.			FS
+කොමර්ෂල්	NNP
+බැංකුවේ	NNC
+නියෝජ්‍ය	JJ
+සාමාන්‍යාධිකාරි	NNC
+(			PUNC
+පුද්ගල	JJ
+බැංකු		NNJ
+කටයුතු	NNC
+)			PUNC
+රවි		NNP
+ඩයස්		NNP
+මහතා		NNC
+පවසන		VP
+අන්දමට	POST
+මෙම		DET
+කාලය		NNC
+තුළ		POST
+මුදල්		NNC
+ආපසු		POST
+ගැනීම්	VNN
+151			NUM
+,			PUNC
+000කට		NUM
+ආසන්න		JJ
+සංඛ්‍යාවක්	NNC
+සිදුවී	VNF
+ඇති		NIP
+අතර		POST
+අධික		JJ
+ලෙස		POST
+භාවිතය	NNC
+නිසා		POST
+ඒ			ABB
+ටී			ABB
+එම්		ABB
+වැඩි		JJ
+ප්‍රමාණයකට	NNC
+කිහිපවතාවක්	NNC
+ම			RP
+මුදල්		NNC
+ඇතුළත්	JCV
+කිරීමට	VNN
+ද			RP
+සිදුවී	VNF
+ඇත			NIP
+.			FS
+වෙනත්		DET
+බැංකුවල	NNC
+කාඩ්පත්	NNC
+හිමියන්	NNC
+මෙන්ම		POST
+දේශීය		JJ
+හා			CC
+විදේශීය	JJ
+කාඩ්පත්	NNC
+හිමියන්	NNC
+ද			RP
+මෙම		DET
+වාර්තාගත	JJ
+මුදල්		NNC
+ආපසු		POST
+ගැනීම		VNN
+සඳහා		POST
+දායක		RPCV
+වී			VNF
+ඇත			NIP
+.			FS
+මෙයට		PRP
+අමතරව		POST
+කැට්		NNP
+කාඩ්පත්	NNC
+හිමියන්	NNC
+විසින්	POST
+කර			VNF
+ඇති		NIP
+ශේෂය		NNC
+පරීක්ෂා	NCV
+කිරීම්	VNN
+සංඛ්‍යාව	NNC
+සහ			CC
+ඉල්ලුම්	NCV
+කරන		VP
+ලද			VP
+කෙටි		JJ
+බැංකු		NNJ
+ප්‍රකාශන	NNJ
+සංඛ්‍යාව	NNC
+48			NUM
+,			PUNC
+000කි		NUM
+.			PUNC
+170ක			NUM
+ඒ			ABB
+ටී			ABB
+එම්		ABB
+සංඛ්‍යාවකින්	NNC
+සමන්විත	POST
+වූ			VP
+කොමර්ෂල්	NNP
+බැංකු		NNC
+ඒ			ABB
+ටී			ABB
+එම්		ABB
+ජාලය		NNC
+දිවයිනේ	NNC
+විශාලතම	JJ
+ජාලය		NNC
+වීමත්		VNN
+,			PUNC
+බැංකුව	NNC
+විසින්	POST
+යොදා		VNF
+ගෙන		VNF
+ඇති		NIP
+සුපිරි	JJ
+තාක්ෂණයෙන්	NNC
+යන්ත්‍ර	NNC
+භාවිතාවේ	NNC
+මෙබඳු		POST
+ඉක්මන්	JJ
+වැඩිවීමක්	NNC
+ඇතිවීමට	VNN
+බලපෑ		VP
+ප්‍රධාන	JJ
+සාධක		NNC
+ලෙස		POST
+සැලකිය	VP
+හැකිය		AUX
+.			FS
+කොමර්ෂල්	NNP
+බැංකුව	NNP
+"	PUNC	O
+මාස්ටර්	NNP	O
+කාඩ්	NNJ	O
+ජාත්‍යන්තරය	NNC	O
+"			PUNC
+සමඟ		POST
+සම්බන්ධවී	VNF
+ඇති		NIP
+බැවින්	POST
+ලොව		NNC
+පුරා		POST
+විසිරුණු	VP
+ජාලයේ		NNC
+ඒ			ABB
+ටී			ABB
+එම්		ABB
+යන්ත්‍ර	NNC
+මිලියනයකට	NUM
+අධික		JJ
+සංඛ්‍යාවක්	NNC
+සමඟ		POST
+ගනුදෙනු	NCV
+කිරීමටත්	VNN
+,			PUNC
+මිලියන	NUM
+4ට			NUM
+අධික		JJ
+වෙළෙඳුන්	NNC
+සංඛ්‍යාවකගෙන්	NNC
+සමන්විත	POST
+"	PUNC	O
+වෙළෙඳ	JJ	O
+ජාලයෙන්	NNC	O
+භාණ්ඩ	NNC	O
+මිලදී	VNF	O
+ගැනීමටත්	VNN	O
+කැට්	NNP	O
+කාඩ්පත්	NNC	O
+හිමියන්ට	NNC	O
+හැකියාව	NNC	O
+ලැබී	VNF	O
+ඇත	NIP	O
+.	FS	O
